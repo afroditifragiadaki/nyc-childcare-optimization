@@ -1,0 +1,15 @@
+{
+  "total_cost": 166924983.3198276,
+  "C_exp": 62116283.319827594,
+  "C_build": 70175000.0,
+  "C_equip": 34633700.0,
+  "expansion_slots_05": 224675.0,
+  "expansion_slots_512": 3.0,
+  "new_facs_S": 1.0,
+  "new_facs_M": 2.0,
+  "new_facs_L": 608.0,
+  "new_build_slots_05": 121662.0,
+  "new_build_slots_512": 0.0,
+  "facilities_cheap_tier": 7433,
+  "facilities_exp_tier": 306
+}
