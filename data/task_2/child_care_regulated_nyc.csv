@@ -1,30 +1,30 @@
 facility_id,program_type,facility_status,facility_name,city,zipcode,school_district_name,infant_capacity,toddler_capacity,preschool_capacity,school_age_capacity,children_capacity,total_capacity,latitude,longitude
 51349,FDC,Registration,"Valerio, Gladys",Bronx,10474,Bronx 8,0,0,0,0,6,6,40.818399,-73.888816
 73544,SACC,Registration,YMCA OF GREATER NY,New York,10017,Manhattan 2,0,0,0,60,0,60,40.753216,-73.970794
-108407,GFDC,License,"Almond Tree Group Family Day Care, LLC",Brooklyn,11225,Brooklyn 17,0,0,0,4,12,16,40.6628,-73.9546
-111953,GFDC,License,"Williams, Petal",Brooklyn,11226,Brooklyn 22,0,0,0,4,12,16,40.6467,-73.957
+108407,GFDC,License,"Almond Tree Group Family Day Care, LLC",Brooklyn,11225,Brooklyn 17,0,0,0,4,12,16,40.6449917,-74.0189615
+111953,GFDC,License,"Williams, Petal",Brooklyn,11226,Brooklyn 22,0,0,0,4,12,16,40.6460498,-74.00911719999999
 126425,GFDC,License,"Hernandez, Lidia",Bronx,10465,Bronx 8,0,0,0,0,12,12,40.841228,-73.823572
 234238,GFDC,License,"Navedo, Edith",Bronx,10469,Bronx 11,0,0,0,4,12,16,40.865752,-73.847882
 250057,SACC,Registration,KIPS BAY BOYS & GIRLS CLUB,BRONX,10473,Bronx 8,0,0,0,240,0,240,40.819564,-73.848827
 269090,SACC,Registration,Precious Moments After School #2,Maspeth,11378,Queens 24,0,0,0,15,0,15,40.721854,-73.903974
 274852,GFDC,License,"Fernandez, Luz",Bronx,10460,Bronx 11,0,0,0,0,12,12,40.839556,-73.868169
-333723,GFDC,License,"Bahar, Yaffa",Flushing,11367,Queens 25,0,0,0,4,12,16,40.728,-73.8195
-340346,GFDC,License,"Dundas, Deon",Rosedale,11422,Queens 29,0,0,0,4,12,16,40.6621,-73.7353
+333723,GFDC,License,"Bahar, Yaffa",Flushing,11367,Queens 25,0,0,0,4,12,16,40.7353505,-73.7481038
+340346,GFDC,License,"Dundas, Deon",Rosedale,11422,Queens 29,0,0,0,4,12,16,40.6575584,-73.7330753
 349917,GFDC,License,"Seda, Lucy",BRONX,10452,Bronx 9,0,0,0,0,10,10,40.830097,-73.921286
 386539,GFDC,License,"Rapalo, Edith",Bronx,10451,Bronx 9,0,0,0,0,12,12,40.82677,-73.925507
-436883,GFDC,License,"De La Cruz Diaz, Jose",BRONX,10452,Bronx 9,0,0,0,4,12,16,40.8376,-73.9216
+436883,GFDC,License,"De La Cruz Diaz, Jose",BRONX,10452,Bronx 9,0,0,0,4,12,16,40.8457433,-73.9096248
 500895,GFDC,License,Princess Play Pen,Bronx,10473,Bronx 8,0,0,0,4,12,16,40.820518,-73.854203
-503056,GFDC,License,Little Sunshine Family Group Daycare Corp.,Bronx,10456,Bronx 9,0,0,0,4,12,16,40.8316,-73.9099
-551979,GFDC,License,MY LITTLE TIGER CORPORATION,Elmhurst,11373,Queens 24,0,0,0,4,12,16,40.7351,-73.8776
+503056,GFDC,License,Little Sunshine Family Group Daycare Corp.,Bronx,10456,Bronx 9,0,0,0,4,12,16,40.8370177,-73.9141439
+551979,GFDC,License,MY LITTLE TIGER CORPORATION,Elmhurst,11373,Queens 24,0,0,0,4,12,16,40.7475537,-73.8792119
 597006,FDC,Registration,"Diaz, Luz",Bronx,10460,Bronx 12,0,0,0,0,6,6,40.844991,-73.884606
 620002,GFDC,License,"Dou, Anthony",Fresh Meadows,11366,Queens 26,0,0,0,4,12,16,40.735085,-73.775096
 624233,SACC,Registration,"Directions For Our Youth, Inc.",Bronx,10462,Bronx 11,0,0,0,245,0,245,40.84489,-73.858149
-641317,GFDC,License,"THE SENSORY STOP TWO, INC",Bronx,10456,Bronx 9,0,0,0,4,12,16,40.8316,-73.9099
+641317,GFDC,License,"THE SENSORY STOP TWO, INC",Bronx,10456,Bronx 9,0,0,0,4,12,16,40.8447819,-73.8648268
 677764,SACC,Registration,Italian American Civil Rights League @MS 366,Brooklyn,11236,Brooklyn 19,0,0,0,180,0,180,40.647388,-73.891883
 689575,SACC,Registration,"SCAN-Harbor, Inc.",New York,10035,Manhattan 5,0,0,0,40,0,40,40.8071,-73.936369
 699643,GFDC,License,"David, Richard",Bronx,10467,Bronx 10,0,0,0,4,12,16,40.870249,-73.879746
-702394,GFDC,License,My First Steps Day Care DLB,Rego Park,11374,Queens 28,0,0,0,4,12,16,40.7278,-73.8602
-708508,GFDC,License,"Liang, Hong",Bayside,11364,Queens 26,0,0,0,4,12,16,40.7428,-73.7588
+702394,GFDC,License,My First Steps Day Care DLB,Rego Park,11374,Queens 28,0,0,0,4,12,16,40.72557219999999,-73.8624893
+708508,GFDC,License,"Liang, Hong",Bayside,11364,Queens 26,0,0,0,4,12,16,40.7602604,-73.7692026
 720363,SACC,Registration,"New York Edge, Inc.",Bronx,10469,Bronx 11,0,0,0,206,0,206,40.866987,-73.8508
 749905,SACC,Registration,Mosholu Montefiore Community Center,Bronx,10464,Bronx 11,0,0,0,40,0,40,40.843684,-73.784915
 781415,GFDC,License,Mn'M Kiddie Group LLC,Brooklyn,11211,Brooklyn 14,0,0,0,0,12,12,40.704553,-73.961388
@@ -39,8 +39,8 @@ facility_id,program_type,facility_status,facility_name,city,zipcode,school_distr
 886656,GFDC,License,"Huq, Mohammad",BRONX,10462,Bronx 11,0,0,0,4,12,16,40.831951,-73.851559
 888739,SACC,Registration,City of New York Parks & Recreation,bronx,10474,Bronx 8,0,0,0,80,0,80,40.814984,-73.889068
 894399,SACC,Registration,Roads to Success,Brooklyn,11234,Brooklyn 22,0,0,0,100,0,100,40.628558,-73.928246
-911887,GFDC,License,Montessori Playhouse Group Family Day Care,Ridgewood,11385,Queens 24,0,0,0,4,12,16,40.7036,-73.8961
-794470,FDC,Registration,"Kimpson, Debra",Jamaica,11434,Queens 28,0,0,0,2,6,8,40.6775,-73.7758
+911887,GFDC,License,Montessori Playhouse Group Family Day Care,Ridgewood,11385,Queens 24,0,0,0,4,12,16,40.6989789,-73.8991056
+794470,FDC,Registration,"Kimpson, Debra",Jamaica,11434,Queens 28,0,0,0,2,6,8,40.7037439,-73.7991953
 568414,GFDC,License,CATERPILLAR EARLY LEARNING DAYCARE INC.,Bronx,10463,Bronx 10,0,0,0,4,12,16,40.877149,-73.909284
 618944,GFDC,License,Wee Bee Kidz Inc,Brooklyn,11233,Brooklyn 16,0,0,0,4,12,16,40.684625,-73.924133
 840230,GFDC,License,Daycare by the Sea,Far Rockaway,11691,Queens 27,0,0,0,4,12,16,40.595291,-73.761357
@@ -71,7 +71,7 @@ facility_id,program_type,facility_status,facility_name,city,zipcode,school_distr
 732829,GFDC,License,"Rowe, Cynthia",Cambria Heights,11411,Queens 29,0,0,0,4,12,16,40.695873,-73.734437
 449081,GFDC,License,"Mc Keown, Catherine",Brooklyn,11231,Brooklyn 15,0,0,0,4,12,16,40.680565,-73.993092
 754427,SACC,Registration,"DIRECTIONS FOR  OUR YOUTH, INC",BRONX,10456,Bronx 9,0,0,0,53,0,53,40.835578,-73.90729
-434252,FDC,Registration,"Severino, Alexsa",Bronx,10452,Bronx 9,0,0,0,2,5,7,40.8376,-73.9216
+434252,FDC,Registration,"Severino, Alexsa",Bronx,10452,Bronx 9,0,0,0,2,5,7,40.8447819,-73.8648268
 378047,GFDC,License,Alistars Play Place,Brooklyn,11225,Brooklyn 17,0,0,0,4,12,16,40.66575,-73.955458
 125354,GFDC,License,"Pazmino De Chico, Piedad",Glendale,11385,Queens 24,0,0,0,4,12,16,40.69585,-73.891985
 573635,GFDC,License,BLUE STAR GROUP NETWORK INC,Bronx,10468,Bronx 10,0,0,0,4,12,16,40.875861,-73.886327
@@ -129,7 +129,7 @@ facility_id,program_type,facility_status,facility_name,city,zipcode,school_distr
 150676,FDC,Registration,"Spruill, Lorna",Springfield Gardens,11434,Queens 29,0,0,0,2,6,8,40.675663,-73.7651
 549304,GFDC,License,"Mejia, Joselin",Bronx,10451,Bronx 7,0,0,0,4,12,16,40.822662,-73.912646
 770510,GFDC,License,America's Group Family Day Care Corp.,East Elmhurst,11370,Queens 30,0,0,0,4,12,16,40.759672,-73.886886
-831460,GFDC,License,"Tshuva, Farekho",Flushing,11367,Queens 25,0,0,0,4,12,16,40.728,-73.8195
+831460,GFDC,License,"Tshuva, Farekho",Flushing,11367,Queens 25,0,0,0,4,12,16,40.7647238,-73.8306716
 709769,SACC,Registration,"Police Athletic League, Inc",Bronx,10457,Bronx 10,0,0,0,257,0,257,40.848415,-73.892923
 882466,GFDC,License,"Astacio De Rodriguez, Catherine",Bronx,10452,Bronx 9,0,0,0,4,12,16,40.841468,-73.913847
 736108,SACC,Registration,Woodmere Day Care Center Inc.,Brooklyn,11218,Brooklyn 20,0,0,0,13,0,13,40.631467,-73.977107
@@ -189,7 +189,7 @@ facility_id,program_type,facility_status,facility_name,city,zipcode,school_distr
 844004,GFDC,License,Kiddo's Club Daycare Inc,Bronx,10465,Bronx 8,0,0,0,4,12,16,40.828826,-73.824784
 863815,GFDC,License,NEW START FAMILY GROUP DAY CARE LLC,BRONX,10452,Bronx 9,0,0,0,4,12,16,40.838582,-73.925661
 702707,GFDC,License,"Distler, Maria",New York,10024,Manhattan 3,0,0,0,4,12,16,40.787222,-73.97354
-227535,GFDC,License,"Campbell, Susan",Brooklyn,11210,Brooklyn 22,0,0,0,4,12,16,40.6281,-73.9467
+227535,GFDC,License,"Campbell, Susan",Brooklyn,11210,Brooklyn 22,0,0,0,4,12,16,40.6933449,-73.99097069999999
 675147,GFDC,License,"Ettedgui, Mirla",Bronx,10472,Bronx 12,0,0,0,4,12,16,40.829269,-73.881397
 640154,GFDC,License,"Santos, Kandys",Bronx,10458,Bronx 10,0,0,0,4,12,16,40.852224,-73.885987
 615697,GFDC,License,"Lema, Gicela",Astoria,11102,Queens 30,0,0,0,4,12,16,40.770489,-73.931268
@@ -256,7 +256,7 @@ facility_id,program_type,facility_status,facility_name,city,zipcode,school_distr
 383087,GFDC,License,"Koroma, Hawa",Brooklyn,11225,Brooklyn 17,0,0,0,2,12,14,40.665786,-73.958547
 810401,GFDC,License,Miles Of Giggles Inc,Bronx,10458,Bronx 10,0,0,0,4,12,16,40.867312,-73.885066
 761308,GFDC,License,Community Daycare Services Inc.,BRONX,10459,Bronx 12,0,0,0,4,12,16,40.829893,-73.898116
-646240,FDC,Registration,"Thompson, Pamela",St. Albans,11412,Queens 29,0,0,0,2,6,8,40.6958,-73.7617
+646240,FDC,Registration,"Thompson, Pamela",St. Albans,11412,Queens 29,0,0,0,2,6,8,40.6895283,-73.76436880000001
 467968,GFDC,License,SMERF FAMILY DAY CARE,OZONE PARK,11417,Queens 27,0,0,0,4,12,16,40.681173,-73.844189
 875253,GFDC,License,"MS. SYLVIA'S PRECIOUS MOMENTS, LLC",Bronx,10455,Bronx 8,0,0,0,4,12,16,40.816224,-73.899505
 388051,GFDC,License,"Jones, Patricia",Far Rockaway,11691,Queens 27,0,0,0,2,12,14,40.594938,-73.754993
@@ -268,10 +268,10 @@ facility_id,program_type,facility_status,facility_name,city,zipcode,school_distr
 788446,GFDC,License,"Vasquez, Maria",Bronx,10457,Bronx 10,0,0,0,4,12,16,40.852495,-73.893618
 828741,GFDC,License,MUND0 DE COLORES CORP.,Brooklyn,11208,Queens 27,0,0,0,2,12,14,40.6815,-73.865764
 743353,SACC,Registration,Maspeth Town Hall @ PS 58,Maspeth,11378,Queens 24,0,0,0,200,0,200,40.728777,-73.890321
-772352,GFDC,License,"Tabares, Maria",Long Island City,11106,Queens 30,0,0,0,4,12,16,40.7608,-73.9295
+772352,GFDC,License,"Tabares, Maria",Long Island City,11106,Queens 30,0,0,0,4,12,16,40.744679,-73.9485424
 763710,GFDC,License,"Duncan, Regina",Bronx,10473,Bronx 8,0,0,0,2,12,14,40.821678,-73.85916
 654100,GFDC,License,Divino Nino Day Care,New York,10040,Manhattan 6,0,0,0,4,12,16,40.853804,-73.929245
-763413,GFDC,License,Let's Have Fun Corp,Bronx,10469,Bronx 11,0,0,0,2,12,14,40.8702,-73.8495
+763413,GFDC,License,Let's Have Fun Corp,Bronx,10469,Bronx 11,0,0,0,2,12,14,40.8783,-73.859216
 73557,SACC,Registration,The Chinese Methodist Center Corp.,New York,10002,Manhattan 2,0,0,0,141,0,141,40.712202,-73.996677
 534680,GFDC,License,"Rivas, Saida",Bronx,10452,Bronx 9,0,0,0,0,10,10,40.830935,-73.922774
 70653,FDC,Registration,"Tain, Janet",Brooklyn,11205,Brooklyn 13,0,0,0,2,6,8,40.687769,-73.97291
@@ -411,7 +411,7 @@ facility_id,program_type,facility_status,facility_name,city,zipcode,school_distr
 429815,GFDC,License,"Gonzalez, Milagros",New York,10032,Manhattan 6,0,0,0,4,12,16,40.842577,-73.937004
 643534,GFDC,License,Ligia Grupo De Angeles LLC,Bronx,10451,Bronx 9,0,0,0,4,12,16,40.82677,-73.925507
 508078,GFDC,License,"Walsh, Suzette",New York,10032,Manhattan 6,0,0,0,4,12,16,40.82972,-73.940374
-655724,GFDC,License,Child Care By Rebecca Inc.,Glendale,11385,Queens 24,0,0,0,0,10,10,40.7036,-73.8961
+655724,GFDC,License,Child Care By Rebecca Inc.,Glendale,11385,Queens 24,0,0,0,0,10,10,40.7034368,-73.8652228
 768444,SACC,Registration,South Bronx Overall Economic Development Corp.,BRONX,10459,Bronx 12,0,0,0,74,0,74,40.827359,-73.898668
 687974,GFDC,License,"Martinez, Fineta",Bronx,10468,Bronx 10,0,0,0,0,12,12,40.870278,-73.902682
 730725,GFDC,License,"Vega, Valina",Brooklyn,11210,Brooklyn 22,0,0,0,4,12,16,40.637465,-73.956329
@@ -437,7 +437,7 @@ facility_id,program_type,facility_status,facility_name,city,zipcode,school_distr
 364597,SACC,Registration,Yeshiva Kehilath Yakov,Brooklyn,11219,Brooklyn 15,0,0,0,214,0,214,40.640175,-73.99775
 72417,GFDC,License,"Windham, Teresa",Laurelton,11413,Queens 29,0,0,0,4,12,16,40.682718,-73.741046
 103325,GFDC,License,Princess Mahon,Staten Island,10305,Richmond 31,0,0,0,4,12,16,40.593818,-74.063508
-446421,GFDC,License,"Terrero, Maria",Bronx,10466,Bronx 11,0,0,0,2,12,14,40.8904,-73.8503
+446421,GFDC,License,"Terrero, Maria",Bronx,10466,Bronx 11,0,0,0,2,12,14,40.8993568,-73.8723435
 635927,GFDC,License,"Butt, Arif",Staten Island,10301,Richmond 31,0,0,0,4,12,16,40.64352,-74.083541
 573931,GFDC,License,JARDIN DE JUEGO CORP,Brooklyn,11220,Brooklyn 15,0,0,0,4,12,16,40.645055,-74.019009
 592074,GFDC,License,"Robinson, Treshawna",Brooklyn,11221,Brooklyn 32,0,0,0,4,12,16,40.694979,-73.922733
@@ -536,7 +536,7 @@ facility_id,program_type,facility_status,facility_name,city,zipcode,school_distr
 214007,GFDC,License,"Yakubov, Svetlana",Forest  Hills,11375,Queens 24,0,0,0,2,10,12,40.73528,-73.852809
 780805,GFDC,License,"Severino, Felix",Bronx,10468,Bronx 10,0,0,0,4,12,16,40.864004,-73.898479
 672812,GFDC,License,"Odige, Magda",Brooklyn,11234,Brooklyn 18,0,0,0,4,12,16,40.636066,-73.924047
-783176,GFDC,License,"Peralta, Eileen",Bronx,10468,Bronx 10,0,0,0,4,12,16,40.8662,-73.9003
+783176,GFDC,License,"Peralta, Eileen",Bronx,10468,Bronx 10,0,0,0,4,12,16,40.84551889999999,-73.84549009999999
 535618,GFDC,License,Zachery's Day Care Inc.,Queens,11106,Queens 30,0,0,0,4,12,16,40.756484,-73.926308
 764256,GFDC,License,"Fall, Fatou",New York,10026,Manhattan 3,0,0,0,4,12,16,40.803558,-73.957717
 124413,SACC,Registration,"Candy Kid's Day Care, LLC",Brooklyn,11226,Brooklyn 17,0,0,0,25,0,25,40.65079,-73.947208
@@ -547,7 +547,7 @@ facility_id,program_type,facility_status,facility_name,city,zipcode,school_distr
 837880,GFDC,License,MISS JELYN LEARNING TREE INC.,Bronx,10457,Bronx 9,0,0,0,4,12,16,40.845861,-73.906436
 704694,GFDC,License,Xitlieli Family Group Day Care Inc.,Bronx,10455,Bronx 7,0,0,0,4,12,16,40.814256,-73.908904
 357777,GFDC,License,Miracle Care Family Group Day Care,Bronx,10452,Bronx 9,0,0,0,2,12,14,40.846415,-73.917809
-847361,GFDC,License,"Waxman, Yocheved",Flushing,11367,Queens 25,0,0,0,4,12,16,40.728,-73.8195
+847361,GFDC,License,"Waxman, Yocheved",Flushing,11367,Queens 25,0,0,0,4,12,16,40.7647238,-73.8306716
 817838,GFDC,License,"Gomez De Heredia, Serfa",Bronx,10459,Bronx 12,0,0,0,2,12,14,40.828638,-73.899011
 51722,FDC,Registration,"Mitchell-Mclaurin, Janice",New York,10002,Manhattan 2,0,0,0,0,6,6,40.712107,-73.992011
 689613,SACC,Registration,University Settlement Society @ Atlantic Terminal,Brooklyn,11238,Brooklyn 13,0,0,0,80,0,80,40.682795,-73.970628
@@ -556,7 +556,7 @@ facility_id,program_type,facility_status,facility_name,city,zipcode,school_distr
 449624,GFDC,License,"Happy Tots, LLC",Bronx,10454,Bronx 7,0,0,0,2,12,14,40.812261,-73.915854
 459796,GFDC,License,"Ortiz, Mayra",Bronx,10455,Bronx 7,0,0,0,4,12,16,40.814409,-73.909533
 610011,GFDC,License,"Delacruz, Apolonia",Brooklyn,11249,Brooklyn 14,0,0,0,4,12,16,40.713012,-73.964369
-297500,GFDC,License,LITTLE ANGEL'S LEARNING DAY CARE,South Ozone Park,11420,Queens 28,0,0,0,4,12,16,40.6744,-73.819
+297500,GFDC,License,LITTLE ANGEL'S LEARNING DAY CARE,South Ozone Park,11420,Queens 28,0,0,0,4,12,16,40.679135,-73.8164029
 219359,FDC,Registration,"Madera, Gloria",BRONX,10460,Bronx 10,0,0,0,2,6,8,40.845026,-73.881472
 716269,SACC,Registration,Riseboro Community Partnership Inc.,Brooklyn,11221,Brooklyn 32,0,0,0,80,0,80,40.70025,-73.928095
 166652,GFDC,License,"Ross, Dorothy",Rosedale,11422,Queens 29,0,0,0,4,12,16,40.652374,-73.746199
@@ -643,7 +643,7 @@ facility_id,program_type,facility_status,facility_name,city,zipcode,school_distr
 337507,GFDC,License,"Harper, Agatha",Brooklyn,11225,Brooklyn 17,0,0,0,0,12,12,40.660304,-73.949396
 244132,SACC,Registration,CAMBA Kidz Connection @ P.S. 249,BROOKLYN,11226,Brooklyn 17,0,0,0,193,0,193,40.649638,-73.966189
 764155,GFDC,License,"Hoffman, Ortal",Brooklyn,11225,Brooklyn 17,0,0,0,4,12,16,40.660618,-73.944697
-876401,GFDC,License,Watch Me Grow & Learn Daycare LLC.,St. Albans,11412,Queens 29,0,0,0,4,12,16,40.6958,-73.7617
+876401,GFDC,License,Watch Me Grow & Learn Daycare LLC.,St. Albans,11412,Queens 29,0,0,0,4,12,16,40.6895283,-73.76436880000001
 263816,GFDC,License,"Pacheco, Carmen",Bronx,10472,Bronx 12,0,0,0,4,12,16,40.830146,-73.866753
 346163,GFDC,License,"Happy Days Child Care, LLC",Astoria,11103,Queens 30,0,0,0,0,12,12,40.768766,-73.914127
 812072,SACC,Registration,ULTIMATE ENRICHMENT,Bronx,10465,Bronx 8,0,0,0,95,0,95,40.827038,-73.818645
@@ -770,7 +770,7 @@ facility_id,program_type,facility_status,facility_name,city,zipcode,school_distr
 840664,GFDC,License,"Suarez Santana, Valdivia",Bronx,10474,Bronx 8,0,0,0,2,12,14,40.816596,-73.885945
 729307,FDC,Registration,"Devers, Lucila",Bronx,10467,Bronx 11,0,0,0,2,6,8,40.868686,-73.866109
 744810,GFDC,License,NOAH'S ARK DAY CARE,Brooklyn,11234,Brooklyn 22,0,0,0,4,12,16,40.618078,-73.928929
-600748,GFDC,License,"Villegas, Minerva",Ridgewood,11385,Queens 24,0,0,0,4,12,16,40.7036,-73.8961
+600748,GFDC,License,"Villegas, Minerva",Ridgewood,11385,Queens 24,0,0,0,4,12,16,40.7043986,-73.9018292
 859493,GFDC,License,LENI LITTLE STEPS DAYCARE LLC,Bronx,10457,Bronx 10,0,0,0,4,12,16,40.856033,-73.900394
 255552,GFDC,License,"Nevels, Vincent",Staten Island,10310,Richmond 31,0,0,0,4,12,16,40.634145,-74.112311
 848194,GFDC,License,"Castellanos, Juana",Bronx,10457,Bronx 9,0,0,0,4,12,16,40.844101,-73.910171
@@ -786,7 +786,7 @@ facility_id,program_type,facility_status,facility_name,city,zipcode,school_distr
 427975,GFDC,License,"Philbert, Charmaine",Brooklyn,11203,Brooklyn 18,0,0,0,4,12,16,40.652094,-73.937979
 793914,GFDC,License,JOYFUL KIDS GROUP FAMILY DAYCARE CORP,Bronx,10468,Bronx 10,0,0,0,4,12,16,40.863579,-73.904163
 814479,SACC,Registration,"BronxWorks, Inc.",Bronx,10454,Bronx 7,0,0,0,90,0,90,40.806359,-73.921026
-695557,GFDC,License,LITTLE HEARTS GROUP FAMILY DAY CARE INC.,Elmhurst,11373,Queens 24,0,0,0,4,12,16,40.7351,-73.8776
+695557,GFDC,License,LITTLE HEARTS GROUP FAMILY DAY CARE INC.,Elmhurst,11373,Queens 24,0,0,0,4,12,16,40.73940350000001,-73.8779431
 814806,SACC,Registration,"Maspeth Town Hall, Inc. @ PS 330",Corona,11368,Queens 24,0,0,0,251,0,251,40.757694,-73.859143
 369613,GFDC,License,Gamma's House Inc.,Staten Island,10304,Richmond 31,0,0,0,4,12,16,40.619471,-74.081901
 458801,GFDC,License,"Reyes, Dilcia",Bronx,10468,Bronx 10,0,0,0,2,12,14,40.862001,-73.907067
@@ -928,7 +928,7 @@ facility_id,program_type,facility_status,facility_name,city,zipcode,school_distr
 602808,GFDC,License,"Gomez, Danisa",Bronx,10456,Bronx 9,0,0,0,4,12,16,40.833544,-73.918202
 273383,GFDC,License,Little Andy's Day Care II,Brooklyn,11236,Brooklyn 18,0,0,0,4,12,16,40.635763,-73.892189
 221078,GFDC,License,Maribel Day Care,Bronx,10461,Bronx 11,0,0,0,2,12,14,40.840232,-73.846164
-784766,GFDC,License,"Lupi De Gonzalez, Rut",Ridgewood,11385,Queens 24,0,0,0,4,12,16,40.7036,-73.8961
+784766,GFDC,License,"Lupi De Gonzalez, Rut",Ridgewood,11385,Queens 24,0,0,0,4,12,16,40.7043986,-73.9018292
 846657,GFDC,License,"Learning Three Child Care Group, Inc",New York,10030,Manhattan 5,0,0,0,4,12,16,40.819479,-73.938348
 258096,FDC,Registration,"Mcneill, Brenda",Arverne,11692,Queens 27,0,0,0,2,6,8,40.59342,-73.78399
 354965,GFDC,License,Toi's Tiny Tots Daycare,Brooklyn,11205,Brooklyn 14,0,0,0,4,12,16,40.69326,-73.95762
@@ -974,7 +974,7 @@ facility_id,program_type,facility_status,facility_name,city,zipcode,school_distr
 830834,GFDC,License,Your Group Family Day Care Corp,Staten Island,10303,Richmond 31,0,0,0,4,12,16,40.625315,-74.165552
 716794,FDC,Registration,"Wagner, Sophia",Bronx,10456,Bronx 9,0,0,0,2,6,8,40.829029,-73.913373
 760214,SACC,Registration,"A Place for Kids, Inc.",New York,10009,Manhattan 1,0,0,0,53,0,53,40.72622,-73.974919
-641655,GFDC,License,KAREN'S KIDDIE KORNER,Queens Village,11429,Queens 29,0,0,0,4,12,16,40.709,-73.7401
+641655,GFDC,License,KAREN'S KIDDIE KORNER,Queens Village,11429,Queens 29,0,0,0,4,12,16,40.7156628,-73.7419017
 772026,GFDC,License,Little Archers Group Family Daycare,Bronx,10460,Bronx 12,0,0,0,4,12,16,40.836123,-73.868324
 753672,SACC,Registration,SCAN-Harbor,Bronx,10452,Bronx 9,0,0,0,159,0,159,40.843363,-73.920445
 878680,SACC,Registration,Neighborhood Initiatives Development Corporation,Bronx,10462,Bronx 11,0,0,0,150,0,150,40.852577,-73.866446
@@ -1079,7 +1079,7 @@ facility_id,program_type,facility_status,facility_name,city,zipcode,school_distr
 620751,SACC,Registration,"Bergen Beach Youth Organization, Inc.",Brooklyn,11234,Brooklyn 22,0,0,0,160,0,160,40.621763,-73.908812
 742123,GFDC,License,Leah's Gan Inc.,Brooklyn,11219,Brooklyn 20,0,0,0,4,12,16,40.636324,-73.985478
 631799,GFDC,License,"Figuereo De Luna, Cruz",Bronx,10468,Bronx 10,0,0,0,2,12,14,40.866309,-73.902347
-785156,GFDC,License,"Darwish, Nicole",Elmhurst,11373,Queens 24,0,0,0,4,12,16,40.7351,-73.8776
+785156,GFDC,License,"Darwish, Nicole",Elmhurst,11373,Queens 24,0,0,0,4,12,16,40.73940350000001,-73.8779431
 838116,GFDC,License,"Ramos Sosa, Marianny",Bronx,10467,Bronx 11,0,0,0,0,12,12,40.869502,-73.863183
 267005,GFDC,License,"Smith Gray, Martha",Bronx,10458,Bronx 10,0,0,0,2,12,14,40.857449,-73.895557
 400051,GFDC,License,"De Leon, Claudina",Brooklyn,11221,Brooklyn 14,0,0,0,4,12,16,40.692257,-73.945154
@@ -1177,7 +1177,7 @@ facility_id,program_type,facility_status,facility_name,city,zipcode,school_distr
 640701,GFDC,License,NOEMI DAY CARE SERVICES INC.,Bronx,10468,Bronx 10,0,0,0,2,12,14,40.86416,-73.901488
 881129,GFDC,License,"Mccants, Tahilra",Brooklyn,11239,Brooklyn 19,0,0,0,4,12,16,40.648186,-73.880972
 232875,SACC,Registration,Harlem Children's Zone - PS 76,New York,10027,Manhattan 5,0,0,0,154,0,154,40.80665,-73.951129
-725404,GFDC,License,Salma's Group Family Daycare Inc.,Elmhurst,11373,Queens 24,0,0,0,4,12,16,40.7351,-73.8776
+725404,GFDC,License,Salma's Group Family Daycare Inc.,Elmhurst,11373,Queens 24,0,0,0,4,12,16,40.73940350000001,-73.8779431
 829418,SACC,Registration,"James, Clarisa",Laurelton,11413,Queens 29,0,0,0,52,0,52,40.67312,-73.743795
 868134,GFDC,License,Bella Bloom Daycare Inc.,New York,10040,Manhattan 6,0,0,0,4,12,16,40.854871,-73.933669
 72018,GFDC,License,Sandra Group Child Care Inc.,Bronx,10458,Bronx 10,0,0,0,4,12,16,40.870403,-73.887045
@@ -1185,7 +1185,7 @@ facility_id,program_type,facility_status,facility_name,city,zipcode,school_distr
 756200,GFDC,License,"Martinez, Ana",Bronx,10468,Bronx 10,0,0,0,4,12,16,40.864905,-73.90289
 813862,GFDC,License,"Montilla, Mairene",Bronx,10471,Bronx 10,0,0,0,4,12,16,40.909477,-73.896842
 850323,GFDC,License,"Jenkins, Sunshine",Bronx,10457,Bronx 10,0,0,0,4,12,16,40.849494,-73.886033
-755666,GFDC,License,"Burdier, Elaine",Woodhaven,11421,Queens 27,0,0,0,4,12,16,40.6913,-73.8585
+755666,GFDC,License,"Burdier, Elaine",Woodhaven,11421,Queens 27,0,0,0,4,12,16,40.6901366,-73.8566087
 863653,GFDC,License,"Delacruz, Stephanie",Bronx,10452,Bronx 9,0,0,0,4,12,16,40.838885,-73.918084
 819734,GFDC,License,GEO'S DAYCARE L.L.C.,Bronx,10453,Bronx 10,0,0,0,4,12,16,40.854902,-73.914447
 74213,SACC,Registration,RENAISSANCE AFTER SCHOOL PROGRAM PS 59,Bronx,10457,Bronx 10,0,0,0,314,0,314,40.853052,-73.89342
@@ -1208,7 +1208,7 @@ facility_id,program_type,facility_status,facility_name,city,zipcode,school_distr
 777181,GFDC,License,Smart Tots LLC,Staten Island,10305,Richmond 31,0,0,0,4,12,16,40.594367,-74.083959
 71826,GFDC,License,"Caceres, Carmen",Brooklyn,11226,Brooklyn 22,0,0,0,4,12,16,40.640363,-73.962086
 693209,GFDC,License,"BRIDEMAR DAYCARE, INC.",New York,10033,Manhattan 6,0,0,0,4,12,16,40.847889,-73.934993
-735042,GFDC,License,Hope of the Future 3 Corp.,Woodhaven,11421,Queens 27,0,0,0,4,12,16,40.6913,-73.8585
+735042,GFDC,License,Hope of the Future 3 Corp.,Woodhaven,11421,Queens 27,0,0,0,4,12,16,40.6901366,-73.8566087
 385942,GFDC,License,Spice Island Day Care,Brooklyn,11236,Brooklyn 18,0,0,0,4,12,16,40.635278,-73.915347
 520576,GFDC,License,ALMANZAR FAMILY GROUP DAYCARE CORP,Brooklyn,11207,Brooklyn 32,0,0,0,4,12,16,40.689003,-73.907529
 623678,GFDC,License,Precious Gems,Rosedale,11422,Queens 29,0,0,0,4,12,16,40.657515,-73.744147
@@ -1270,7 +1270,7 @@ facility_id,program_type,facility_status,facility_name,city,zipcode,school_distr
 333329,GFDC,License,"AKVAREL DAY CARE, CORP.",Brooklyn,11229,Brooklyn 22,0,0,0,4,12,16,40.603119,-73.945127
 122355,SACC,Registration,"Manhattan Youth Recreation and Resources, Inc.",New York,10282,Manhattan 2,0,0,0,269,0,269,40.716998,-74.01405
 781971,GFDC,License,Angel Faces Group Family Daycare LLC,Bronx,10451,Bronx 7,0,0,0,4,12,16,40.822807,-73.92437
-483724,GFDC,License,"Porter, Karen",BRONX,10473,Bronx 8,0,0,0,2,12,14,40.8194,-73.8606
+483724,GFDC,License,"Porter, Karen",BRONX,10473,Bronx 8,0,0,0,2,12,14,40.8447819,-73.8648268
 873556,GFDC,License,Rising Stars Daycare 3 LLC,Bronx,10461,Bronx 11,0,0,0,4,12,16,40.843456,-73.847819
 838021,GFDC,License,"Feliz Michel, Raymundo",Bronx,10457,Bronx 10,0,0,0,2,12,14,40.849118,-73.886323
 864059,SACC,Registration,Multicultural Youth Arts Program Inc.,Bayside,11364,Queens 26,0,0,0,120,0,120,40.736166,-73.75333
@@ -1282,7 +1282,7 @@ facility_id,program_type,facility_status,facility_name,city,zipcode,school_distr
 881479,SACC,Registration,New Settlement Apartments,Bronx,10452,Bronx 9,0,0,0,340,0,340,40.842601,-73.916238
 855186,SACC,Registration,After School All-Stars,New York,10027,Manhattan 5,0,0,0,240,0,240,40.811012,-73.956823
 748552,SACC,Registration,DREAM,New York,10029,Manhattan 4,0,0,0,290,0,290,40.789687,-73.944647
-590537,GFDC,License,Mundo Infantil,Corona,11368,Queens 24,0,0,0,2,12,14,40.7453,-73.8611
+590537,GFDC,License,Mundo Infantil,Corona,11368,Queens 24,0,0,0,2,12,14,40.7498329,-73.8612129
 629021,GFDC,License,"Villatoro-Cruz, Nerci",Bronx,10455,Bronx 7,0,0,0,0,8,8,40.816651,-73.904432
 520779,GFDC,License,"Gaspar, Oliva",Brooklyn,11205,Brooklyn 13,0,0,0,2,12,14,40.695723,-73.973911
 740727,GFDC,License,"Mercado, Analisa",Bronx,10471,Bronx 10,0,0,0,4,12,16,40.901499,-73.899553
@@ -1357,7 +1357,7 @@ facility_id,program_type,facility_status,facility_name,city,zipcode,school_distr
 709924,SACC,Registration,THE GREATER RIDGEWOOD YOUTH COUNCIL INC.,Flushing,11358,Queens 26,0,0,0,298,0,298,40.765161,-73.789884
 336037,GFDC,License,"A N A Little Clapper Precare, Inc.",St. Albans,11412,Queens 29,0,0,0,4,12,16,40.695255,-73.766867
 861047,GFDC,License,"Taylor, Catherine",Bronx,10467,Bronx 11,0,0,0,4,12,16,40.879577,-73.867577
-839227,GFDC,License,Gan Devorah Inc.,Flushing,11367,Queens 25,0,0,0,4,12,16,40.728,-73.8195
+839227,GFDC,License,Gan Devorah Inc.,Flushing,11367,Queens 25,0,0,0,4,12,16,40.754128,-73.8328976
 690389,GFDC,License,"Ferro, Rosa",Corona,11368,Queens 24,0,0,0,2,12,14,40.748212,-73.858933
 675329,GFDC,License,Maria's Happy Kids Day Care Corp.,New York,10034,Manhattan 6,0,0,0,2,12,14,40.866701,-73.917976
 689605,SACC,Registration,"Children's Art & Science Workshops, Inc. @ PS 18",New York,10034,Manhattan 6,0,0,0,126,0,126,40.87156,-73.911522
@@ -1383,7 +1383,7 @@ facility_id,program_type,facility_status,facility_name,city,zipcode,school_distr
 603017,GFDC,License,YoungerMusik Corp.,Brooklyn,11214,Brooklyn 20,0,0,0,4,12,16,40.602062,-74.002989
 808586,SACC,Registration,"Mosholu Montefiore Community Center, Inc",Bronx,10469,Bronx 11,0,0,0,140,0,140,40.864187,-73.836302
 700270,SACC,Pending Revocation and Denial,Creative Learning Clubhouse,Staten Island,10303,Richmond 31,0,0,0,20,0,20,40.631592,-74.148481
-793560,GFDC,License,"Isakova, Susanna",Rego Park,11374,Queens 28,0,0,0,4,12,16,40.7278,-73.8602
+793560,GFDC,License,"Isakova, Susanna",Rego Park,11374,Queens 28,0,0,0,4,12,16,40.72557219999999,-73.8624893
 528760,GFDC,License,"Luna, Nora",Brooklyn,11205,Brooklyn 14,0,0,0,4,12,16,40.692322,-73.960361
 697928,FDC,Registration,"Liranzo, Luisa",BRONX,10456,Bronx 9,0,0,0,2,6,8,40.835769,-73.916038
 857054,SACC,Registration,St.Nicks Alliance,Brooklyn,11206,Brooklyn 14,0,0,0,160,0,160,40.697839,-73.943652
@@ -1469,7 +1469,7 @@ facility_id,program_type,facility_status,facility_name,city,zipcode,school_distr
 601431,GFDC,License,Soles Playtime Inc,Brooklyn,11226,Brooklyn 22,0,0,0,4,12,16,40.640363,-73.962086
 444341,FDC,Registration,"Morel, Ana",Bronx,10453,Bronx 10,0,0,0,2,6,8,40.853511,-73.91262
 872222,GFDC,License,Blake's Kiddie Academy,Jamaica,11434,Queens 28,0,0,0,4,12,16,40.6796,-73.781703
-758605,GFDC,License,"Rivas, Yaquelin",New York,10040,Manhattan 6,0,0,0,4,12,16,40.8583,-73.9296
+758605,GFDC,License,"Rivas, Yaquelin",New York,10040,Manhattan 6,0,0,0,4,12,16,40.7127753,-74.0059728
 73581,SACC,Registration,"IMMIGRANT SOCIAL SERVICE, INC. @ PS 130",New York,10013,Manhattan 2,0,0,0,161,0,161,40.71873,-73.998443
 533473,GFDC,License,"Jaiman, Milagros",Bronx,10454,Bronx 7,0,0,0,4,12,16,40.809046,-73.918097
 854348,SACC,Registration,New York Junior Tennis and Learning,Bronx,10472,Bronx 8,0,0,0,160,0,160,40.82941,-73.850256
@@ -1576,7 +1576,7 @@ facility_id,program_type,facility_status,facility_name,city,zipcode,school_distr
 868198,GFDC,License,"Garcia Alba, Karina",Bronx,10468,Bronx 10,0,0,0,4,12,16,40.865346,-73.896198
 101938,GFDC,License,"Jones, Cynthia",Brooklyn,11203,Brooklyn 18,0,0,0,2,12,14,40.654736,-73.92278
 806749,SACC,Registration,TD Learning Organization,Flushing,11355,Queens 25,0,0,0,38,0,38,40.758676,-73.824384
-641840,GFDC,License,HEAD START DAYCARE SERVICES INC.,Woodhaven,11421,Queens 27,0,0,0,4,12,16,40.6913,-73.8585
+641840,GFDC,License,HEAD START DAYCARE SERVICES INC.,Woodhaven,11421,Queens 27,0,0,0,4,12,16,40.6867269,-73.8580422
 813364,GFDC,License,Nikkis Angel,Brooklyn,11239,Brooklyn 19,0,0,0,0,8,8,40.656082,-73.869905
 495159,GFDC,License,"Perez, Alejandra",Bronx,10460,Bronx 12,0,0,0,4,12,16,40.841252,-73.890454
 71684,GFDC,License,"Bellamy, Lillie",Staten Island,10303,Richmond 31,0,0,0,4,12,16,40.632253,-74.156639
@@ -1621,7 +1621,7 @@ facility_id,program_type,facility_status,facility_name,city,zipcode,school_distr
 847159,GFDC,License,Tiffanie's Smart House LLC,Staten Island,10302,Richmond 31,0,0,0,4,12,16,40.637978,-74.142448
 836582,GFDC,License,DAACEDI DAY CARE CORPORATION,Bronx,10458,Bronx 10,0,0,0,4,12,16,40.852848,-73.886242
 879158,GFDC,License,OUR LIL SAINT LIMITED,Bronx,10467,Bronx 11,0,0,0,4,12,16,40.879224,-73.86322
-448447,GFDC,License,"Oxley- France, Patricia",Brooklyn,11236,Brooklyn 18,0,0,0,4,12,16,40.6407,-73.9028
+448447,GFDC,License,"Oxley- France, Patricia",Brooklyn,11236,Brooklyn 18,0,0,0,4,12,16,40.6781784,-73.9441579
 817434,GFDC,License,"Guzman, Suhail",Bronx,10458,Bronx 10,0,0,0,0,12,12,40.854172,-73.900434
 554277,GFDC,License,"Wilson, Gretchen",Bronx,10456,Bronx 9,0,0,0,4,12,16,40.829855,-73.906587
 709893,SACC,Registration,Union Settlement Association @ Esperanza (M372),New York,10029,Manhattan 4,0,0,0,40,0,40,40.792627,-73.941575
@@ -1637,7 +1637,7 @@ facility_id,program_type,facility_status,facility_name,city,zipcode,school_distr
 685435,SACC,Registration,"United Activities Unlimited, Inc.",Staten Island,10306,Richmond 31,0,0,0,66,0,66,40.586969,-74.101186
 154696,SACC,Registration,Boys & Girls Club of Metro Queens Inc.,Richmond Hill,11419,Queens 27,0,0,0,270,0,270,40.691728,-73.835496
 734511,GFDC,License,Congregation Shivtei Yisroel,Brooklyn,11219,Brooklyn 20,0,0,0,4,12,16,40.634895,-73.996712
-851787,GFDC,License,"Jimenez Gonzalez, Daisy",Bronx,10467,Bronx 10,0,0,0,4,12,16,40.8737,-73.8712
+851787,GFDC,License,"Jimenez Gonzalez, Daisy",Bronx,10467,Bronx 10,0,0,0,4,12,16,40.8114516,-73.8062905
 848481,SACC,Registration,Victoria Childrens Group Inc.,New York,10013,Manhattan 2,0,0,0,10,0,10,40.718642,-73.994986
 706150,FDC,Registration,"Batista, Alexandra",Bronx,10451,Bronx 7,0,0,0,2,6,8,40.817963,-73.924227
 111044,GFDC,License,"Lopez, Cesarina",Bronx,10453,Bronx 10,0,0,0,4,12,16,40.856094,-73.903056
@@ -1758,9 +1758,9 @@ facility_id,program_type,facility_status,facility_name,city,zipcode,school_distr
 840755,GFDC,License,Congregation Ohr Shulem,Brooklyn,11219,Brooklyn 20,0,0,0,0,12,12,40.635457,-73.997651
 454289,GFDC,License,"Amadi De Nunez, Elena",Bronx,10453,Bronx 10,0,0,0,4,12,16,40.847657,-73.911367
 73286,SACC,Registration,"New York Edge, Inc.",Brooklyn,11233,Brooklyn 16,0,0,0,300,0,300,40.680132,-73.921957
-512513,GFDC,License,"Pimentel, Alexandra",Corona,11368,Queens 24,0,0,0,4,12,16,40.7453,-73.8611
+512513,GFDC,License,"Pimentel, Alexandra",Corona,11368,Queens 24,0,0,0,4,12,16,40.7449859,-73.8642613
 722469,GFDC,License,"Bissoonauth, Eindrawatie",Bronx,10472,Bronx 12,0,0,0,4,12,16,40.8305,-73.87975
-563290,GFDC,License,Tzivia's Day Care,Flushing,11367,Queens 25,0,0,0,4,12,16,40.728,-73.8195
+563290,GFDC,License,Tzivia's Day Care,Flushing,11367,Queens 25,0,0,0,4,12,16,40.7449474,-73.8657249
 765956,GFDC,License,"Swan, Trinell",Bronx,10452,Bronx 9,0,0,0,2,12,14,40.829853,-73.922667
 879838,GFDC,License,OUR GROWING GARDEN LLC,Brooklyn,11216,Brooklyn 17,0,0,0,4,12,16,40.674491,-73.950793
 795810,GFDC,License,Heavenly Hands Group and Family Daycare,Springfield Gardens,11434,Queens 28,0,0,0,4,12,16,40.680874,-73.768108
@@ -1773,7 +1773,7 @@ facility_id,program_type,facility_status,facility_name,city,zipcode,school_distr
 881860,GFDC,License,"Serrano, Paul",Bronx,10452,Bronx 9,0,0,0,4,12,16,40.839624,-73.914673
 74220,SACC,Registration,Spring Creek Corp. @ PS 346,Brooklyn,11239,Brooklyn 19,0,0,0,98,0,98,40.647057,-73.88145
 830336,GFDC,License,Bambi's Playhouse Group Daycare LLC,Bronx,10473,Bronx 8,0,0,0,4,12,16,40.822469,-73.851798
-803508,GFDC,License,"Yang, Hulei",Whitestone,11357,Queens 25,0,0,0,4,12,16,40.7851,-73.8096
+803508,GFDC,License,"Yang, Hulei",Whitestone,11357,Queens 25,0,0,0,4,12,16,40.7920449,-73.8095574
 709798,SACC,Registration,"Purelements: An Evolution in Dance, Inc-Lenox Academy",Brooklyn,11236,Brooklyn 18,0,0,0,230,0,230,40.645573,-73.898156
 751001,SACC,Registration,Inwood Community Services @MS 366,New York,10034,Manhattan 6,0,0,0,388,0,388,40.865466,-73.921327
 610454,SACC,Registration,Bronx Works Inc.,Bronx,10456,Bronx 9,0,0,0,40,0,40,40.826702,-73.908849
@@ -1787,7 +1787,7 @@ facility_id,program_type,facility_status,facility_name,city,zipcode,school_distr
 798549,GFDC,License,"Nava, Ana",Bronx,10458,Bronx 10,0,0,0,4,12,16,40.87278,-73.883515
 565394,SACC,Registration,"Samuel Field YM & YWHA, Inc @ PS 165",Flushing,11367,Queens 25,0,0,0,278,0,278,40.729537,-73.818096
 878589,GFDC,License,"Jaime, Guillermina",Bronx,10468,Bronx 10,0,0,0,4,12,16,40.86158,-73.904303
-444447,GFDC,License,"Vasquez, Maria",Bronx,10452,Bronx 9,0,0,0,4,12,16,40.8376,-73.9216
+444447,GFDC,License,"Vasquez, Maria",Bronx,10452,Bronx 9,0,0,0,4,12,16,40.8447819,-73.8648268
 383059,GFDC,License,Magical Beginnings Group Family Day Care Inc.,Bronx,10460,Bronx 12,0,0,0,4,12,16,40.832571,-73.885855
 398241,GFDC,License,"Little Leaders Learning Castle, Corporation",Staten Island,10303,Richmond 31,0,0,0,4,12,16,40.629181,-74.165648
 782860,FDC,Registration,"Serrano, Betty",New York,10002,Manhattan 1,0,0,0,2,6,8,40.718949,-73.981744
@@ -1802,7 +1802,7 @@ facility_id,program_type,facility_status,facility_name,city,zipcode,school_distr
 440175,SACC,Registration,Grand Street Settlement @ Bushwick Comm Ctr,Brooklyn,11206,Brooklyn 14,0,0,0,115,0,115,40.703446,-73.940545
 525915,GFDC,License,"Espinal Holguin, Ana",Bronx,10463,Bronx 10,0,0,0,2,12,14,40.877434,-73.909068
 613772,GFDC,License,"Pinkys DayCare, Inc.",Brooklyn,11212,Brooklyn 23,0,0,0,4,12,16,40.664345,-73.913095
-414269,GFDC,License,"Welch Bramwell, Zonella",BRONX,10452,Bronx 9,0,0,0,2,12,14,40.8376,-73.9216
+414269,GFDC,License,"Welch Bramwell, Zonella",BRONX,10452,Bronx 9,0,0,0,2,12,14,40.8447819,-73.8648268
 749622,SACC,Registration,"Federation of Italian-American Organization of Brooklyn, Ltd.",Brooklyn,11204,Brooklyn 21,0,0,0,120,0,120,40.615795,-73.979648
 73856,SACC,Registration,Congregation Beth Elohim,Brooklyn,11215,Brooklyn 15,0,0,0,175,0,175,40.670881,-73.974341
 668669,GFDC,License,My Little Sunshine GFDC,New York,10039,Manhattan 5,0,0,0,4,12,16,40.82133,-73.93539
@@ -1813,12 +1813,12 @@ facility_id,program_type,facility_status,facility_name,city,zipcode,school_distr
 585632,GFDC,License,4 Angels Day Care Inc.,Staten Island,10303,Richmond 31,0,0,0,4,12,16,40.634927,-74.148846
 529632,FDC,Registration,"Delgado, Angela",Corona,11368,Queens 24,0,0,0,2,6,8,40.737022,-73.863744
 484328,GFDC,License,"Chabad of North Brooklyn, INC",Brooklyn,11211,Brooklyn 14,0,0,0,4,12,16,40.716844,-73.959386
-798152,GFDC,License,"Nisanov, Pnina",Far Rockaway,11691,Queens 27,0,0,0,4,12,16,40.6006,-73.758
-570144,GFDC,License,"Reyes, Mirtha",Elmhurst,11373,Queens 24,0,0,0,4,12,16,40.7351,-73.8776
+798152,GFDC,License,"Nisanov, Pnina",Far Rockaway,11691,Queens 27,0,0,0,4,12,16,40.5998931,-73.74484369999999
+570144,GFDC,License,"Reyes, Mirtha",Elmhurst,11373,Queens 24,0,0,0,4,12,16,40.73940350000001,-73.8779431
 695018,GFDC,License,Children's Creation Station Inc.,Jamaica,11436,Queens 27,0,0,0,4,12,16,40.681828,-73.798701
 257722,FDC,Registration,"Lee, Daisy",Brooklyn,11207,Brooklyn 19,0,0,0,0,6,6,40.671264,-73.896437
 853775,SACC,Registration,Heartshare St Vincent's Services-Surfside Gardens Cornerstone,brooklyn,11224,Brooklyn 21,0,0,0,68,0,68,40.574492,-73.993918
-597370,GFDC,License,MY SWEET GENIUSES LLC,Elmhurst,11373,Queens 24,0,0,0,4,12,16,40.7351,-73.8776
+597370,GFDC,License,MY SWEET GENIUSES LLC,Elmhurst,11373,Queens 24,0,0,0,4,12,16,40.73940350000001,-73.8779431
 873522,GFDC,License,"Clarke, Danneil",Brooklyn,11234,Brooklyn 22,0,0,0,4,12,16,40.625752,-73.925898
 225601,GFDC,License,"Bourne, Odica",Brooklyn,11207,Brooklyn 19,0,0,0,4,12,16,40.660613,-73.896705
 659005,GFDC,License,"Peanut Butter and Jelly Daycare, Inc.",Bronx,10462,Bronx 11,0,0,0,4,12,16,40.85653,-73.866823
@@ -1971,7 +1971,7 @@ facility_id,program_type,facility_status,facility_name,city,zipcode,school_distr
 543192,GFDC,License,"Castanos-Acevedo, Jesus",Bronx,10452,Bronx 9,0,0,0,4,12,16,40.841502,-73.923589
 743050,GFDC,Pending Revocation,"OHOLEI YOSEF YITZCHOK LUBAVITCH, INC.",Brooklyn,11213,Brooklyn 17,0,0,0,4,12,16,40.665607,-73.940745
 74148,SACC,Registration,MASPETH TOWN HALL PS 229,Woodside,11377,Queens 24,0,0,0,535,0,535,40.734388,-73.896968
-645826,GFDC,License,Mary & Prici Family Daycare Corp,Bronx,10468,Bronx 10,0,0,0,4,12,16,40.8662,-73.9003
+645826,GFDC,License,Mary & Prici Family Daycare Corp,Bronx,10468,Bronx 10,0,0,0,4,12,16,40.8447819,-73.8648268
 431042,GFDC,License,"Little Dreams Cafe, Inc.",Brooklyn,11228,Brooklyn 20,0,0,0,4,12,16,40.620366,-74.02149
 842775,GFDC,License,CAJITA DE CHOCOLATE DAY CARE INC.,East Elmhurst,11369,Queens 30,0,0,0,4,12,16,40.75774,-73.875522
 653584,GFDC,License,"T S L V, Inc.",Brooklyn,11238,Brooklyn 13,0,0,0,4,12,16,40.678475,-73.963016
@@ -1987,7 +1987,7 @@ facility_id,program_type,facility_status,facility_name,city,zipcode,school_distr
 761380,GFDC,License,Divine Child Family Group Corp,Bronx,10470,Bronx 11,0,0,0,4,12,16,40.899921,-73.856906
 759700,GFDC,License,Girafas Play & Learn Inc.,Brooklyn,11217,Brooklyn 13,0,0,0,4,12,16,40.687778,-73.97458
 858878,SACC,Registration,Beanstalk Child Care Academy,Bronx,10459,Bronx 12,0,0,0,25,0,25,40.831422,-73.892071
-776959,GFDC,License,"Yusupov, Karine",Forest Hills,11375,Queens 28,0,0,0,4,12,16,40.7229,-73.8473
+776959,GFDC,License,"Yusupov, Karine",Forest Hills,11375,Queens 28,0,0,0,4,12,16,40.7337921,-73.8529102
 245019,SACC,Registration,BERGEN BEACH YOUTH ORG@P.S. 203,BROOKLYN,11234,Brooklyn 22,0,0,0,288,0,288,40.621651,-73.92567
 611247,SACC,Registration,New York Junior Tennis League @ P.S. 289K,Brooklyn,11213,Brooklyn 17,0,0,0,150,0,150,40.674613,-73.942479
 780073,GFDC,License,"Galvez, Luz",East Elmhurst,11369,Queens 30,0,0,0,4,12,16,40.76421,-73.864038
@@ -2008,7 +2008,7 @@ facility_id,program_type,facility_status,facility_name,city,zipcode,school_distr
 317342,FDC,Registration,"Vargas, Fatima",BRONX,10466,Bronx 11,0,0,0,1,6,7,40.886269,-73.844871
 837421,GFDC,License,Super Play LLC,Brooklyn,11204,Brooklyn 20,0,0,0,4,12,16,40.629945,-73.9785
 106698,GFDC,License,"Wilson, Wayne",Brooklyn,11236,Brooklyn 18,0,0,0,0,10,10,40.644871,-73.889622
-799997,FDC,Registration,"Ng, Amy",Rego Park,11374,Queens 28,0,0,0,2,6,8,40.7278,-73.8602
+799997,FDC,Registration,"Ng, Amy",Rego Park,11374,Queens 28,0,0,0,2,6,8,40.72557219999999,-73.8624893
 873481,GFDC,License,"Quisenberry, Tangela",Bronx,10454,Bronx 7,0,0,0,4,12,16,40.80801,-73.923455
 786366,GFDC,License,"Grullon Gonzalez, Erilin",Bronx,10456,Bronx 9,0,0,0,0,12,12,40.83033,-73.901184
 73297,SACC,Registration,JOHN COKER DAY CARE CTR,Brooklyn,11207,Brooklyn 32,0,0,0,52,0,52,40.685299,-73.910381
@@ -2032,7 +2032,7 @@ facility_id,program_type,facility_status,facility_name,city,zipcode,school_distr
 873875,GFDC,License,"Fornah, Princess",Brooklyn,11212,Brooklyn 23,0,0,0,4,12,16,40.667497,-73.91621
 777635,GFDC,License,"Okureva, Ibironke",Bronx,10463,Bronx 10,0,0,0,4,12,16,40.877149,-73.909284
 657489,GFDC,License,"Taveras, Noris",Bronx,10452,Bronx 9,0,0,0,4,12,16,40.842738,-73.919395
-647028,GFDC,License,Devi's Family Day Care,Queens Village,11427,Queens 29,0,0,0,4,12,16,40.7277,-73.7489
+647028,GFDC,License,Devi's Family Day Care,Queens Village,11427,Queens 29,0,0,0,4,12,16,40.739022,-73.897999
 397430,GFDC,License,"Johanny's Playground Day Care, Inc",NEW YORK,10031,Manhattan 6,0,0,0,4,12,16,40.819874,-73.954164
 56481,FDC,Registration,ABC MARIA FAMILY DAY CARE,Bronx,10460,Bronx 10,0,0,0,1,6,7,40.845047,-73.880675
 783683,GFDC,License,"Little Flowers, LLC",Brooklyn,11215,Brooklyn 15,0,0,0,4,12,16,40.664344,-73.990105
@@ -2049,7 +2049,7 @@ facility_id,program_type,facility_status,facility_name,city,zipcode,school_distr
 190904,SACC,Registration,"New York Edge, Inc.",Staten Island,10310,Richmond 31,0,0,0,128,0,128,40.628286,-74.117064
 791661,GFDC,License,"Gabin Henriquez, Ana",Bronx,10452,Bronx 9,0,0,0,4,12,16,40.835175,-73.924796
 868357,GFDC,License,"Rosario, Germania",Bronx,10452,Bronx 9,0,0,0,4,12,16,40.830097,-73.921286
-726465,GFDC,License,"Wang, Li",Flushing,11354,Queens 25,0,0,0,4,12,16,40.7667,-73.8241
+726465,GFDC,License,"Wang, Li",Flushing,11354,Queens 25,0,0,0,4,12,16,40.7647238,-73.8306716
 825982,GFDC,License,"Moreland Daycare, Inc.",Staten Island,10306,Richmond 31,0,0,0,4,12,16,40.572338,-74.099215
 672473,GFDC,License,"Gaviria, Claudia",Bronx,10453,Bronx 10,0,0,0,2,12,14,40.854294,-73.917505
 357819,GFDC,License,"Leon, Maria",Jackson Heights,11372,Queens 30,0,0,0,4,12,16,40.75495,-73.881292
@@ -2164,7 +2164,7 @@ facility_id,program_type,facility_status,facility_name,city,zipcode,school_distr
 104441,GFDC,License,"Washington- Charvis, Luneed",Staten Island,10301,Richmond 31,0,0,0,4,12,16,40.644093,-74.09953
 629325,GFDC,License,NAOMI GROUP FAMILY DAY CARE INC.,Bronx,10468,Bronx 10,0,0,0,2,12,14,40.862344,-73.907711
 408670,GFDC,License,"Little Nest, LLC",Brooklyn,11238,Brooklyn 13,0,0,0,4,12,16,40.684238,-73.961137
-774733,GFDC,License,BABY LAND DAYCARE INC.,Corona,11368,Queens 30,0,0,0,4,12,16,40.7453,-73.8611
+774733,GFDC,License,BABY LAND DAYCARE INC.,Corona,11368,Queens 30,0,0,0,4,12,16,40.7584569,-73.8580889
 853989,GFDC,License,"Contreras, Natalie",New York,10034,Manhattan 6,0,0,0,4,12,16,40.864216,-73.920566
 254186,GFDC,License,MOONLIGHT DAYCARE #1,Ozone Park,11420,Queens 27,0,0,0,4,12,16,40.674098,-73.8185
 226793,GFDC,License,"My Small Angels Daycare 1, Corp",East Elmhurst,11369,Queens 30,0,0,0,4,12,16,40.760364,-73.864961
@@ -2203,7 +2203,7 @@ facility_id,program_type,facility_status,facility_name,city,zipcode,school_distr
 375599,GFDC,License,"Feliciano, Niurka",BRONX,10452,Bronx 9,0,0,0,2,12,14,40.830935,-73.922774
 650568,GFDC,License,"Proano, Sandra",Corona,11368,Queens 24,0,0,0,4,12,16,40.757335,-73.857486
 866974,GFDC,License,"Pre-Pre with Polly, LLC",Brooklyn,11218,Brooklyn 15,0,0,0,4,12,16,40.654546,-73.974001
-760884,GFDC,License,Miss Robin's Children Family Group Day Care,Hollis,11423,Queens 29,0,0,0,0,12,12,40.7142,-73.7677
+760884,GFDC,License,Miss Robin's Children Family Group Day Care,Hollis,11423,Queens 29,0,0,0,0,12,12,40.7112203,-73.762495
 396824,GFDC,License,"Pichardo Rodriguez, Carmen",Bronx,10468,Bronx 10,0,0,0,4,12,16,40.858832,-73.901322
 546897,GFDC,License,"The Sensory Stop, Inc.",Bronx,10456,Bronx 9,0,0,0,4,12,16,40.826069,-73.904813
 607682,SACC,Registration,O.S.T Program @ P.S. 306,Queens,11421,Queens 27,0,0,0,300,0,300,40.691699,-73.848603
@@ -2238,7 +2238,7 @@ facility_id,program_type,facility_status,facility_name,city,zipcode,school_distr
 72395,GFDC,License,"Andrews, Simone",Brooklyn,11230,Brooklyn 22,0,0,0,4,12,16,40.633533,-73.958147
 249410,SACC,Registration,Brooklyn Chinese America @ P.S. 69,Brooklyn,11220,Brooklyn 20,0,0,0,180,0,180,40.63257,-74.009529
 101462,SACC,Registration,"The Educational Alliance, Inc.",New York,10009,Manhattan 1,0,0,0,329,0,329,40.72417,-73.981253
-713477,FDC,Registration,"Jimenez, Yaneth",Bronx,10468,Bronx 10,0,0,0,2,6,8,40.8662,-73.9003
+713477,FDC,Registration,"Jimenez, Yaneth",Bronx,10468,Bronx 10,0,0,0,2,6,8,40.807388,-73.918747
 377105,FDC,Registration,"Martinez Ramos, Almaida",Bronx,10451,Bronx 9,0,0,0,0,6,6,40.823997,-73.913711
 785121,SACC,Registration,"Neighborhood Change Youth Organization, Inc.",Staten Island,10310,Richmond 31,0,0,0,30,0,30,40.634905,-74.111479
 814565,GFDC,License,"CHILDREN OF JOY DAYCARE, INC",Bronx,10472,Bronx 12,0,0,0,4,12,16,40.831205,-73.863213
@@ -2280,7 +2280,7 @@ facility_id,program_type,facility_status,facility_name,city,zipcode,school_distr
 807095,GFDC,License,"Rawlins, Alexandra",Brooklyn,11208,Brooklyn 19,0,0,0,4,12,16,40.670735,-73.876566
 540312,GFDC,License,Tic Tac Day Care Inc,Brooklyn,11201,Brooklyn 13,0,0,0,4,12,16,40.693305,-73.995298
 525415,SACC,Registration,Bryan's Education Center,Brooklyn,11226,Brooklyn 18,0,0,0,22,0,22,40.651138,-73.940223
-710595,GFDC,License,"Caminero, Elba",Bronx,10451,Bronx 7,0,0,0,0,12,12,40.8222,-73.9217
+710595,GFDC,License,"Caminero, Elba",Bronx,10451,Bronx 7,0,0,0,0,12,12,40.8449102,-73.834394
 736322,GFDC,License,"Li, Yue Ming",New York,10013,Manhattan 2,0,0,0,4,12,16,40.72006,-73.99546
 344447,GFDC,License,"Armstead- Harris, Pauline",St. Albans,11412,Queens 29,0,0,0,0,10,10,40.701473,-73.761174
 317318,GFDC,License,"Santana, Juana",BRONX,10468,Bronx 10,0,0,0,4,12,16,40.863019,-73.898841
@@ -2390,15 +2390,15 @@ facility_id,program_type,facility_status,facility_name,city,zipcode,school_distr
 338968,FDC,Registration,"Azuero Mosquera, Eva",Astoria,11102,Queens 30,0,0,0,2,6,8,40.769589,-73.925543
 435523,GFDC,License,Manor Daycare Inc.,Bronx,10472,Bronx 12,0,0,0,2,12,14,40.832198,-73.877005
 742498,SACC,Registration,"Fresh Youth Initiatives, Inc.",New York,10032,Manhattan 6,0,0,0,209,0,209,40.841366,-73.939053
-765375,GFDC,License,LITTLE SUNSHINE PLAYHOUSE GROUP FAMILY DAYCARE INC,Bronx,10467,Bronx 10,0,0,0,4,12,16,40.8737,-73.8712
+765375,GFDC,License,LITTLE SUNSHINE PLAYHOUSE GROUP FAMILY DAYCARE INC,Bronx,10467,Bronx 10,0,0,0,4,12,16,40.8758522,-73.88024490000001
 74046,SACC,Registration,"Queens Community House, Inc.",Jamaica,11435,Queens 28,0,0,0,120,0,120,40.710192,-73.812333
 863736,GFDC,License,"Ayala Casado, Nc Cool Caroline",Bronx,10452,Bronx 9,0,0,0,4,12,16,40.836477,-73.918109
 662508,GFDC,License,"Morgan- Gayle, Karen",Brooklyn,11236,Brooklyn 18,0,0,0,4,12,16,40.640564,-73.907877
-671260,GFDC,License,"Perocier, Lizzette",Ridgewood,11385,Queens 24,0,0,0,4,12,16,40.7036,-73.8961
+671260,GFDC,License,"Perocier, Lizzette",Ridgewood,11385,Queens 24,0,0,0,4,12,16,40.7043986,-73.9018292
 761504,GFDC,License,"Perdomo, Ana",New York,10040,Manhattan 6,0,0,0,4,12,16,40.853859,-73.929375
 483561,GFDC,License,"Rangini, Khanum",Queens,11374,Queens 28,0,0,0,4,12,16,40.72601,-73.858861
 73761,SACC,Registration,Sunnyside Community Services @ PS 199,Long Island City,11104,Queens 24,0,0,0,325,0,325,40.739927,-73.926135
-456288,GFDC,License,KOPCIUSZEK DAY CARE INC.,Ridgewood,11385,Queens 24,0,0,0,4,12,16,40.7036,-73.8961
+456288,GFDC,License,KOPCIUSZEK DAY CARE INC.,Ridgewood,11385,Queens 24,0,0,0,4,12,16,40.7011628,-73.8981842
 709669,SACC,Registration,Entertainment Careers After-School Program @ Q341,Queens,11412,Queens 29,0,0,0,163,0,163,40.68934,-73.763274
 403076,SACC,Registration,YMCA Virtual Y @ PS 194,Brooklyn,11229,Brooklyn 22,0,0,0,189,0,189,40.597142,-73.934014
 789421,GFDC,License,Little Angels Daycare,Bronx,10452,Bronx 9,0,0,0,4,12,16,40.834855,-73.919445
@@ -2610,18 +2610,18 @@ facility_id,program_type,facility_status,facility_name,city,zipcode,school_distr
 73910,SACC,Registration,HEART SHARE HUMAN SERVICES @ P.S. 288,Brooklyn,11224,Brooklyn 21,0,0,0,180,0,180,40.574351,-73.992094
 204705,GFDC,License,Chestnut Kids Group Family Day Care Inc,Brooklyn,11208,Brooklyn 19,0,0,0,4,12,16,40.67707,-73.874063
 806992,SACC,Registration,Camba Inc.@ PS 164,Brooklyn,11219,Brooklyn 20,0,0,0,247,0,247,40.637381,-73.98585
-288278,GFDC,License,"Kids of the Future Childcare, Inc",Hollis,11423,,0,0,0,4,12,16,40.7142,-73.7677
+288278,GFDC,License,"Kids of the Future Childcare, Inc",Hollis,11423,,0,0,0,4,12,16,40.7112203,-73.762495
 882864,GFDC,License,"Aldarondo, Angela",Bronx,10453,Bronx 10,0,0,0,0,10,10,40.852465,-73.910913
 425843,GFDC,License,"Tuachi, Karen",Brooklyn,11229,Brooklyn 22,0,0,0,4,12,16,40.609126,-73.951636
 582991,GFDC,License,"Kim, Anna",FLUSHING,11358,Queens 25,0,0,0,4,12,16,40.754463,-73.792835
 72711,GFDC,License,"Shimonov, Margarita",Brooklyn,11218,Brooklyn 20,0,0,0,4,12,16,40.640231,-73.975106
 539178,FDC,Registration,"Mcclary, Shirmelle",New York,10037,Manhattan 5,0,0,0,2,6,8,40.811215,-73.937142
 851052,SACC,Registration,THE CARING TREE #4 LLC,BRONX,10461,Bronx 8,0,0,0,30,0,30,40.845816,-73.831649
-401332,GFDC,License,"Chuya, Blanca",Corona,11368,Queens 24,0,0,0,2,12,14,40.7453,-73.8611
+401332,GFDC,License,"Chuya, Blanca",Corona,11368,Queens 24,0,0,0,2,12,14,40.7449859,-73.8642613
 845724,GFDC,License,"Silverio, Catherine",Bronx,10458,Bronx 10,0,0,0,2,12,14,40.867741,-73.88177
 323413,GFDC,License,"Capellan, Maria",Bronx,10463,Bronx 10,0,0,0,4,12,16,40.882537,-73.90374
 653802,GFDC,License,SMART START HEAD START  LLC,Brooklyn,11221,Brooklyn 32,0,0,0,0,12,12,40.689303,-73.920135
-832976,GFDC,License,Play And Learn Group Family Day Care Corp.,East Elmhurst,11370,Queens 30,0,0,0,4,12,16,40.7611,-73.8916
+832976,GFDC,License,Play And Learn Group Family Day Care Corp.,East Elmhurst,11370,Queens 30,0,0,0,4,12,16,40.7686696,-73.8892599
 747475,GFDC,License,Little Charmers Family Day Care,New York,10002,Manhattan 2,0,0,0,0,12,12,40.712107,-73.992011
 772297,SACC,Registration,"Sunnyside Community Services, Inc",Woodside,11377,Queens 30,0,0,0,127,0,127,40.755416,-73.910196
 852867,SACC,Registration,"Learning Through Expanded Arts Program, Inc.",Brooklyn,11238,Brooklyn 13,0,0,0,130,0,130,40.684898,-73.960609
@@ -2656,8 +2656,8 @@ facility_id,program_type,facility_status,facility_name,city,zipcode,school_distr
 227933,SACC,Registration,Sesame Flyers Int'l Winthrop Beacon Comm CTR at IS 232,Brooklyn,11203,Brooklyn 17,0,0,0,156,0,156,40.658636,-73.928569
 339136,SACC,Registration,Greater Ridgewood Youth Council @ PS 81,Glendale,11385,Queens 24,0,0,0,245,0,245,40.703791,-73.912113
 404726,GFDC,License,Smiley Face Group Day Care,Bronx,10460,Bronx 12,0,0,0,4,12,16,40.834966,-73.885819
-775671,FDC,Registration,"Wright, Princess",Rosedale,11422,Queens 29,0,0,0,2,6,8,40.6621,-73.7353
-110492,FDC,Registration,Cuddly Bundles Day Care,BRONX,10451,Bronx 7,0,0,0,2,6,8,40.8222,-73.9217
+775671,FDC,Registration,"Wright, Princess",Rosedale,11422,Queens 29,0,0,0,2,6,8,40.6575584,-73.7330753
+110492,FDC,Registration,Cuddly Bundles Day Care,BRONX,10451,Bronx 7,0,0,0,2,6,8,40.8285039,-73.8918897
 813573,GFDC,License,ANGELS OF THE SUN DAYCARE INC.,Bronx,10472,Bronx 12,0,0,0,4,12,16,40.826727,-73.879545
 571556,FDC,Registration,"Cuenca Macareno, Lucila",New York,10031,Manhattan 6,0,0,0,2,6,8,40.830548,-73.944949
 710472,FDC,Registration,"Rodriquez, Daisy",New York,10029,Manhattan 4,0,0,0,2,6,8,40.788998,-73.950072
@@ -2720,11 +2720,11 @@ facility_id,program_type,facility_status,facility_name,city,zipcode,school_distr
 670030,GFDC,License,"Little Jewel Childcare, Inc.",New York,10034,Manhattan 6,0,0,0,4,12,16,40.867594,-73.92193
 209121,GFDC,License,"Cruz, Carmen",Ridgewood,11385,Queens 24,0,0,0,4,12,16,40.701137,-73.897225
 816327,SACC,Registration,"Boys & Girls Club of Harlem, Inc.",New York,10031,Manhattan 6,0,0,0,80,0,80,40.825827,-73.948637
-573455,GFDC,License,"Hernandez, Luz",Corona,11368,Queens 24,0,0,0,4,12,16,40.7453,-73.8611
+573455,GFDC,License,"Hernandez, Luz",Corona,11368,Queens 24,0,0,0,4,12,16,40.7449859,-73.8642613
 873275,SACC,Registration,New York Junior Tennis and Learning,Brooklyn,11216,Brooklyn 13,0,0,0,120,0,120,40.678612,-73.946748
 814012,GFDC,License,"Hersila Martinez, Yohanka",Ozone Park,11416,Queens 27,0,0,0,4,12,16,40.684505,-73.852338
 498653,GFDC,License,"Williams, Desiree",ROSEDALE,11422,Queens 29,0,0,0,4,12,16,40.659019,-73.737923
-346559,GFDC,License,"Vasquez, Ruth",Ridgewood,11385,Queens 24,0,0,0,4,12,16,40.7036,-73.8961
+346559,GFDC,License,"Vasquez, Ruth",Ridgewood,11385,Queens 24,0,0,0,4,12,16,40.7043986,-73.9018292
 259757,GFDC,License,J & H Kidz Inc.,Bronx,10457,Bronx 9,0,0,0,4,12,16,40.846326,-73.908219
 694477,FDC,Registration,"Escobar, Sandra",Elmhurst,11370,Queens 30,0,0,0,2,6,8,40.756533,-73.889155
 708342,GFDC,License,Growing Together Family Day Care,Brooklyn,11221,Brooklyn 32,0,0,0,0,12,12,40.698847,-73.928778
@@ -2784,8 +2784,8 @@ facility_id,program_type,facility_status,facility_name,city,zipcode,school_distr
 447366,GFDC,License,"Gomez, Garolyn",BRONX,10457,Bronx 10,0,0,0,2,12,14,40.84978,-73.885271
 178078,GFDC,License,New Age Family Day Care Inc.,Brooklyn,11208,Brooklyn 19,0,0,0,0,10,10,40.68472,-73.883288
 162491,FDC,Registration,"Irizarry, Doris",Bronx,10473,Bronx 8,0,0,0,2,6,8,40.820908,-73.845561
-765709,GFDC,License,BRIGHT BLOOMERS DAYCARE CENTER INC.,Maspeth,11378,Queens 24,0,0,0,4,12,16,40.7239,-73.8997
-655490,GFDC,License,"Rivera, Bethzaida",Ridgewood,11385,Queens 24,0,0,0,4,12,16,40.7036,-73.8961
+765709,GFDC,License,BRIGHT BLOOMERS DAYCARE CENTER INC.,Maspeth,11378,Queens 24,0,0,0,4,12,16,40.7294018,-73.9065883
+655490,GFDC,License,"Rivera, Bethzaida",Ridgewood,11385,Queens 24,0,0,0,4,12,16,40.7051879,-73.896052
 681689,SACC,Registration,GRYC/ P.S./ I.S. 113 Q,Glendale,11385,Queens 24,0,0,0,111,0,111,40.705263,-73.862004
 877328,GFDC,License,"Ventura, Natalie",New York,10034,Manhattan 6,0,0,0,4,12,16,40.864888,-73.924265
 827746,GFDC,License,Eljene,Brooklyn,11230,Brooklyn 21,0,0,0,4,12,16,40.611238,-73.958934
@@ -2820,7 +2820,7 @@ facility_id,program_type,facility_status,facility_name,city,zipcode,school_distr
 805683,SACC,Registration,Cypress Hills Local Development Corporation Inc. @ J.H.S 218,Brooklyn,11208,Brooklyn 19,0,0,0,175,0,175,40.670676,-73.874445
 168613,FDC,Registration,"Rina, Shahina",Bronx,10452,Bronx 9,0,0,0,2,5,7,40.836635,-73.91938
 467372,GFDC,License,"Montilla, Lissellot",Bronx,10462,Bronx 11,0,0,0,0,12,12,40.854794,-73.866555
-437288,GFDC,License,"Ortiz Basilio, Fidias",Bronx,10452,Bronx 9,0,0,0,4,12,16,40.8376,-73.9216
+437288,GFDC,License,"Ortiz Basilio, Fidias",Bronx,10452,Bronx 9,0,0,0,4,12,16,40.8798864,-73.8799255
 869775,GFDC,License,Learning at Davidson Group Family Daycare,BRONX,10453,Bronx 10,0,0,0,0,12,12,40.85845,-73.904869
 795791,SACC,Registration,"New York Center for Interpersonal Development, Inc.",Staten Island,10303,Richmond 31,0,0,0,240,0,240,40.631386,-74.144774
 674207,GFDC,License,Claritas Child Care Corp.,New York,10029,Manhattan 5,0,0,0,0,12,12,40.799548,-73.944164
@@ -2862,7 +2862,7 @@ facility_id,program_type,facility_status,facility_name,city,zipcode,school_distr
 736567,GFDC,License,"Espinal, Virginia",New York,10025,Manhattan 3,0,0,0,4,12,16,40.792508,-73.972304
 296907,GFDC,License,"Sylvain, Alisha",Brooklyn,11236,Brooklyn 18,0,0,0,4,12,16,40.646863,-73.902978
 243827,SACC,Registration,Samuel Field Y @ PS/IS 266,Queens,11426,Queens 26,0,0,0,400,0,400,40.745551,-73.727719
-578946,GFDC,License,LAURA GROUP DAYCARE LLC,BRONX,10467,Bronx 10,0,0,0,4,12,16,40.8737,-73.8712
+578946,GFDC,License,LAURA GROUP DAYCARE LLC,BRONX,10467,Bronx 10,0,0,0,4,12,16,40.8497489,-73.8887164
 656332,FDC,Registration,"Lopez, Noelle",Bronx,10452,Bronx 9,0,0,0,2,6,8,40.839503,-73.91366
 369610,GFDC,License,"Farrell, Keisha",Brooklyn,11233,Brooklyn 16,0,0,0,4,12,16,40.684458,-73.93441
 817350,GFDC,License,"Cooper, Jean",Bronx,10469,Bronx 11,0,0,0,4,12,16,40.877472,-73.856742
@@ -2886,7 +2886,7 @@ facility_id,program_type,facility_status,facility_name,city,zipcode,school_distr
 272623,FDC,Registration,"Jaiyesimi, Shakirat",Brooklyn,11208,Brooklyn 19,0,0,0,2,6,8,40.667435,-73.86026
 750909,FDC,Registration,"Aracena De Ramirez, Beyra",Bronx,10452,Bronx 9,0,0,0,2,6,8,40.838464,-73.917555
 430776,GFDC,License,"Novitskaya, Maria",Brooklyn,11235,Brooklyn 22,0,0,0,4,12,16,40.586794,-73.937613
-411392,GFDC,License,Angel Kids  26 LLC,Flushing,11367,Queens 25,0,0,0,4,12,16,40.728,-73.8195
+411392,GFDC,License,Angel Kids  26 LLC,Flushing,11367,Queens 25,0,0,0,4,12,16,40.7647238,-73.8306716
 107543,GFDC,License,Elba's Day Care Inc.,Bronx,10460,Bronx 12,0,0,0,2,12,14,40.843419,-73.882824
 880136,GFDC,License,"Rogers, Ramona",Brooklyn,11203,Brooklyn 17,0,0,0,4,12,16,40.660278,-73.934447
 814786,GFDC,License,GOOD TIME GROUP DAYCARE CORP,Bronx,10463,Bronx 10,0,0,0,0,12,12,40.870275,-73.906368
@@ -3038,7 +3038,7 @@ facility_id,program_type,facility_status,facility_name,city,zipcode,school_distr
 834019,SACC,Registration,The East Side House,Bronx,10451,Bronx 7,0,0,0,100,0,100,40.813577,-73.9249
 786453,GFDC,License,Kreative Kidz Choice Daycare LLC,Bronx,10466,Bronx 11,0,0,0,4,12,16,40.889329,-73.836767
 789519,GFDC,License,"Cradle to Crayons Daycare, Corp",New York,10034,Manhattan 6,0,0,0,4,12,16,40.867977,-73.922744
-264554,GFDC,License,"Monrose, Felicity",Brooklyn,11234,Brooklyn 22,0,0,0,4,12,16,40.6205,-73.9239
+264554,GFDC,License,"Monrose, Felicity",Brooklyn,11234,Brooklyn 22,0,0,0,4,12,16,40.6867105,-73.9398542
 882948,GFDC,License,"Davydov, Julieta",Flushing,11367,Queens 25,0,0,0,4,12,16,40.722645,-73.817805
 73857,SACC,Registration,BBCS Gary Klinsky Children Center @ PS 306,Brooklyn,11207,Brooklyn 19,0,0,0,140,0,140,40.655446,-73.886362
 715332,GFDC,License,BEAS Bright Beginnings Day Care,Jamaica,11434,Queens 28,0,0,0,4,12,16,40.679804,-73.783372
@@ -3064,7 +3064,7 @@ facility_id,program_type,facility_status,facility_name,city,zipcode,school_distr
 299973,GFDC,License,"Alberto, Gloria",Bronx,10469,Bronx 11,0,0,0,4,12,16,40.870355,-73.84974
 462693,FDC,Registration,"Frias De Reynoso, Noemi",Bronx,10456,Bronx 8,0,0,0,2,6,8,40.820847,-73.90323
 709655,SACC,Registration,"New York Edge, Inc.",Jamaica,11414,Queens 27,0,0,0,280,0,280,40.657974,-73.844199
-601226,GFDC,License,Crib to Crayons Group Daycare INC.,Bronx,10468,Bronx 10,0,0,0,4,12,16,40.8662,-73.9003
+601226,GFDC,License,Crib to Crayons Group Daycare INC.,Bronx,10468,Bronx 10,0,0,0,4,12,16,40.8642382,-73.90170359999999
 223490,GFDC,License,"Scott, Yvonne",Jamaica,11420,Queens 27,0,0,0,2,12,14,40.676291,-73.81208
 229343,SACC,Registration,NEW GRACE CENTER,Brooklyn,11207,Brooklyn 19,0,0,0,114,0,114,40.664828,-73.892754
 64855,FDC,Registration,"Carrion, Nelly",New York,10029,Manhattan 4,0,0,0,2,6,8,40.788174,-73.93908
@@ -3073,7 +3073,7 @@ facility_id,program_type,facility_status,facility_name,city,zipcode,school_distr
 634675,GFDC,License,"Guzman, Charles",Bronx,10454,Bronx 7,0,0,0,4,12,16,40.812261,-73.915854
 850438,GFDC,License,Tree House Daycare Inc.,New York,10034,Manhattan 6,0,0,0,4,12,16,40.86649,-73.927403
 805225,GFDC,License,Melena Bright Future Daycare,Springfield Gardens,11413,Queens 29,0,0,0,4,12,16,40.683783,-73.759165
-776823,GFDC,License,SMILING FACES DAYCARE INC.,Flushing,11367,Queens 25,0,0,0,4,12,16,40.728,-73.8195
+776823,GFDC,License,SMILING FACES DAYCARE INC.,Flushing,11367,Queens 25,0,0,0,4,12,16,40.7647238,-73.8306716
 620895,GFDC,License,Gracielas Little Angels Inc.,Brooklyn,11232,Brooklyn 15,0,0,0,4,12,16,40.650762,-74.006367
 871935,GFDC,License,"Bautista, Maholi",Woodhaven,11421,Queens 27,0,0,0,4,12,16,40.689608,-73.847388
 820344,GFDC,Pending Revocation and Denial,"Sydney, Kirlyn",Staten Island,10310,Richmond 31,0,0,0,4,12,16,40.635093,-74.120588
@@ -3104,11 +3104,11 @@ facility_id,program_type,facility_status,facility_name,city,zipcode,school_distr
 799169,GFDC,License,"Ia's Learning Group, Inc.",Brooklyn,11215,Brooklyn 15,0,0,0,4,12,16,40.659477,-73.985502
 807231,GFDC,License,"Zapata Giraldo, Karolay",East Elmhurst,11369,Queens 30,0,0,0,4,12,16,40.767516,-73.875945
 340769,GFDC,License,"Angel Kids Christian Group Day Care, Inc",Bronx,10460,Bronx 12,0,0,0,4,12,16,40.841618,-73.887143
-793838,GFDC,License,"Chen, Yanni",College Point,11356,Queens 25,0,0,0,4,12,16,40.7855,-73.845
+793838,GFDC,License,"Chen, Yanni",College Point,11356,Queens 25,0,0,0,4,12,16,40.786395,-73.8389657
 718299,GFDC,License,Infants And Toddlers Bright Beginnings Inc.,Brooklyn,11208,Brooklyn 19,0,0,0,4,12,16,40.685359,-73.869013
 809280,SACC,Registration,The Child Center of NY @ Roosevelt Island Beacon 217,New York,10044,Manhattan 2,0,0,0,151,0,151,40.763877,-73.948116
 342527,GFDC,License,"Javier, Marisela",BRONX,10456,Bronx 9,0,0,0,0,12,12,40.826917,-73.90554
-427455,FDC,Registration,"Diaz, Arelis",Bronx,10452,Bronx 9,0,0,0,2,6,8,40.8376,-73.9216
+427455,FDC,Registration,"Diaz, Arelis",Bronx,10452,Bronx 9,0,0,0,2,6,8,40.8646657,-73.9235623
 563447,GFDC,License,# 1 Nurturing Place LLC,New York,10024,Manhattan 3,0,0,0,4,12,16,40.788992,-73.968585
 688216,GFDC,License,Little Miracles Daycare Inc.,New York,10032,Manhattan 6,0,0,0,4,12,16,40.837488,-73.94433
 671858,GFDC,License,"Gil Reyes, Evelyn",Bronx,10462,Bronx 11,0,0,0,4,12,16,40.836308,-73.853916
@@ -3157,7 +3157,7 @@ facility_id,program_type,facility_status,facility_name,city,zipcode,school_distr
 817490,GFDC,License,"Hope Family Daycare, Corp.",Bronx,10473,Bronx 8,0,0,0,4,12,16,40.806934,-73.850159
 275814,SACC,Registration,"United Activities Unlimited, Inc. @ P.S. 8",Staten Island,10308,Richmond 31,0,0,0,95,0,95,40.54782,-74.152115
 520851,GFDC,License,"Paradise Day Care EA, Inc",Jamaica,11432,Queens 26,0,0,0,4,12,16,40.727654,-73.783629
-831151,GFDC,License,Mama Kids Castle II Daycare,Ozone Park,11416,Queens 27,0,0,0,4,12,16,40.6838,-73.8514
+831151,GFDC,License,Mama Kids Castle II Daycare,Ozone Park,11416,Queens 27,0,0,0,4,12,16,40.6908834,-73.81391719999999
 398023,GFDC,License,"Colon, Patricia",New York,10032,Manhattan 6,0,0,0,2,12,14,40.833284,-73.941466
 720224,GFDC,License,"Pena-Baez, Gladys",Bronx,10452,Bronx 9,0,0,0,4,12,16,40.834797,-73.925085
 378654,GFDC,License,Baracky New Generation Day Care,Brooklyn,11234,Brooklyn 22,0,0,0,4,12,16,40.623342,-73.928069
@@ -3233,7 +3233,7 @@ facility_id,program_type,facility_status,facility_name,city,zipcode,school_distr
 764278,GFDC,License,"Rodriguez, Teodora",Brooklyn,11206,Brooklyn 14,0,0,0,0,12,12,40.703249,-73.940363
 52620,FDC,Registration,"Rodriguez, Aurelia",Bronx,10451,Bronx 7,0,0,0,2,6,8,40.823026,-73.918491
 877320,GFDC,License,"Lombert Duran, Melissa",New York,10040,Manhattan 6,0,0,0,4,12,16,40.864671,-73.92692
-690625,GFDC,License,TZIVIA'S DAY CARE,Flushing,11367,Queens 25,0,0,0,4,12,16,40.728,-73.8195
+690625,GFDC,License,TZIVIA'S DAY CARE,Flushing,11367,Queens 25,0,0,0,4,12,16,40.7449474,-73.8657249
 476031,GFDC,License,"Alvarez Contreras, Belkis",Bronx,10454,Bronx 7,0,0,0,4,12,16,40.812436,-73.917313
 845344,GFDC,License,"Sunny Happy Kids, Inc.",Brooklyn,11204,Brooklyn 20,0,0,0,4,12,16,40.612548,-73.988724
 713102,GFDC,License,"Valverde Santos, Maria",Bronx,10453,Bronx 10,0,0,0,0,10,10,40.855266,-73.903877
@@ -3245,7 +3245,7 @@ facility_id,program_type,facility_status,facility_name,city,zipcode,school_distr
 783304,GFDC,License,DLC Kids Family Group Day Care Inc,Brooklyn,11207,Brooklyn 19,0,0,0,4,12,16,40.678252,-73.892831
 557383,GFDC,License,"Natalie's Sunflower Group, Inc.",Brooklyn,11231,Brooklyn 15,0,0,0,4,12,16,40.674587,-73.997972
 329041,SACC,Registration,"A Place for Kids, Inc.",New York,10002,Manhattan 2,0,0,18,93,0,111,40.713158,-73.991349
-689800,GFDC,License,"Huerta, Elizabeth",Elmhurst,11373,Queens 24,0,0,0,4,12,16,40.7351,-73.8776
+689800,GFDC,License,"Huerta, Elizabeth",Elmhurst,11373,Queens 24,0,0,0,4,12,16,40.73940350000001,-73.8779431
 769187,GFDC,License,"New U Tots Too, LLC",Staten Island,10312,Richmond 31,0,0,0,4,12,16,40.531693,-74.194932
 828162,GFDC,License,Small Minds of Tomorrow Day-Care Corp.,Middle Village,11379,Queens 24,0,0,0,4,12,16,40.72663,-73.877875
 731123,GFDC,License,"Lourdas, Konstantinos",Bayside,11361,Queens 26,0,0,0,4,12,16,40.770135,-73.773849
@@ -3253,11 +3253,11 @@ facility_id,program_type,facility_status,facility_name,city,zipcode,school_distr
 391003,GFDC,License,CREATIVE FAMILY DAYCARE INC.,Bronx,10467,Bronx 10,0,0,0,4,12,16,40.88011,-73.876115
 243182,GFDC,License,"Edinboro- Scott, Beverley",Brooklyn,11208,Brooklyn 19,0,0,0,2,12,14,40.665119,-73.873064
 578503,GFDC,License,Honey Bear Family Day Care,Bronx,10459,Bronx 12,0,0,0,4,12,16,40.829626,-73.898869
-736939,GFDC,License,"Estevez, Nathalyn",Elmhurst,11373,Queens 24,0,0,0,4,12,16,40.7351,-73.8776
+736939,GFDC,License,"Estevez, Nathalyn",Elmhurst,11373,Queens 24,0,0,0,4,12,16,40.73940350000001,-73.8779431
 716227,GFDC,License,Happy Shiny Faces II Corp,New York,10034,Manhattan 6,0,0,0,4,12,16,40.869089,-73.922762
 590487,GFDC,License,First Tiny Steps Day Care Inc.,Astoria,11103,Queens 30,0,0,0,4,12,16,40.760331,-73.918804
 689634,SACC,Registration,"Jewish Community Center of Staten Island, Incorporated",Staten Island,10301,Richmond 31,0,0,0,60,0,60,40.646082,-74.087954
-836787,GFDC,License,"Botero Rojas, Diana",Elmhurst,11373,Queens 24,0,0,0,4,12,16,40.7351,-73.8776
+836787,GFDC,License,"Botero Rojas, Diana",Elmhurst,11373,Queens 24,0,0,0,4,12,16,40.7469954,-73.8859756
 344265,GFDC,License,"Osoria, Adia",New York,10031,Manhattan 6,0,0,0,4,12,16,40.822874,-73.954144
 339618,SACC,Registration,School Settlement Association Inc. @ PS 34,Brooklyn,11222,Brooklyn 14,0,0,0,150,0,150,40.726236,-73.949696
 217241,SACC,Registration,Children's Corner at PS 21,Bronx,10466,Bronx 11,0,0,0,200,0,200,40.887748,-73.859806
@@ -3297,7 +3297,7 @@ facility_id,program_type,facility_status,facility_name,city,zipcode,school_distr
 352833,GFDC,License,Little Footprint Day Care,Brooklyn,11203,Brooklyn 18,0,0,0,4,12,16,40.65053,-73.926111
 855549,GFDC,License,"Rosa Lara, Elvis",Bronx,10454,Bronx 7,0,0,0,4,12,16,40.808228,-73.9144
 878896,GFDC,License,"Jordan, Shalima",Bronx,10460,Bronx 12,0,0,0,4,12,16,40.841404,-73.885327
-596502,FDC,Registration,"Robinson, Latreece",New York,10035,Manhattan 5,0,0,0,2,6,8,40.8011,-73.9371
+596502,FDC,Registration,"Robinson, Latreece",New York,10035,Manhattan 5,0,0,0,2,6,8,40.7512917,-73.8167357
 869897,GFDC,License,OUR GODS DREAM INC.,Bronx,10455,Bronx 7,0,0,0,4,12,16,40.81448,-73.916316
 753267,GFDC,License,Adonai Group Family Daycare LLC,Bronx,10457,Bronx 9,0,0,0,2,12,14,40.844414,-73.904689
 196359,GFDC,License,"Garcia, Carmen N.",New York,10034,Manhattan 6,0,0,0,4,12,16,40.864551,-73.921356
@@ -3308,7 +3308,7 @@ facility_id,program_type,facility_status,facility_name,city,zipcode,school_distr
 877465,GFDC,License,Yaldei Chein Inc,Brooklyn,11219,Brooklyn 15,0,0,0,4,12,16,40.635292,-73.990787
 661260,GFDC,License,Shiny Rainbow Day Care Inc.,Jamaica,11435,Queens 28,0,0,0,4,12,16,40.70221,-73.808891
 777901,GFDC,License,1 Sickles St. Day Care Family Group Corp,New York,10040,Manhattan 6,0,0,0,4,12,16,40.860386,-73.926937
-818911,GFDC,License,LEARN AND PLAY DAYCARE 1 LLC,Flushing,11367,Queens 25,0,0,0,4,12,16,40.728,-73.8195
+818911,GFDC,License,LEARN AND PLAY DAYCARE 1 LLC,Flushing,11367,Queens 25,0,0,0,4,12,16,40.7647238,-73.8306716
 601595,GFDC,License,"Bautista, Sonia",Bronx,10465,Bronx 8,0,0,0,2,12,14,40.816407,-73.807644
 841220,GFDC,License,"Castro Rivera, Fanny",Bronx,10452,Bronx 9,0,0,0,4,12,16,40.834435,-73.920722
 592958,GFDC,License,"Lugo, Julio",Bronx,10453,Bronx 10,0,0,0,4,12,16,40.854927,-73.901994
@@ -3424,7 +3424,7 @@ facility_id,program_type,facility_status,facility_name,city,zipcode,school_distr
 601487,FDC,Registration,"Vasquez, Vilma",New York,10033,Manhattan 6,0,0,0,0,4,4,40.852797,-73.932982
 802155,GFDC,License,"Reyes, Maria",Bronx,10462,Bronx 11,0,0,0,4,12,16,40.853925,-73.869064
 730265,GFDC,License,New Rainbow House Inc.,Brooklyn,11220,Brooklyn 15,0,0,0,4,12,16,40.644369,-74.001814
-622904,GFDC,License,"Francisco, Lissette",Bronx,10453,,0,0,0,4,12,16,40.852,-73.9129
+622904,GFDC,License,"Francisco, Lissette",Bronx,10453,,0,0,0,4,12,16,40.8307911,-73.89990139999999
 867225,GFDC,License,LITTLE DIAMONDS DAY CARE CENTER LLC,Bronx,10456,Bronx 9,0,0,0,4,12,16,40.833044,-73.910967
 298773,GFDC,License,"Edem, Veronica",Brooklyn,11234,Brooklyn 22,0,0,0,4,12,16,40.621534,-73.926284
 73512,SACC,Registration,The Boy's Club of New York Gerry Clubhouse,New York,10029,Manhattan 4,0,0,0,140,0,140,40.793421,-73.938802
@@ -3464,7 +3464,7 @@ facility_id,program_type,facility_status,facility_name,city,zipcode,school_distr
 109496,GFDC,License,"Harris- Adams, Stephanie",New York,10027,Manhattan 5,0,0,0,4,12,16,40.814922,-73.947503
 261462,GFDC,License,Candy Corn Day Care,Brooklyn,11226,Brooklyn 17,0,0,0,4,12,16,40.645753,-73.963518
 875114,SACC,Registration,Chinese-American Parents Association Inc.,Flushing,11355,Queens 25,0,0,0,191,0,191,40.745225,-73.829164
-833038,GFDC,License,Michelle's Group Family Daycare,Bronx,10456,Bronx 9,0,0,0,4,12,16,40.8316,-73.9099
+833038,GFDC,License,Michelle's Group Family Daycare,Bronx,10456,Bronx 9,0,0,0,4,12,16,40.8447004,-73.8878819
 572061,GFDC,License,Little Moises Group Family Day Care,Bronx,10462,Bronx 8,0,0,0,4,12,16,40.831214,-73.848004
 261856,GFDC,License,ABC GIFTED HANDS INC.,Jamaica,11434,Queens 28,0,0,0,4,12,16,40.665373,-73.765981
 731782,GFDC,License,"Danche Contreras, Claren",Bronx,10452,Bronx 9,0,0,0,0,12,12,40.838884,-73.928399
@@ -3562,7 +3562,7 @@ facility_id,program_type,facility_status,facility_name,city,zipcode,school_distr
 629468,GFDC,License,"Dominguez, Gabriela",Bronx,10455,Bronx 7,0,0,0,4,12,16,40.814561,-73.908779
 53318,FDC,Registration,"Jimenez, Paulina",Bronx,10451,Bronx 9,0,0,0,0,6,6,40.827747,-73.918645
 431633,GFDC,License,"Fortuna, Matilde",Brooklyn,11207,Queens 24,0,0,0,4,12,16,40.684269,-73.894524
-433749,GFDC,License,Tita & Tito Daycare Inc,Brooklyn,11232,Brooklyn 15,0,0,0,4,12,16,40.6521,-74.0018
+433749,GFDC,License,Tita & Tito Daycare Inc,Brooklyn,11232,Brooklyn 15,0,0,0,4,12,16,40.6781784,-73.9441579
 231931,SACC,Registration,SISDA OST / Beacon Program - I.S.  217,Bronx,10459,Bronx 12,0,0,0,180,0,180,40.822075,-73.894037
 232191,GFDC,License,Manuela Family Day Care,BRONX,10452,Bronx 9,0,0,0,2,12,14,40.837003,-73.925618
 268149,GFDC,License,"Fuzaylova, Marina",Jamaica,11432,Queens 29,0,0,0,4,12,16,40.719308,-73.799944
@@ -3600,7 +3600,7 @@ facility_id,program_type,facility_status,facility_name,city,zipcode,school_distr
 183945,GFDC,License,TINY TODD'S DAY CARE,Richmond Hill,11418,Queens 28,0,0,0,4,12,16,40.701783,-73.827881
 701676,FDC,Registration,"Veloz, Damaris",Bronx,10452,Bronx 9,0,0,0,2,6,8,40.836635,-73.91938
 387066,GFDC,License,Manor Daycare Inc.,Bronx,10472,Bronx 12,0,0,0,4,12,16,40.832408,-73.877054
-561410,GFDC,License,"Candelario, Carmen",BRONX,10456,Bronx 9,0,0,0,4,12,16,40.8316,-73.9099
+561410,GFDC,License,"Candelario, Carmen",BRONX,10456,Bronx 9,0,0,0,4,12,16,40.8182622,-73.91611879999999
 857868,SACC,Registration,"Development Outreach, Inc.",New York,10027,Manhattan 5,0,0,0,40,0,40,40.806768,-73.944813
 623897,SACC,Registration,"Samuel Field YM & YWHA, Inc. @PS 55",Richmond Hill,11419,Queens 28,0,0,0,158,0,158,40.693922,-73.816313
 182874,GFDC,License,"Frank, Ruslyn",Brooklyn,11203,Brooklyn 18,0,0,0,4,12,16,40.650811,-73.922368
@@ -3630,7 +3630,7 @@ facility_id,program_type,facility_status,facility_name,city,zipcode,school_distr
 741983,SACC,Registration,Bright Horizons Children's Center @Barclays,New York,10019,Manhattan 2,0,0,0,11,0,11,40.760598,-73.983401
 690234,GFDC,License,"Rojas, Ibelka",Bronx,10460,Bronx 10,0,0,0,4,12,16,40.846355,-73.880959
 872503,GFDC,License,KST Daycare Inc.,Bellerose,11426,Queens 26,0,0,0,4,12,16,40.729832,-73.727715
-762834,GFDC,License,A MAGICAL PLACE TO LEARN INC.,Bronx,10451,Bronx 9,0,0,0,4,12,16,40.8222,-73.9217
+762834,GFDC,License,A MAGICAL PLACE TO LEARN INC.,Bronx,10451,Bronx 9,0,0,0,4,12,16,40.8274442,-73.9208227
 672612,GFDC,License,WIZ KIDZ DAYCARE ACADEMY LLC,Staten Island,10302,Richmond 31,0,0,0,4,12,16,40.63261,-74.141594
 765493,GFDC,License,"Cruz, Marlene",Bronx,10458,Bronx 10,0,0,0,2,12,14,40.868361,-73.883851
 420658,GFDC,License,"Arenas, Alicia",Astoria,11106,Queens 30,0,0,0,4,12,16,40.756338,-73.926485
@@ -3676,7 +3676,7 @@ facility_id,program_type,facility_status,facility_name,city,zipcode,school_distr
 839610,GFDC,License,"Toyour-Al-Jannah, Inc.",Brooklyn,11214,Brooklyn 21,0,0,0,4,12,16,40.58873,-73.989925
 188577,FDC,Registration,"Burrison, Liza",New York,10035,Manhattan 5,0,0,0,2,5,7,40.801569,-73.936382
 540100,GFDC,License,"Lela's Bright Stars Day Care, Inc.",Brooklyn,11223,Brooklyn 21,0,0,0,4,12,16,40.601621,-73.978654
-235581,GFDC,License,Elizabeths Happy Day Care Corp.,Elmhurst,11373,Queens 24,0,0,0,4,12,16,40.7351,-73.8776
+235581,GFDC,License,Elizabeths Happy Day Care Corp.,Elmhurst,11373,Queens 24,0,0,0,4,12,16,40.73940350000001,-73.8779431
 704351,GFDC,License,"Huang, Min",Fresh Meadows,11366,Queens 25,0,0,0,4,12,16,40.72639,-73.806627
 881045,SACC,Registration,Central Brooklyn Economic Development Corporation,Brooklyn,11212,Brooklyn 23,0,0,0,144,0,144,40.668739,-73.917883
 470089,GFDC,License,"Cronin, Natalie",New York,10028,Manhattan 2,0,0,0,4,12,16,40.77354,-73.949767
@@ -3734,7 +3734,7 @@ facility_id,program_type,facility_status,facility_name,city,zipcode,school_distr
 845873,GFDC,License,"Vasquez De Morales, Sujeiry",Bronx,10457,Bronx 9,0,0,0,0,12,12,40.847592,-73.906943
 768704,GFDC,License,"ABC Read to Me, LLC",East Elmhurst,11369,Queens 30,0,0,0,4,12,16,40.760499,-73.876594
 660793,GFDC,License,"Moronta Nunez, Eugenia",Bronx,10452,Bronx 9,0,0,0,2,12,14,40.829853,-73.922667
-486440,GFDC,License,ALEXANDRA'S GROUP FAMILY DAY CARE,Queens,11421,Queens 27,0,0,0,4,12,16,40.6913,-73.8585
+486440,GFDC,License,ALEXANDRA'S GROUP FAMILY DAY CARE,Queens,11421,Queens 27,0,0,0,4,12,16,40.6886172,-73.851338
 686807,SACC,Registration,"NIA Community Services Network, Inc.",Brooklyn,11209,Brooklyn 20,0,0,0,294,0,294,40.633635,-74.024106
 865550,GFDC,License,"Mangru, Shelliza",Brooklyn,11232,Brooklyn 15,0,0,0,4,12,16,40.64963,-74.006946
 743446,GFDC,License,Children's Brain At Work,Brooklyn,11208,Brooklyn 19,0,0,0,4,12,16,40.671993,-73.869941
@@ -3743,7 +3743,7 @@ facility_id,program_type,facility_status,facility_name,city,zipcode,school_distr
 469107,GFDC,License,"De La Cruz, Alba",Bronx,10451,Bronx 9,0,0,0,4,12,16,40.828623,-73.921351
 873614,GFDC,License,"Hawker, Latasha",Jamaica,11434,Queens 29,0,0,0,4,12,16,40.663167,-73.772292
 66813,FDC,Registration,"Uruchima, Rosa",NEW YORK,10019,Manhattan 2,0,0,0,2,6,8,40.76225,-73.988324
-214957,FDC,Registration,"Gomez, Isabel",BRONX,10456,,0,0,0,2,5,7,40.8316,-73.9099
+214957,FDC,Registration,"Gomez, Isabel",BRONX,10456,,0,0,0,2,5,7,40.8160855,-73.9247762
 612679,GFDC,License,"Then, Flora",New York,10031,Manhattan 6,0,0,0,0,12,12,40.831377,-73.947168
 702495,GFDC,License,Little Stars Group Daycare Inc.,Littleneck,11362,Queens 26,0,0,0,4,12,16,40.75552,-73.730361
 72099,GFDC,License,Nikky Child Care and Learning Center,Brooklyn,11233,Brooklyn 16,0,0,0,4,12,16,40.684569,-73.918197
@@ -3768,7 +3768,7 @@ facility_id,program_type,facility_status,facility_name,city,zipcode,school_distr
 688333,GFDC,License,Blooming Flowers Daycare Inc,Brooklyn,11221,Brooklyn 16,0,0,0,4,12,16,40.689026,-73.931449
 849222,GFDC,License,"Rojas Maura, Nikaury",New York,10025,Manhattan 3,0,0,0,4,12,16,40.801818,-73.962609
 879723,GFDC,License,NIKMO GROUP FAMILY DAYCARE,Brooklyn,11224,Brooklyn 21,0,0,0,4,12,16,40.579662,-74.000669
-709603,GFDC,License,OWL TEACH YOU DAYCARE,Ridgewood,11385,Queens 24,0,0,0,4,12,16,40.7036,-73.8961
+709603,GFDC,License,OWL TEACH YOU DAYCARE,Ridgewood,11385,Queens 24,0,0,0,4,12,16,40.69891700000001,-73.90134909999999
 542084,GFDC,License,Jump For Success Corp.,Bronx,10474,Bronx 8,0,0,0,4,12,16,40.813196,-73.890147
 148986,SACC,Registration,Immigrant Social Services @ P.S. 126,New York,10038,Manhattan 2,0,0,0,89,0,89,40.710335,-73.996702
 733222,GFDC,License,"Layne, Marlyn",Rosedale,11422,Queens 29,0,0,0,4,12,16,40.652688,-73.741692
@@ -3821,7 +3821,7 @@ facility_id,program_type,facility_status,facility_name,city,zipcode,school_distr
 878133,GFDC,License,"Leaperz on Lenox Daycare, INC",Brooklyn,11203,Brooklyn 18,0,0,0,4,12,16,40.65537,-73.932938
 839931,SACC,Registration,"Manhattan Youth Recreation & Resources, Inc.",NEW YORK,10014,Manhattan 2,0,0,0,585,0,585,40.731143,-74.007768
 817078,SACC,Registration,St. Nick's Alliance @ P.S. 150,Brooklyn,11212,Brooklyn 23,0,0,0,87,0,87,40.668516,-73.904732
-188530,GFDC,License,Oh What Fun To Learn! LLC,Jamaica,11434,Queens 28,0,0,0,4,12,16,40.6775,-73.7758
+188530,GFDC,License,Oh What Fun To Learn! LLC,Jamaica,11434,Queens 28,0,0,0,4,12,16,40.7037439,-73.7991953
 695494,FDC,Registration,PERY'S TEDDYBEARZ N TOTZ INC.,Brooklyn,11226,Brooklyn 22,0,0,0,2,6,8,40.64668,-73.962731
 293780,GFDC,License,"Gonzalez, Ada",New York,10026,Manhattan 3,0,0,0,4,12,16,40.805732,-73.957898
 636985,GFDC,License,LA ABUELA  GROUP FAMILY DAYCARE LLC,Bronx,10458,Bronx 10,0,0,0,4,12,16,40.854325,-73.88159
@@ -3871,7 +3871,7 @@ facility_id,program_type,facility_status,facility_name,city,zipcode,school_distr
 642837,GFDC,License,Lucky Ducky Daycare LLC,Brooklyn,11204,Brooklyn 20,0,0,0,4,12,16,40.633047,-73.982502
 571568,GFDC,License,"Valdez, Lissanny",Bronx,10452,Bronx 9,0,0,0,4,12,16,40.835491,-73.924497
 440630,GFDC,License,Little Pumpkin Daycare LLC.,Brooklyn,11210,Brooklyn 22,0,0,0,4,12,16,40.637122,-73.940207
-456978,GFDC,License,"Ryner, Clara",Bronx,10466,Bronx 11,0,0,0,0,10,10,40.8904,-73.8503
+456978,GFDC,License,"Ryner, Clara",Bronx,10466,Bronx 11,0,0,0,0,10,10,40.844311,-73.83008699999999
 806662,SACC,Registration,Urban Strategies Inc,Brooklyn,11212,Brooklyn 23,0,0,0,40,0,40,40.670148,-73.908574
 780461,GFDC,License,"Norman, Mayra",New York,10032,Manhattan 6,0,0,0,4,12,16,40.83725,-73.944047
 266023,SACC,Registration,"Kreative Kare School-Age Youth Program, Inc.",Brooklyn,11237,Brooklyn 32,0,0,0,22,0,22,40.696653,-73.913696
@@ -3882,7 +3882,7 @@ facility_id,program_type,facility_status,facility_name,city,zipcode,school_distr
 527599,GFDC,License,"LMNOP GROUP FAMILY DAYCARE, INC.",Bronx,10469,Bronx 11,0,0,0,4,12,16,40.875282,-73.856446
 584441,GFDC,License,"Menual, Daisy",New York,10031,Manhattan 6,0,0,0,4,12,16,40.8225,-73.952495
 391755,GFDC,License,Aleyna's Daycare LLC,Brooklyn,11238,Brooklyn 13,0,0,0,4,12,16,40.67884,-73.968636
-762341,GFDC,License,"Su, Haiyan",Flushing,11354,Queens 25,0,0,0,4,12,16,40.7667,-73.8241
+762341,GFDC,License,"Su, Haiyan",Flushing,11354,Queens 25,0,0,0,4,12,16,40.75911079999999,-73.8322536
 559555,GFDC,License,MI LADY FAMILY GROUP DAY CARE INC,BRONX,10458,Bronx 10,0,0,0,4,12,16,40.85812,-73.897452
 534125,GFDC,License,"Mc Keown, Catherine",Brooklyn,11231,Brooklyn 15,0,0,0,4,12,16,40.680565,-73.993092
 495555,GFDC,License,"Uwakwe, Ijeoma",Brooklyn,11226,Brooklyn 17,0,0,0,4,12,16,40.649573,-73.951769
@@ -3933,7 +3933,7 @@ facility_id,program_type,facility_status,facility_name,city,zipcode,school_distr
 724791,SACC,Registration,CHILD CARE MY FIRST STEPS INC.,Ridgewood,11385,Queens 24,0,0,0,15,0,15,40.695902,-73.896414
 332820,GFDC,License,New Beginnings 08 Group Family Daycare LLC,Brooklyn,11233,Brooklyn 32,0,0,0,4,12,16,40.683231,-73.912469
 854112,GFDC,License,"Marte-Brito, Melissa",New York,10031,Manhattan 6,0,0,0,4,12,16,40.824919,-73.953092
-774403,GFDC,License,"Davila, Denise",Rego Park,11374,Queens 28,0,0,0,4,12,16,40.7278,-73.8602
+774403,GFDC,License,"Davila, Denise",Rego Park,11374,Queens 28,0,0,0,4,12,16,40.72557219999999,-73.8624893
 860065,GFDC,License,Mulberry House LLC,Brooklyn,11221,Brooklyn 32,0,0,0,4,12,16,40.690444,-73.914301
 872534,SACC,Registration,CREATIVE LEARNING ACADEMY,Staten Island,10303,Richmond 31,0,0,0,51,0,51,40.625368,-74.15249
 811914,GFDC,License,"Salazar, Edinson",Bronx,10468,Bronx 10,0,0,0,2,12,14,40.867896,-73.895484
@@ -3966,7 +3966,7 @@ facility_id,program_type,facility_status,facility_name,city,zipcode,school_distr
 683020,FDC,Registration,Bright Minds Child Care Inc,Staten Island,10301,Richmond 31,0,0,0,2,6,8,40.643644,-74.080663
 878863,SACC,Registration,"New York Center for Interpersonal Development, Inc.",Staten Island,10312,Richmond 31,0,0,8,392,0,400,40.543218,-74.182497
 156693,SACC,Registration,Madison Square Boys & Girls Club - Flatbush Unit,Brooklyn,11226,Brooklyn 17,0,0,0,178,0,178,40.649177,-73.955615
-626806,GFDC,License,Claudine's Little Folks 1,Rego Park,11374,Queens 24,0,0,0,4,12,16,40.7278,-73.8602
+626806,GFDC,License,Claudine's Little Folks 1,Rego Park,11374,Queens 24,0,0,0,4,12,16,40.7339001,-73.8574778
 588714,GFDC,License,"Rickman, Emeline",Brooklyn,11212,Brooklyn 17,0,0,0,4,12,16,40.663112,-73.921928
 818081,GFDC,License,"Jimenez Luna, Denisse",Bronx,10458,Bronx 10,0,0,0,4,12,16,40.857913,-73.897881
 863682,GFDC,License,"Torres, Rafaelina",South Ozone Park,11420,Queens 27,0,0,0,4,12,16,40.672174,-73.826003
@@ -4029,7 +4029,7 @@ facility_id,program_type,facility_status,facility_name,city,zipcode,school_distr
 765881,GFDC,License,"Perez, Paula",Bronx,10456,Bronx 9,0,0,0,4,12,16,40.837878,-73.905972
 845352,GFDC,License,Happy  Baby  Playhouse Inc .,Brooklyn,11215,Brooklyn 15,0,0,0,4,12,16,40.661711,-73.991256
 865966,GFDC,License,"Acevedo Mateo, Diosmery",Bronx,10458,Bronx 10,0,0,0,0,12,12,40.864488,-73.891087
-260633,FDC,Registration,A MOTHER'S LOVE & CARE,Jamaica,11434,Queens 28,0,0,0,2,5,7,40.6775,-73.7758
+260633,FDC,Registration,A MOTHER'S LOVE & CARE,Jamaica,11434,Queens 28,0,0,0,2,5,7,40.702267,-73.7902375
 233455,GFDC,License,"Rodriguez, Awilda",New York,10040,Manhattan 6,0,0,0,2,12,14,40.854385,-73.928766
 802315,GFDC,License,Tots on 45 Inc,Brooklyn,11219,Brooklyn 15,0,0,0,4,12,16,40.641664,-73.997282
 719454,GFDC,License,"Contreras, Juana",Bronx,10452,Bronx 9,0,0,0,4,12,16,40.835491,-73.924497
@@ -4058,7 +4058,7 @@ facility_id,program_type,facility_status,facility_name,city,zipcode,school_distr
 702065,GFDC,License,"Matut, Esther",Brooklyn,11230,Brooklyn 21,0,0,0,2,12,14,40.61044,-73.970383
 396885,GFDC,License,"Pacheco, Grace",Brooklyn,11221,Brooklyn 32,0,0,0,4,12,16,40.690588,-73.915336
 229087,SACC,Registration,SCAN-Harbor,BRONX,10453,Manhattan 6,0,0,0,420,0,420,40.852627,-73.921269
-299495,GFDC,License,"Burdier, Maria",Ozone Park,11416,Queens 27,0,0,0,4,12,16,40.6838,-73.8514
+299495,GFDC,License,"Burdier, Maria",Ozone Park,11416,Queens 27,0,0,0,4,12,16,40.6806669,-73.844659
 709859,SACC,Registration,NIA Community Services Network @ IS 98,Brooklyn,11235,Brooklyn 22,0,0,0,444,0,444,40.583355,-73.953826
 879543,GFDC,License,"Pichardo De Bodden, Carolina",Bronx,10460,Bronx 10,0,0,0,4,12,16,40.84501,-73.879617
 135827,SACC,Registration,Parson Beacon @JHS 168,Flushing,11366,Queens 25,0,0,0,281,0,281,40.724513,-73.808545
@@ -4067,7 +4067,7 @@ facility_id,program_type,facility_status,facility_name,city,zipcode,school_distr
 704149,GFDC,License,Safari Day Care  Inc.,Flushing,11355,Queens 25,0,0,0,4,12,16,40.760226,-73.813635
 826515,GFDC,License,"Building Blocks Group Family Daycare, LLC",Brooklyn,11207,Brooklyn 19,0,0,0,0,10,10,40.666223,-73.896505
 603401,GFDC,License,Half Pint Daycare,Laurelton,11413,Queens 29,0,0,0,4,12,16,40.680898,-73.739013
-715479,GFDC,License,"Serrano, Nestor",Woodhaven,11421,Queens 27,0,0,0,4,12,16,40.6913,-73.8585
+715479,GFDC,License,"Serrano, Nestor",Woodhaven,11421,Queens 27,0,0,0,4,12,16,40.6901366,-73.8566087
 425102,GFDC,License,"Deleon, Natacha",BRONX,10460,Bronx 11,0,0,0,2,12,14,40.840399,-73.869467
 614406,FDC,Registration,"Bennett- Miller, Diane",Bronx,10453,Bronx 10,0,0,0,2,6,8,40.856539,-73.916386
 736330,GFDC,License,"Happy Kids Family Day Care, Inc.",Bronx,10463,Bronx 10,0,0,0,4,12,16,40.880763,-73.905467
@@ -4150,11 +4150,11 @@ facility_id,program_type,facility_status,facility_name,city,zipcode,school_distr
 778803,GFDC,License,DLOURDES HAPPY PLACE DAYCARE INC,Bronx,10453,Bronx 9,0,0,0,4,12,16,40.84903,-73.92071
 387484,GFDC,License,"Cabral Vargas, Maria",Queens,11385,Queens 24,0,0,0,4,12,16,40.695404,-73.893806
 694157,GFDC,License,The Little Giants Daycare Incorporated,Bronx,10460,Bronx 12,0,0,0,4,12,16,40.84041,-73.881596
-425808,FDC,Registration,"Garner, Kim",Bronx,10456,Bronx 9,0,0,0,2,6,8,40.8316,-73.9099
+425808,FDC,Registration,"Garner, Kim",Bronx,10456,Bronx 9,0,0,0,2,6,8,40.8923535,-73.8576696
 208271,GFDC,License,LITTLE ANDY'S DAY CARE I INC.,BROOKLYN,11236,Brooklyn 18,0,0,0,4,12,16,40.635637,-73.892082
 856735,GFDC,License,"Taveras, Ana",Manhattan,10029,Manhattan 4,0,0,0,4,12,16,40.789029,-73.952
 816157,FDC,Registration,"Perez Munoz, Maritza",Bronx,10453,Bronx 10,0,0,0,2,6,8,40.854398,-73.915216
-630330,GFDC,License,KINGS KIDS FAMILY DAYCARE CORP,Rosedale,11422,Queens 29,0,0,0,0,12,12,40.6621,-73.7353
+630330,GFDC,License,KINGS KIDS FAMILY DAYCARE CORP,Rosedale,11422,Queens 29,0,0,0,0,12,12,40.6575584,-73.7330753
 330984,GFDC,License,"Rowe, Geraldine",Brooklyn,11208,Brooklyn 19,0,0,0,4,12,16,40.670786,-73.878855
 829839,GFDC,License,BLESSING BLESS DAY CARE INC.,Bronx,10460,Bronx 12,0,0,0,0,12,12,40.835103,-73.886059
 492292,GFDC,License,"Rodriguez, Evelyn",Bronx,10456,Bronx 8,0,0,0,0,12,12,40.820909,-73.906138
@@ -4297,7 +4297,7 @@ facility_id,program_type,facility_status,facility_name,city,zipcode,school_distr
 614853,GFDC,License,"Munoz, Luz",Bronx,10467,Bronx 11,0,0,0,4,12,16,40.885118,-73.862879
 662807,GFDC,License,Sanctuary Family Day Care,Brooklyn,11203,Brooklyn 17,0,0,0,4,12,16,40.646279,-73.946331
 881145,GFDC,License,"Lawrence, Odette",Bronx,10467,Bronx 11,0,0,0,2,12,14,40.873714,-73.863285
-346729,GFDC,License,"Lein, Devora",Brooklyn,11211,Brooklyn 14,0,0,0,4,12,16,40.7095,-73.9563
+346729,GFDC,License,"Lein, Devora",Brooklyn,11211,Brooklyn 14,0,0,0,4,12,16,40.6781784,-73.9441579
 699465,GFDC,License,Elite Conciege Childcare Services,Brooklyn,11203,Brooklyn 18,0,0,0,4,12,16,40.653813,-73.932771
 449239,SACC,Registration,Campus After School Program/ Campus ASP Inc,Brooklyn,11210,Brooklyn 22,0,0,0,69,0,69,40.632004,-73.948517
 423304,GFDC,License,"Escano, Ana",BRONX,10472,Bronx 12,0,0,0,4,12,16,40.832292,-73.86211
@@ -4308,18 +4308,18 @@ facility_id,program_type,facility_status,facility_name,city,zipcode,school_distr
 395189,GFDC,License,"Rosandry Daycare, Inc",Bronx,10453,Bronx 10,0,0,0,4,12,16,40.854606,-73.902973
 498365,GFDC,License,ROA DAY CARE INC.,BRONX,10462,Bronx 11,0,0,0,4,12,16,40.845794,-73.865464
 139560,GFDC,License,"Sanchez, Alandys",Bronx,10453,Bronx 10,0,0,0,4,12,16,40.854229,-73.905908
-573510,FDC,Registration,"Clemente, Karen",Brooklyn,11237,Brooklyn 32,0,0,0,2,6,8,40.7006,-73.918
+573510,FDC,Registration,"Clemente, Karen",Brooklyn,11237,Brooklyn 32,0,0,0,2,6,8,40.721993,-73.8393804
 375498,FDC,Registration,"Paula Conzalez, Betriz",Bronx,10455,Bronx 7,0,0,0,2,6,8,40.813127,-73.907287
 881553,GFDC,License,The Little Nest Family Daycare Group Corp.,Bronx,10452,Bronx 9,0,0,0,4,12,16,40.834909,-73.929442
 709780,SACC,Registration,"ASPIRA of New York, Inc",Bronx,10469,Bronx 11,0,0,0,240,0,240,40.864187,-73.836302
 747141,GFDC,License,KDTD Childcare LLC,Brooklyn,11212,Brooklyn 23,0,0,0,4,12,16,40.657103,-73.915993
 738336,GFDC,License,"Hernandez, Ana",Bronx,10460,Bronx 10,0,0,0,4,12,16,40.845453,-73.879655
 643638,GFDC,License,Chiquitines Day Care  I Corp.,Bronx,10458,Bronx 10,0,0,0,4,12,16,40.856624,-73.898072
-176500,GFDC,License,"Suriel, Juana",Bronx,10452,Bronx 9,0,0,0,4,12,16,40.8376,-73.9216
+176500,GFDC,License,"Suriel, Juana",Bronx,10452,Bronx 9,0,0,0,4,12,16,40.8447819,-73.8648268
 303106,GFDC,License,"Ricketts, Marvalyn",Brooklyn,11203,Brooklyn 18,0,0,0,4,12,16,40.654914,-73.924723
 71608,GFDC,License,Hand & Hand Group Family Daycare,Brooklyn,11212,Brooklyn 23,0,0,0,4,12,16,40.663115,-73.917674
 819675,GFDC,License,"Marte Deschamps, Yneva",Bronx,10467,Bronx 11,0,0,0,4,12,16,40.870126,-73.86836
-166191,FDC,Registration,"Antonio, Ysabel",Corona,11368,Queens 24,0,0,0,0,6,6,40.7453,-73.8611
+166191,FDC,Registration,"Antonio, Ysabel",Corona,11368,Queens 24,0,0,0,0,6,6,40.7449859,-73.8642613
 368916,FDC,Pending Revocation,"Lam, Sau",New York,10002,Manhattan 1,0,0,0,0,5,5,40.711922,-73.986388
 71875,GFDC,License,"Zavala, Maribel Ofelia",New York,10034,Manhattan 6,0,0,0,4,12,16,40.868773,-73.919994
 350383,GFDC,License,"Mendez- Cruz, Celandia",Staten Island,10304,Richmond 31,0,0,0,4,12,16,40.619771,-74.082874
@@ -4410,14 +4410,14 @@ facility_id,program_type,facility_status,facility_name,city,zipcode,school_distr
 773173,GFDC,License,"Liu, Rudong",New York,10002,Manhattan 2,0,0,0,4,12,16,40.711309,-73.995813
 872907,GFDC,License,My Little Carousel Family Daycare Inc.,New York,10040,Manhattan 6,0,0,0,4,12,16,40.861366,-73.928939
 74155,SACC,Registration,"New York Edge, Inc.",Woodside,11377,Queens 24,0,0,0,220,0,220,40.74091,-73.918687
-665001,GFDC,License,"Francisco De Jesus, Zeneida",Bronx,10468,Bronx 10,0,0,0,4,12,16,40.8662,-73.9003
+665001,GFDC,License,"Francisco De Jesus, Zeneida",Bronx,10468,Bronx 10,0,0,0,4,12,16,40.8447819,-73.8648268
 72830,SACC,Registration,Madison Square Boys & Girls Club,Bronx,10458,Bronx 10,0,0,0,180,0,180,40.858497,-73.887815
 515167,GFDC,License,"De Jesus Jimenez Luciano, Zonia",Bronx,10463,Bronx 10,0,0,0,0,12,12,40.882537,-73.90374
 831810,GFDC,License,Play and Learn Day Care,Bronx,10467,Bronx 11,0,0,0,4,12,16,40.860054,-73.865426
 674129,GFDC,License,Tiny Tots Care,Brooklyn,11218,Brooklyn 15,0,0,0,4,12,16,40.639329,-73.982333
 742768,SACC,Registration,Phipps Community Development Corporation,Bronx,10457,Bronx 9,0,0,0,120,0,120,40.840654,-73.904257
 820953,GFDC,License,"Bennett, Bria",Rosedale,11422,Queens 29,0,0,0,4,12,16,40.650525,-73.736641
-778128,GFDC,License,"Aronova, Marina",Rego Park,11374,Queens 28,0,0,0,4,12,16,40.7278,-73.8602
+778128,GFDC,License,"Aronova, Marina",Rego Park,11374,Queens 28,0,0,0,4,12,16,40.7251619,-73.8566546
 231157,GFDC,License,"Hwang- Tsui, Wen- Yu",Flushing,11355,Queens 25,0,0,0,4,12,16,40.757664,-73.808901
 364459,FDC,Registration,"Estrella, Claribel",Bronx,10454,Bronx 7,0,0,0,0,6,6,40.807085,-73.915662
 775815,GFDC,License,Divine Care Group Family Daycare Corp.,New York,10034,Manhattan 6,0,0,0,4,12,16,40.868211,-73.91824
@@ -4440,8 +4440,8 @@ facility_id,program_type,facility_status,facility_name,city,zipcode,school_distr
 759545,GFDC,License,Gods Little Children Family Group Daycare Inc.,Brooklyn,11212,Brooklyn 23,0,0,0,4,12,16,40.657662,-73.905882
 836776,GFDC,License,"Guzman De Gomez, Carla",New York,10033,Manhattan 6,0,0,0,4,12,16,40.845108,-73.938234
 73372,SACC,Registration,YMCA Prospect Pk Virtual Y @ PS 212,Brooklyn,11214,Brooklyn 21,0,0,0,80,0,80,40.587651,-73.985682
-733958,GFDC,License,"Mejia, Sonia",Glendale,11385,Queens 24,0,0,0,4,12,16,40.7036,-73.8961
-832660,GFDC,License,"Learn & Discover, Inc",Staten Island,10314,Richmond 31,0,0,0,4,12,16,40.6039,-74.1472
+733958,GFDC,License,"Mejia, Sonia",Glendale,11385,Queens 24,0,0,0,4,12,16,40.7016662,-73.8842219
+832660,GFDC,License,"Learn & Discover, Inc",Staten Island,10314,Richmond 31,0,0,0,4,12,16,40.6131714,-74.12141919999999
 656437,GFDC,License,"Ottenwalder, Maria",Bronx,10455,Bronx 7,0,0,0,4,12,16,40.812977,-73.914174
 863353,GFDC,License,"Valerio Perez, Ruth",Bronx,10452,Bronx 9,0,0,0,0,10,10,40.832698,-73.92809
 817895,SACC,Registration,"Initial Steps Child Development, Inc.",Brooklyn,11210,Brooklyn 22,0,0,0,10,0,10,40.634161,-73.947459
@@ -4451,7 +4451,7 @@ facility_id,program_type,facility_status,facility_name,city,zipcode,school_distr
 709853,SACC,Registration,FIAO OST @ Brooklyn Studio/PS 128,Brooklyn,11214,Brooklyn 21,0,0,0,119,0,119,40.604927,-73.994549
 696228,GFDC,License,"Uceta, Nery",Bronx,10469,Bronx 11,0,0,0,4,12,16,40.866998,-73.856921
 541029,GFDC,License,"Martinez, Irkania",Bronx,10453,Bronx 10,0,0,0,4,12,16,40.853976,-73.915266
-218490,GFDC,License,"Davidov, Larisa",Flushing,11367,Queens 25,0,0,0,2,12,14,40.728,-73.8195
+218490,GFDC,License,"Davidov, Larisa",Flushing,11367,Queens 25,0,0,0,2,12,14,40.7647238,-73.8306716
 729748,GFDC,License,SMART STARS CHILDCARE LLC,New York,10033,Manhattan 6,0,0,0,4,12,16,40.846164,-73.935827
 401446,GFDC,License,"Obioha, Theresa",Bronx,10469,Bronx 11,0,0,0,4,12,16,40.870339,-73.844702
 824348,GFDC,License,La Nina De Tus Ojos Corporation,Brooklyn,11237,Brooklyn 32,0,0,0,4,12,16,40.701486,-73.920975
@@ -4465,7 +4465,7 @@ facility_id,program_type,facility_status,facility_name,city,zipcode,school_distr
 56108,FDC,Registration,"Dozier, Valdena",Bronx,10460,Bronx 12,0,0,0,2,6,8,40.839921,-73.883853
 805145,GFDC,License,"Tejada, Janise",Bronx,10451,Bronx 7,0,0,0,4,12,16,40.820871,-73.927092
 845271,SACC,Registration,HeartShare St. Vincent's Services Inc.,Brooklyn,11223,Brooklyn 21,0,0,0,118,0,118,40.592513,-73.978713
-262092,GFDC,License,"Griffith, Jacqueline",Queens Village,11427,Queens 29,0,0,0,4,12,16,40.7277,-73.7489
+262092,GFDC,License,"Griffith, Jacqueline",Queens Village,11427,Queens 29,0,0,0,4,12,16,40.709202,-73.7471681
 695372,GFDC,License,"Sunshine Creative Kidz, Inc.",Cambria Heights,11411,Queens 29,0,0,0,4,12,16,40.698994,-73.742827
 655068,FDC,Registration,Growing Minds Family Daycare,Forest Hills,11375,Queens 24,0,0,0,2,6,8,40.736729,-73.848093
 871375,SACC,Registration,"Mosholu Montefiore Community Center, Inc.",Bronx,10475,Bronx 11,0,0,0,200,0,200,40.880096,-73.826673
@@ -4518,7 +4518,7 @@ facility_id,program_type,facility_status,facility_name,city,zipcode,school_distr
 454882,GFDC,License,Ciditty Kiddie Corporation,Bronx,10473,Bronx 8,0,0,0,4,12,16,40.819016,-73.865989
 881254,GFDC,License,"Bonilla Marte, Silvana",Brooklyn,11211,Brooklyn 14,0,0,0,4,12,16,40.710657,-73.957018
 736764,GFDC,License,GOD GRACE FAMILY DAY CARE,Jamaica,11436,Queens 28,0,0,0,4,12,16,40.686259,-73.794511
-432650,GFDC,License,Arise and Shine Group Family Day Care LLC,Brooklyn,11233,Brooklyn 16,0,0,0,4,12,16,40.6784,-73.9211
+432650,GFDC,License,Arise and Shine Group Family Day Care LLC,Brooklyn,11233,Brooklyn 16,0,0,0,4,12,16,40.6449917,-74.0189615
 837857,GFDC,License,SUNFLOWERS GFDC  INC.,Bronx,10457,Bronx 10,0,0,0,4,12,16,40.852501,-73.895529
 724005,GFDC,License,"Morales, Blasina",Bronx,10465,Bronx 8,0,0,0,4,12,16,40.8199,-73.816705
 700186,GFDC,License,Regina's PlaySchool LLC,Brooklyn,11215,Brooklyn 15,0,0,0,4,12,16,40.671835,-73.98513
@@ -4529,7 +4529,7 @@ facility_id,program_type,facility_status,facility_name,city,zipcode,school_distr
 853136,GFDC,License,"Oyekanmi, Adebola",Far Rockaway,11691,Queens 27,0,0,0,4,12,16,40.599189,-73.756131
 711608,GFDC,License,Maria's Group Family Day Care,New York,10026,Manhattan 3,0,0,0,4,12,16,40.800777,-73.956244
 870212,GFDC,License,"Marquis, Guetty",Staten Island,10303,Richmond 31,0,0,0,4,12,16,40.637557,-74.167219
-669502,GFDC,License,Billy's Family Group Day Care,Woodhaven,11421,Queens 27,0,0,0,4,12,16,40.6913,-73.8585
+669502,GFDC,License,Billy's Family Group Day Care,Woodhaven,11421,Queens 27,0,0,0,4,12,16,40.6901366,-73.8566087
 821954,GFDC,License,"Tugwell, Caroline",Bronx,10469,Bronx 11,0,0,0,4,12,16,40.873822,-73.848959
 439500,GFDC,License,Sweet Home Day Care LLC.,Bronx,10458,Bronx 10,0,0,0,4,12,16,40.858494,-73.897071
 681811,SACC,Registration,"United Activities Unlimited, Inc. @ IS 72",Staten Island,10314,Richmond 31,0,0,0,126,0,126,40.592749,-74.158632
@@ -4550,7 +4550,7 @@ facility_id,program_type,facility_status,facility_name,city,zipcode,school_distr
 72485,GFDC,License,"Blanchard, Helen",Brooklyn,11236,Brooklyn 18,0,0,0,4,12,16,40.638144,-73.914655
 655521,GFDC,License,Little Angel Daycare,Corona,11368,Queens 24,0,0,0,4,12,16,40.737399,-73.860798
 657084,GFDC,License,Daycare Center For Little Stars LLC,New York,10040,Manhattan 6,0,0,0,4,12,16,40.863299,-73.929787
-813827,GFDC,License,"Acevedo Moreno, Ana",Corona,11368,Queens 24,0,0,0,0,12,12,40.7453,-73.8611
+813827,GFDC,License,"Acevedo Moreno, Ana",Corona,11368,Queens 24,0,0,0,0,12,12,40.7449859,-73.8642613
 579157,GFDC,License,"Deleon, Teresa",BRONX,10459,Bronx 12,0,0,0,2,12,14,40.821337,-73.901763
 717354,GFDC,License,"Burgos, Mabel",Bronx,10458,Bronx 10,0,0,0,0,10,10,40.859718,-73.895041
 400181,FDC,Registration,"Ajayi, Naomi",Bronx,10466,Bronx 11,0,0,0,2,6,8,40.891805,-73.844378
@@ -4608,16 +4608,16 @@ facility_id,program_type,facility_status,facility_name,city,zipcode,school_distr
 372189,SACC,Registration,"New York Edge, Inc.",Bronx,10469,Bronx 11,0,0,0,141,0,141,40.863063,-73.846946
 738468,GFDC,License,GROWING BUTTERFLIES INC,Bronx,10468,Bronx 10,0,0,0,0,12,12,40.862344,-73.907711
 882103,GFDC,License,THE EXCITING PLAYGROUP INC.,Brooklyn,11219,Brooklyn 20,0,0,0,4,12,16,40.635807,-73.996709
-627752,GFDC,License,"Cruz-Nolasco, Alexander",Bronx,10468,Bronx 10,0,0,0,4,12,16,40.8662,-73.9003
+627752,GFDC,License,"Cruz-Nolasco, Alexander",Bronx,10468,Bronx 10,0,0,0,4,12,16,40.8160855,-73.9247762
 529496,GFDC,License,Yonelis Group Family Day Care,Bronx,10462,Bronx 12,0,0,0,4,12,16,40.836053,-73.863031
-801161,GFDC,License,IJA DAYCARE INC.,College Point,11356,Queens 25,0,0,0,4,12,16,40.7855,-73.845
+801161,GFDC,License,IJA DAYCARE INC.,College Point,11356,Queens 25,0,0,0,4,12,16,40.786395,-73.8389657
 831652,GFDC,License,"Morel, Sudeljhy",Bronx,10472,Bronx 12,0,0,0,0,12,12,40.827863,-73.875049
 332369,GFDC,License,"King, Arlene",Brooklyn,11207,Brooklyn 19,0,0,0,4,12,16,40.661216,-73.887402
 597560,GFDC,License,Wonder Kids Day Care,Ozone Park,11417,Queens 27,0,0,0,4,12,16,40.680801,-73.849628
 253604,GFDC,License,Santos Day Care I,New York,10040,Manhattan 6,0,0,0,2,12,14,40.853408,-73.929102
 649105,GFDC,License,"Harris Jackson, Iris",Far Rockway,11691,Queens 27,0,0,0,4,12,16,40.60089,-73.765528
 882845,GFDC,License,"Douglas, Ellen",Bronx,10469,Bronx 11,0,0,0,4,12,16,40.867772,-73.851516
-846764,FDC,Registration,Amazing Green,New York,10002,Manhattan 1,0,0,0,2,6,8,40.7152,-73.9877
+846764,FDC,Registration,Amazing Green,New York,10002,Manhattan 1,0,0,0,2,6,8,40.5542209,-74.195489
 803626,GFDC,License,Greenpoint Garden Playhouse Inc.,Brooklyn,11222,Brooklyn 14,0,0,0,4,12,16,40.732044,-73.958469
 751698,GFDC,License,"Molina, Clara",Ozone Park,11417,Queens 27,0,0,0,4,12,16,40.668787,-73.835269
 266531,SACC,Registration,University Settlement Society of NY @PS 134,New York,10002,Manhattan 1,0,0,0,221,0,221,40.714515,-73.983172
@@ -4836,7 +4836,7 @@ facility_id,program_type,facility_status,facility_name,city,zipcode,school_distr
 524153,GFDC,License,"Nunez, Laura",Bronx,10457,Bronx 10,0,0,0,0,12,12,40.848382,-73.890919
 882987,GFDC,License,"Sierra, Yanil",Bronx,10462,Bronx 11,0,0,0,4,12,16,40.855517,-73.868559
 875728,GFDC,License,Lil Stars Daycare,Brooklyn,11221,Brooklyn 16,0,0,0,4,12,16,40.686508,-73.92934
-740710,GFDC,License,"Serrano, Doris",Bronx,10458,Bronx 10,0,0,0,4,12,16,40.8633,-73.8895
+740710,GFDC,License,"Serrano, Doris",Bronx,10458,Bronx 10,0,0,0,4,12,16,40.8357308,-73.8495422
 248773,SACC,Registration,"CHILD CENTER OF NEW YORK, INC.",Bayside,11364,Queens 26,0,0,0,108,0,108,40.74467,-73.766992
 391114,FDC,Registration,"White, Georgia",Rosedale,11422,Queens 29,0,0,0,2,6,8,40.682917,-73.730032
 540618,GFDC,License,AnnClyde Day Care Inc.,Brooklyn,11212,Brooklyn 18,0,0,0,4,12,16,40.655841,-73.919296
@@ -4938,7 +4938,7 @@ facility_id,program_type,facility_status,facility_name,city,zipcode,school_distr
 775370,GFDC,License,"Moran, Alba",BRONX,10456,Bronx 9,0,0,0,4,12,16,40.834519,-73.90406
 766000,GFDC,License,Little Treasures Day Care I Corp,Brooklyn,11221,Brooklyn 32,0,0,0,4,12,16,40.697396,-73.915653
 879799,GFDC,License,"Martinez Olivo, Diomaudy",Bronx,10467,Bronx 11,0,0,0,2,12,14,40.863553,-73.868553
-810734,GFDC,License,Kids Valley Daycare Inc.,Oakland Gardens,11364,Queens 26,0,0,0,4,12,16,40.7428,-73.7588
+810734,GFDC,License,Kids Valley Daycare Inc.,Oakland Gardens,11364,Queens 26,0,0,0,4,12,16,40.7408584,-73.758241
 851111,GFDC,License,OHANA DAYCARE SERVICES CORP,BRONX,10458,Bronx 10,0,0,0,4,12,16,40.864147,-73.894105
 709858,SACC,Registration,"NIA Community Services Network, Inc. @ IS-303",Brooklyn,11224,Brooklyn 21,0,0,0,121,0,121,40.582219,-73.972739
 854479,GFDC,License,My Little Sweetheart Corp,bayside,11360,Queens 25,0,0,0,4,12,16,40.78338,-73.791976
@@ -4987,7 +4987,7 @@ facility_id,program_type,facility_status,facility_name,city,zipcode,school_distr
 527243,GFDC,License,Smarty's GFDC,Brooklyn,11229,Brooklyn 22,0,0,0,4,12,16,40.598522,-73.945204
 72655,GFDC,License,"Mcleod, Maura",Brooklyn,11234,Brooklyn 22,0,0,0,4,12,16,40.630553,-73.924844
 844505,GFDC,License,"Moronta De Hernandez, Mercedes",Bronx,10468,Bronx 10,0,0,0,0,10,10,40.866534,-73.894396
-689092,GFDC,License,LITTLE BEES LLC,Middle Village,11379,Queens 24,0,0,0,4,12,16,40.7173,-73.8792
+689092,GFDC,License,LITTLE BEES LLC,Middle Village,11379,Queens 24,0,0,0,4,12,16,40.7103682,-73.8712182
 848386,GFDC,License,Cute Steps Inc.,Jamaica,11435,Queens 28,0,0,0,0,12,12,40.695937,-73.811995
 494300,SACC,Registration,BronxWorks,Bronx,10455,Bronx 7,0,0,0,170,0,170,40.812515,-73.914188
 824561,SACC,Registration,"Westhab, Inc. at West Prep Academy",New York,10025,Manhattan 3,0,0,0,101,0,101,40.799056,-73.96488
@@ -5001,7 +5001,7 @@ facility_id,program_type,facility_status,facility_name,city,zipcode,school_distr
 832764,FDC,Registration,Little Jem's Day Care,Brooklyn,11226,Brooklyn 17,0,0,0,2,6,8,40.647301,-73.955879
 794872,SACC,Registration,"PS 75 ASP, LLC",New York,10025,Manhattan 3,0,0,0,189,0,189,40.795031,-73.973632
 856809,FDC,Registration,"Inshanally, Sunita",Bronx,10462,Bronx 11,0,0,0,2,6,8,40.8379,-73.8515
-445050,GFDC,License,"Tejada, Yamiris",BRONX,10452,Bronx 9,0,0,0,0,12,12,40.8376,-73.9216
+445050,GFDC,License,"Tejada, Yamiris",BRONX,10452,Bronx 9,0,0,0,0,12,12,40.8799447,-73.8798833
 873044,GFDC,License,Kids II Dynasty LLC,Brooklyn,11236,Brooklyn 23,0,0,0,4,12,16,40.65263,-73.9103
 872240,GFDC,License,"Morris, Leon",Bronx,10466,Bronx 11,0,0,0,0,8,8,40.89623,-73.839427
 816650,FDC,Registration,"Agyemang, Faustina",Bronx,10452,Bronx 9,0,0,0,2,6,8,40.84576,-73.918108
@@ -5051,7 +5051,7 @@ facility_id,program_type,facility_status,facility_name,city,zipcode,school_distr
 673663,SACC,Registration,The Educational Alliance @ PS 188,New York,10002,Manhattan 1,0,0,0,242,0,242,40.719618,-73.977504
 809473,GFDC,License,Little Hearts Daycare,Glendale,11385,Queens 24,0,0,0,4,12,16,40.698671,-73.895013
 572140,FDC,Registration,"Johnson, Veronica",Brooklyn,11212,Brooklyn 23,0,0,0,2,6,8,40.662983,-73.910137
-704995,GFDC,License,"Rodriguez, Lorena",Ridgewood,11385,Queens 24,0,0,0,4,12,16,40.7036,-73.8961
+704995,GFDC,License,"Rodriguez, Lorena",Ridgewood,11385,Queens 24,0,0,0,4,12,16,40.7043986,-73.9018292
 718989,GFDC,License,"Keita, Kadidjatou",Bronx,10452,Bronx 9,0,0,0,4,12,16,40.840321,-73.924473
 849909,GFDC,License,"Cordero, Stephanie",bronx,10473,Bronx 8,0,0,0,4,12,16,40.818169,-73.865233
 866310,GFDC,License,"Serrano, Steven",Woodhaven,11421,Queens 27,0,0,0,4,12,16,40.691321,-73.858465
@@ -5066,7 +5066,7 @@ facility_id,program_type,facility_status,facility_name,city,zipcode,school_distr
 831835,GFDC,License,Gym-4 Inc.,Brooklyn,11203,Brooklyn 18,0,0,0,4,12,16,40.639067,-73.930219
 330153,GFDC,License,"Torres Rin, Alicia",OZONE PARK,11416,Queens 27,0,0,0,2,12,14,40.683463,-73.851585
 736229,FDC,Registration,"Rodriguez Galan, Josefina",Bronx,10455,Bronx 8,0,0,0,2,6,8,40.814809,-73.900162
-802411,GFDC,License,"Fun and Learning Group Family Day Care, Inc.",Staten Island,10304,Richmond 31,0,0,0,4,12,16,40.6102,-74.0878
+802411,GFDC,License,"Fun and Learning Group Family Day Care, Inc.",Staten Island,10304,Richmond 31,0,0,0,4,12,16,40.6449917,-74.0189615
 400754,GFDC,License,Jesus Loves The Little Angels #2 Day Care,Bronx,10457,Bronx 9,0,0,0,4,12,16,40.840196,-73.909716
 367965,GFDC,License,St Mary's Educational Day Care,Brooklyn,11236,Brooklyn 18,0,0,0,4,12,16,40.65075,-73.916526
 806720,SACC,Registration,"Friends of Crown Heights Edu Center, Inc.",Brooklyn,11213,Brooklyn 17,0,0,0,51,0,51,40.664534,-73.929299
@@ -5081,7 +5081,7 @@ facility_id,program_type,facility_status,facility_name,city,zipcode,school_distr
 110264,GFDC,License,"Adesina, Olatunji",Brooklyn,11233,Brooklyn 16,0,0,0,4,12,16,40.684569,-73.918197
 607850,GFDC,License,"Stoney, Sharon",SAINT ALBANS,11412,Queens 29,0,0,0,4,12,16,40.696079,-73.764574
 451819,GFDC,License,"Maldonado, Karina",New York,10033,Manhattan 6,0,0,0,4,12,16,40.851979,-73.937682
-616017,GFDC,License,My Sweet Home Group Family Day Care Inc,Bronx,10456,Bronx 9,0,0,0,4,12,16,40.8316,-73.9099
+616017,GFDC,License,My Sweet Home Group Family Day Care Inc,Bronx,10456,Bronx 9,0,0,0,4,12,16,40.8612635,-73.8524948
 775586,GFDC,License,"Ly, Ndeye",Bronx,10454,Bronx 7,0,0,0,4,12,16,40.806468,-73.919137
 684218,GFDC,License,"Baez, Elvis",Bronx,10457,Bronx 12,0,0,0,4,12,16,40.841364,-73.891609
 298000,GFDC,License,"Immanuel Child Care #2, LLC",Far Rockaway,11691,Queens 27,0,0,0,4,12,16,40.597841,-73.763077
@@ -5121,7 +5121,7 @@ facility_id,program_type,facility_status,facility_name,city,zipcode,school_distr
 240673,SACC,Registration,"New York Edge, Inc.",Astoria,11105,Queens 30,0,0,0,233,0,233,40.780245,-73.91612
 823552,FDC,Registration,"Hinton, Yolanda",Brooklyn,11216,Brooklyn 13,0,0,0,2,6,8,40.684042,-73.948931
 770745,SACC,Registration,"Rochdale Village, Inc.",Jamaica,11434,Queens 28,0,0,0,148,0,148,40.672812,-73.770586
-816452,GFDC,License,"Abed Fuentes, Niurka",New York,10034,Manhattan 6,0,0,0,4,12,16,40.8662,-73.9221
+816452,GFDC,License,"Abed Fuentes, Niurka",New York,10034,Manhattan 6,0,0,0,4,12,16,40.7127753,-74.0059728
 686569,GFDC,License,Good Kids Daycare Inc.,Flushing,11355,Queens 25,0,0,0,4,12,16,40.758825,-73.813405
 73691,SACC,Registration,Queens Community House,Forest Hills,11375,Queens 24,0,0,0,88,0,88,40.736153,-73.850148
 429608,FDC,Registration,"Paniagua, Maria",BRONX,10452,Bronx 9,0,0,0,2,6,8,40.838566,-73.915733
@@ -5274,7 +5274,7 @@ facility_id,program_type,facility_status,facility_name,city,zipcode,school_distr
 759022,GFDC,License,"Jimenez Sanchez, Kissy",Bronx,10457,Bronx 9,0,0,0,4,12,16,40.839581,-73.912138
 849744,GFDC,License,"Perez, Dayanna",Bronx,10456,Bronx 9,0,0,0,4,12,16,40.831114,-73.918343
 73895,SACC,Registration,Young Men's Christian Association,Queens,11365,Queens 26,0,0,0,105,0,105,40.736707,-73.77805
-723370,GFDC,License,"Curious Minds Group Family Daycare, Inc.",Maspeth,11378,Queens 24,0,0,0,2,12,14,40.7239,-73.8997
+723370,GFDC,License,"Curious Minds Group Family Daycare, Inc.",Maspeth,11378,Queens 24,0,0,0,2,12,14,40.7145208,-73.9038388
 382596,SACC,Registration,Phipps Community Development Corp. Beacon Prog. @ IS 192,Bronx,10465,Bronx 8,0,0,0,120,0,120,40.827038,-73.818645
 876405,GFDC,License,Dany Day Care Inc,flushing,11358,Queens 25,0,0,0,4,12,16,40.767885,-73.804224
 881987,GFDC,License,"Ramirez, Yoselin",Bronx,10472,Bronx 12,0,0,0,4,12,16,40.827183,-73.881002
@@ -5282,7 +5282,7 @@ facility_id,program_type,facility_status,facility_name,city,zipcode,school_distr
 816757,GFDC,License,ISATU-KANDEH DAY CARE,Bronx,10459,Bronx 12,0,0,0,2,12,14,40.823883,-73.890354
 224300,GFDC,License,"Almonte James, Digna",Bronx,10459,Bronx 12,0,0,0,2,12,14,40.822333,-73.893671
 274823,SACC,Registration,Imani House/P.S 282 After School Program,Brooklyn,11217,Brooklyn 13,0,0,0,120,0,120,40.676462,-73.977442
-575062,GFDC,License,"Fan, Qiuling",Flushing,11358,Queens 25,0,0,0,4,12,16,40.7606,-73.7968
+575062,GFDC,License,"Fan, Qiuling",Flushing,11358,Queens 25,0,0,0,4,12,16,40.7647238,-73.8306716
 312387,GFDC,License,"Peltz, Fanny",Brooklyn,11223,Brooklyn 21,0,0,0,4,12,16,40.603482,-73.965323
 73540,SACC,Registration,THE CHILDREN'S AID SOCIETY FRED DOUGLAS CHILDREN'S CENTER,New York,10025,Manhattan 3,0,0,0,199,0,199,40.797597,-73.963776
 738245,GFDC,License,"Tosado, Emmanuel",Bronx,10458,Bronx 10,0,0,0,4,12,16,40.864546,-73.888966
@@ -5330,7 +5330,7 @@ facility_id,program_type,facility_status,facility_name,city,zipcode,school_distr
 878290,GFDC,License,"Shining Stars, Inc.",Bronx,10472,Bronx 12,0,0,0,4,12,16,40.828089,-73.877305
 518452,GFDC,License,"Jimenez, Amalia",New York,10040,Manhattan 6,0,0,0,4,12,16,40.853786,-73.929201
 72210,GFDC,Pending Revocation,"Graves, Linda",Richmond Hill,11418,Queens 27,0,0,0,4,12,16,40.6935,-73.830731
-866865,GFDC,License,Tiny Thinkers Daycare Inc.,Ozone Park,11416,Queens 27,0,0,0,4,12,16,40.6838,-73.8514
+866865,GFDC,License,Tiny Thinkers Daycare Inc.,Ozone Park,11416,Queens 27,0,0,0,4,12,16,40.6849394,-73.840086
 686217,GFDC,License,"Coronado, Ariel",Bronx,10452,Bronx 9,0,0,0,0,12,12,40.836155,-73.917135
 843257,GFDC,License,Wise Kids Day Care Inc,Bronx,10466,Bronx 11,0,0,0,4,12,16,40.893801,-73.84766
 548008,GFDC,License,MY FIRST STEP ENRICHMENT PROGRAM 2 INC,Bronx,10456,Bronx 9,0,0,0,4,12,16,40.832137,-73.900549
@@ -5404,7 +5404,7 @@ facility_id,program_type,facility_status,facility_name,city,zipcode,school_distr
 861604,GFDC,License,"Jimenez, Janelis",Brooklyn,11233,Brooklyn 23,0,0,0,4,12,16,40.682277,-73.912106
 799044,GFDC,License,Learn & Play Inc,Brooklyn,11219,Brooklyn 20,0,0,0,4,12,16,40.634542,-73.985671
 414418,GFDC,License,"Mateo- German, Dennys",BRONX,10455,Bronx 7,0,0,0,4,12,16,40.812304,-73.908243
-789891,GFDC,License,"Bell, Mirna",Bronx,10459,Bronx 12,0,0,0,4,12,16,40.8247,-73.894
+789891,GFDC,License,"Bell, Mirna",Bronx,10459,Bronx 12,0,0,0,4,12,16,40.88026929999999,-73.87916249999999
 875407,GFDC,License,"Santiago De Castillo, Anyolina",Woodhaven,11421,Queens 27,0,0,0,4,12,16,40.689662,-73.866241
 865748,GFDC,License,"Ko, Mei",Brooklyn,11228,Brooklyn 20,0,0,0,4,12,16,40.614205,-74.006861
 784751,GFDC,License,KID'S N TODD'S LLC,Bronx,10466,Bronx 11,0,0,0,4,12,16,40.8882,-73.8344
@@ -5428,7 +5428,7 @@ facility_id,program_type,facility_status,facility_name,city,zipcode,school_distr
 792966,GFDC,License,Arcoiris Group Family Daycare,Bronx,10460,Bronx 11,0,0,0,4,12,16,40.838616,-73.870333
 878510,SACC,Registration,"Homes for the Homeless, Inc.",Bronx,10473,Bronx 8,0,0,0,40,0,40,40.816417,-73.869801
 690122,GFDC,License,"Nicholson, Roslyn",Brooklyn,11233,Brooklyn 16,0,0,0,4,12,16,40.676116,-73.924076
-710401,GFDC,License,SWEET ANGEL CHILD CARE CORP,Bronx,10452,Bronx 9,0,0,0,4,12,16,40.8376,-73.9216
+710401,GFDC,License,SWEET ANGEL CHILD CARE CORP,Bronx,10452,Bronx 9,0,0,0,4,12,16,40.8395451,-73.9245437
 52794,FDC,Registration,"Reyes, Rafaela",Bronx,10468,Bronx 10,0,0,0,2,6,8,40.861077,-73.908728
 518899,GFDC,License,"Lora Martinez, Maydeli",Bronx,10452,Bronx 9,0,0,0,2,12,14,40.842097,-73.925132
 819478,GFDC,License,"Naula, Sonia",Brooklyn,11237,Queens 24,0,0,0,4,12,16,40.705076,-73.915893
@@ -5637,7 +5637,7 @@ facility_id,program_type,facility_status,facility_name,city,zipcode,school_distr
 814819,GFDC,License,"Gonzalez Feliz, Ana",Bronx,10473,Bronx 8,0,0,0,0,10,10,40.825269,-73.85191
 852758,GFDC,License,"Vega, Sofia",Bronx,10461,Bronx 11,0,0,0,4,12,16,40.846419,-73.850787
 798863,FDC,Registration,"Caceres De Abreu, Miliana",Bronx,10453,Bronx 9,0,0,0,2,6,8,40.846586,-73.915633
-430732,GFDC,License,"Perez, Ana",BRONX,10455,Bronx 8,0,0,0,0,12,12,40.8153,-73.9072
+430732,GFDC,License,"Perez, Ana",BRONX,10455,Bronx 8,0,0,0,0,12,12,40.8473664,-73.9194397
 267316,SACC,Registration,NIA COMMUNITY SERVICES NETWORK @ P.S. 247,Brooklyn,11204,Brooklyn 20,0,0,0,300,0,300,40.612328,-73.986868
 410015,GFDC,License,"One Step Up Day Care, Inc.",Springfield Gardens,11413,Queens 29,0,0,0,2,10,12,40.672362,-73.759175
 486296,SACC,Registration,82nd Street Academics After School at T. R. C.S.,Jackson Heights,11372,Queens 30,0,0,0,134,0,134,40.749943,-73.885164
@@ -5673,7 +5673,7 @@ facility_id,program_type,facility_status,facility_name,city,zipcode,school_distr
 545513,FDC,Registration,"Alexis, Juliet",Bronx,10467,Bronx 11,0,0,0,2,6,8,40.860734,-73.868264
 860035,GFDC,License,"Ivy Prep Learning Lab, LLC",New York,10024,Manhattan 3,0,0,0,4,12,16,40.788608,-73.97083
 420095,SACC,Registration,Bronx Community College Early Childhood Center,Bronx,10453,Bronx 10,0,0,0,30,0,30,40.857076,-73.909951
-581301,GFDC,License,LITTLE BEES LLC,Middle Village,11379,Queens 24,0,0,0,4,12,16,40.7173,-73.8792
+581301,GFDC,License,LITTLE BEES LLC,Middle Village,11379,Queens 24,0,0,0,4,12,16,40.7103682,-73.8712182
 375497,SACC,Registration,NIA Advantage ASP @ PS 204,Brooklyn,11228,Brooklyn 20,0,0,0,224,0,224,40.614061,-74.00655
 226972,GFDC,License,"Straker, Elaine",Brooklyn,11207,Brooklyn 19,0,0,0,4,12,16,40.662814,-73.893329
 725021,GFDC,License,"Jimenez, Ana",Bronx,10467,Bronx 10,0,0,0,4,12,16,40.871999,-73.880128
@@ -5684,7 +5684,7 @@ facility_id,program_type,facility_status,facility_name,city,zipcode,school_distr
 849307,GFDC,License,Jardin Del Eden Daycare II Corp,Bronx,10473,Bronx 8,0,0,0,4,12,16,40.81061,-73.85314
 71586,GFDC,License,"Arias, Roberta",Bronx,10453,Bronx 10,0,0,0,2,12,14,40.855713,-73.902112
 882928,GFDC,License,"Ejdelman, David",Bronx,10471,Yonkers,0,0,0,4,12,16,40.911216,-73.899402
-649350,GFDC,License,Head Start Daycare Services Inc.,Ozone Park,11416,Queens 27,0,0,0,4,12,16,40.6838,-73.8514
+649350,GFDC,License,Head Start Daycare Services Inc.,Ozone Park,11416,Queens 27,0,0,0,4,12,16,40.6866636,-73.83838589999999
 821523,GFDC,License,A AND K GROUP FAMILY DAY CARE CORP,Bronx,10452,Bronx 9,0,0,0,4,12,16,40.830935,-73.922774
 504436,GFDC,License,YoungerMusik Corp.,Brooklyn,11214,Brooklyn 20,0,0,0,4,12,16,40.601771,-74.003353
 822393,GFDC,License,"Stevens, Lashawn",Bronx,10453,Bronx 10,0,0,0,0,10,10,40.854998,-73.914936
@@ -5704,7 +5704,7 @@ facility_id,program_type,facility_status,facility_name,city,zipcode,school_distr
 464873,GFDC,License,"Ali, Magalys",BRONX,10457,Bronx 9,0,0,0,0,12,12,40.848011,-73.906045
 242574,GFDC,License,"Patton, Latycha",Brooklyn,11212,Brooklyn 17,0,0,0,4,12,16,40.665307,-73.921655
 360544,GFDC,License,"Yakubova, Anzhela",Middle Village,11379,Queens 24,0,0,0,4,12,16,40.723784,-73.871079
-330015,GFDC,License,Kiddy Corner Universal Daycare,Queens,11434,Queens 28,0,0,0,4,12,16,40.6775,-73.7758
+330015,GFDC,License,Kiddy Corner Universal Daycare,Queens,11434,Queens 28,0,0,0,4,12,16,40.6910219,-73.858254
 875196,GFDC,License,Green Hive,Brooklyn,11211,Brooklyn 14,0,0,0,4,12,16,40.712571,-73.95661
 683782,GFDC,License,"Cabrera Vanegas, Carmen",Ridgewood,11385,Queens 24,0,0,0,4,12,16,40.701966,-73.886524
 603270,GFDC,License,Flor - Angel Day Care,New York,10031,Manhattan 6,0,0,0,4,12,16,40.821838,-73.956389
@@ -5779,7 +5779,7 @@ facility_id,program_type,facility_status,facility_name,city,zipcode,school_distr
 755023,GFDC,License,"REGINA GROUP FAMILY DAY CARE, INC",Brooklyn,11206,Brooklyn 32,0,0,0,2,12,14,40.701926,-73.931614
 862538,SACC,Registration,University Settlement Society of New York,Brooklyn,11203,Brooklyn 17,0,0,0,40,0,40,40.658636,-73.928569
 444354,GFDC,License,Children Paradise Day Care Inc.,Brooklyn,11225,Brooklyn 17,0,0,0,4,12,16,40.668697,-73.953539
-772181,FDC,Registration,"Kassambara, Fatoumata",Bronx,10456,Bronx 9,0,0,0,2,6,8,40.8316,-73.9099
+772181,FDC,Registration,"Kassambara, Fatoumata",Bronx,10456,Bronx 9,0,0,0,2,6,8,40.8447819,-73.8648268
 791548,GFDC,License,CHILDREN'S IN VICTORY DAY CARE CORP.,New York,10034,Manhattan 6,0,0,0,4,12,16,40.866452,-73.922951
 196731,GFDC,License,"Nunez Santos, Bartola",BRONX,10453,Bronx 9,0,0,0,4,12,16,40.846759,-73.923743
 74123,SACC,Registration,Our Children's Center @ NYC Technical College,Brooklyn,11201,Brooklyn 13,0,0,0,15,0,15,40.695271,-73.987306
@@ -5790,7 +5790,7 @@ facility_id,program_type,facility_status,facility_name,city,zipcode,school_distr
 874535,GFDC,License,"Valdez, Jennifer",Bronx,10451,Bronx 7,0,0,0,0,12,12,40.81548,-73.924625
 809944,GFDC,License,HAPPY CHILD DAY CARE INC.,Brooklyn,11220,Brooklyn 20,0,0,0,4,12,16,40.632742,-74.01917
 844924,GFDC,License,SWEET SECOND HOME DAYCARE,Bronx,10462,Bronx 11,0,0,0,4,12,16,40.837991,-73.848734
-457022,GFDC,License,Mells Showers of Blessing LLC,Brooklyn,11224,Brooklyn 21,0,0,0,4,12,16,40.5767,-73.9884
+457022,GFDC,License,Mells Showers of Blessing LLC,Brooklyn,11224,Brooklyn 21,0,0,0,4,12,16,40.743326,-74.0076211
 451367,GFDC,License,LA JUNE CARE,Hollis,11423,Queens 29,0,0,0,2,12,14,40.710539,-73.757288
 854354,GFDC,License,"GS Daycare, Inc.",Brooklyn,11215,Brooklyn 15,0,0,0,0,12,12,40.663133,-73.990053
 846975,SACC,Registration,"Children's Arts & Science Workshops, Inc.",New York,10034,Manhattan 6,0,0,0,60,0,60,40.862152,-73.920828
@@ -5826,7 +5826,7 @@ facility_id,program_type,facility_status,facility_name,city,zipcode,school_distr
 143049,SACC,Registration,"Step By Step Early Childhood Center, Inc.",Brooklyn,11212,Brooklyn 23,0,0,0,23,0,23,40.660006,-73.917722
 255423,SACC,Registration,"Harlem Children's Zone, Inc.",New York,10035,Manhattan 5,0,0,0,227,0,227,40.806013,-73.94092
 401087,FDC,Registration,"Alvira, Reyna",Bronx,10457,Bronx 12,0,0,0,2,6,8,40.842716,-73.892266
-252223,GFDC,License,"Williams, Petal",Brooklyn,11226,Brooklyn 17,0,0,0,4,12,16,40.6467,-73.957
+252223,GFDC,License,"Williams, Petal",Brooklyn,11226,Brooklyn 17,0,0,0,4,12,16,40.6460498,-74.00911719999999
 616757,GFDC,License,"Molina, Altagracia",Brooklyn,11221,Brooklyn 32,0,0,0,4,12,16,40.692906,-73.918941
 709785,SACC,Registration,"New York Edge, Inc.",Brooklyn,11233,Brooklyn 16,0,0,0,86,0,86,40.672846,-73.919755
 549386,GFDC,License,"Williams, Gwendolyn",Brooklyn,11225,Brooklyn 17,0,0,0,4,12,16,40.660443,-73.948
@@ -5912,7 +5912,7 @@ facility_id,program_type,facility_status,facility_name,city,zipcode,school_distr
 264299,GFDC,License,"Cruz, Raysa",Bronx,10453,Bronx 10,0,0,0,2,12,14,40.850663,-73.918013
 268731,GFDC,License,Great Smiles Day Care Center,Brooklyn,11216,Brooklyn 13,0,0,0,4,12,16,40.682307,-73.946381
 339179,SACC,Registration,The Child Center Of New York @ PS 56,Richmond Hill,11418,Queens 27,0,0,0,280,0,280,40.699098,-73.83547
-447825,GFDC,License,"Padilla, Jenny",Brooklyn,11208,Brooklyn 19,0,0,0,4,12,16,40.6762,-73.8736
+447825,GFDC,License,"Padilla, Jenny",Brooklyn,11208,Brooklyn 19,0,0,0,4,12,16,40.6549637,-73.9593081
 168690,GFDC,License,"Wong, Siau Ling",Brooklyn,11204,Brooklyn 21,0,0,0,4,12,16,40.611497,-73.981187
 789126,FDC,Registration,"Espinal, Niurka",Bronx,10452,Bronx 9,0,0,0,2,6,8,40.829853,-73.922667
 844389,GFDC,License,"Gilkes, Racquel",Brooklyn,11207,Brooklyn 19,0,0,0,4,12,16,40.661817,-73.892809
@@ -6226,7 +6226,7 @@ facility_id,program_type,facility_status,facility_name,city,zipcode,school_distr
 888584,GFDC,License,"Reyes, Seyri",Bronx,10452,Bronx 9,0,0,0,0,10,10,40.839803,-73.91591
 896550,GFDC,License,DAYCARE RUBY CORPORATION,Bronx,10451,Bronx 9,0,0,0,4,12,16,40.828623,-73.921351
 892721,FDC,Registration,"Columbus, Soliris",Bronx,10467,Bronx 10,0,0,0,2,6,8,40.873978,-73.874561
-917054,GFDC,License,"Milligan, Garnet",New York,10032,Manhattan 6,0,0,0,4,9,13,40.8382,-73.942
+917054,GFDC,License,"Milligan, Garnet",New York,10032,Manhattan 6,0,0,0,4,9,13,40.7351084,-73.9986831
 890505,GFDC,License,"Neely, Angeline",Bronx,10469,Bronx 11,0,0,0,2,12,14,40.873931,-73.850658
 886885,GFDC,License,MI DULCE HOGAR 2  CORP.,Jackson Heights,11372,Queens 30,0,0,0,4,12,16,40.752426,-73.875155
 913691,GFDC,License,D'LOA GROUP FAMILY DAYCARE LLC,Bronx,10453,Bronx 10,0,0,0,2,12,14,40.857778,-73.906314
@@ -6307,7 +6307,7 @@ facility_id,program_type,facility_status,facility_name,city,zipcode,school_distr
 903915,GFDC,License,Learn and Discover 3 Inc.,Staten Island,10314,Richmond 31,0,0,0,4,12,16,40.617198,-74.132448
 893130,GFDC,License,"Keita, Bintou",Bronx,10465,Bronx 8,0,0,0,2,12,14,40.823508,-73.824092
 891906,GFDC,License,Genie Angels Group Family Day Care,Bronx,10458,Bronx 10,0,0,0,4,12,16,40.866454,-73.892813
-919342,FDC,Registration,"Castillo, Maria",NEW YORK,10031,,0,0,0,0,6,6,40.8246,-73.9507
+919342,FDC,Registration,"Castillo, Maria",NEW YORK,10031,,0,0,0,0,6,6,40.7900357,-73.95384589999999
 908589,GFDC,License,"Contreras Acosta, Evelin",Bronx,10452,Bronx 9,0,0,0,0,12,12,40.837652,-73.923975
 890452,GFDC,License,The Kids Place Daycare Corp,New York,10034,Manhattan 6,0,0,0,4,12,16,40.868925,-73.92314
 884578,GFDC,License,"Henriquez, Jenniffer",Bronx,10472,Bronx 12,0,0,0,4,12,16,40.830918,-73.867248
@@ -6340,7 +6340,7 @@ facility_id,program_type,facility_status,facility_name,city,zipcode,school_distr
 884433,GFDC,License,"Martinez De Ramirez, Alexandra",Bronx,10458,Bronx 10,0,0,0,0,12,12,40.863572,-73.895071
 889243,GFDC,License,"Perez, Maria",Bronx,10462,Bronx 11,0,0,0,4,12,16,40.842018,-73.853077
 917334,GFDC,License,TLLC ChildCare inc,staten island,10303,Richmond 31,0,0,0,4,12,16,40.633591,-74.152976
-912174,GFDC,License,Sphere Enrichment LLC,Brooklyn,11235,Brooklyn 22,0,0,0,4,12,16,40.5839,-73.9536
+912174,GFDC,License,Sphere Enrichment LLC,Brooklyn,11235,Brooklyn 22,0,0,0,4,12,16,40.6235188,-74.00449669999999
 905787,GFDC,License,Happy Kids Loviing Daycare Inc,Bronx,10456,Bronx 9,0,0,0,2,12,14,40.833044,-73.910967
 906162,GFDC,License,FABULOUS DAYCARE CORP.,BRONX,10457,Bronx 9,0,0,0,4,12,16,40.847912,-73.902339
 918542,GFDC,License,"Bostick, Tanya",Arverne,11692,Queens 27,0,0,0,4,12,16,40.596254,-73.799792
@@ -6373,7 +6373,7 @@ facility_id,program_type,facility_status,facility_name,city,zipcode,school_distr
 916235,GFDC,License,"Paz, Emma",Bronx,10458,Bronx 10,0,0,0,2,12,14,40.870685,-73.889492
 922070,GFDC,License,BABY HUB INC,Brooklyn,11219,Brooklyn 20,0,0,0,4,12,16,40.636034,-73.997079
 885827,FDC,Registration,"Almonte Ravelo, Meleny",Bronx,10457,Bronx 10,0,0,0,2,6,8,40.855397,-73.899913
-914705,FDC,Registration,Paula’s Daycare,Rego Park,11374,Queens 28,0,0,0,2,6,8,40.7278,-73.8602
+914705,FDC,Registration,Paula’s Daycare,Rego Park,11374,Queens 28,0,0,0,2,6,8,40.7267913,-73.8624675
 895009,GFDC,License,"Velez, Evelyn",Richmond hill,11419,Queens 28,0,0,0,4,12,16,40.690767,-73.812615
 885388,GFDC,License,"Rocha Nunez, Maria",Bronx,10458,Bronx 10,0,0,0,0,8,8,40.869188,-73.891589
 883083,GFDC,License,"Samoura, Adesuyi",Staten Island,10303,Richmond 31,0,0,0,4,12,16,40.622613,-74.161651
@@ -6451,13 +6451,13 @@ facility_id,program_type,facility_status,facility_name,city,zipcode,school_distr
 883427,GFDC,License,"Rodriguez, Naomy",Elmhurst,11373,Queens 24,0,0,0,4,12,16,40.747503,-73.879137
 895155,GFDC,License,2 Skip Hop And Jump Inc,bronx,10457,Bronx 12,0,0,0,4,12,16,40.848665,-73.888179
 888487,GFDC,License,Little Roars Corp.,Bronx,10459,Bronx 12,0,0,0,4,12,16,40.820091,-73.901164
-914796,GFDC,License,"Rodriguez, Leydi",Bronx,10456,Bronx 9,0,0,0,4,12,16,40.8316,-73.9099
+914796,GFDC,License,"Rodriguez, Leydi",Bronx,10456,Bronx 9,0,0,0,4,12,16,40.84570859999999,-73.8975124
 898253,GFDC,License,MERRYGOCHILD INC.,Brooklyn,11204,Brooklyn 21,0,0,0,4,12,16,40.620064,-73.978807
 900839,GFDC,License,Nurturing Hands A Home Away from Home,Jamaica,11434,Queens 29,0,0,0,4,12,16,40.683107,-73.762475
 891045,GFDC,License,ABC ADVENTURE TIME GROUP FAMILY DAYCARE LLC.,Bronx,10458,Bronx 10,0,0,0,4,12,16,40.866821,-73.885865
 914206,GFDC,License,SUNSHINE TOTS LEARNING DAYCARE CORP,BRONX,10458,Bronx 10,0,0,0,4,12,16,40.867756,-73.885116
 915231,GFDC,License,GIA'S LEARNING CLUBHOUSE LLC,Bronx,10474,Bronx 8,0,0,0,0,12,12,40.814649,-73.891165
-886284,GFDC,License,"Cortes, Luz",East Elmhurst,11369,Queens 30,0,0,0,4,12,16,40.7613,-73.8739
+886284,GFDC,License,"Cortes, Luz",East Elmhurst,11369,Queens 30,0,0,0,4,12,16,40.7660427,-73.8758704
 889518,GFDC,License,"Ferreras Grullon, Liany",Bronx,10467,Bronx 11,0,0,0,0,12,12,40.862048,-73.870322
 919032,GFDC,License,Kisses & Smiles LLC,Astoria,11106,Queens 30,0,0,0,4,12,16,40.762813,-73.921538
 909811,GFDC,License,Sherris' Little Leaders LLC,Laurelton,11413,Queens 29,0,0,0,4,12,16,40.678444,-73.740419
@@ -6473,7 +6473,7 @@ facility_id,program_type,facility_status,facility_name,city,zipcode,school_distr
 918616,SACC,Registration,"BUILDING AND GROWING, LLC",SPRINGFIELD GARDENS,11413,Queens 29,0,0,0,28,0,28,40.686119,-73.75724
 895448,SACC,Registration,BEST PREP,Whitestone,11357,Queens 25,0,0,0,305,0,305,40.783706,-73.795026
 903260,GFDC,License,"Tejada, Cheryl",Bronx,10467,Bronx 10,0,0,0,0,12,12,40.874451,-73.87746
-920458,GFDC,License,LITTLE ONES 141844 INC.,Brooklyn,11219,Brooklyn 20,0,0,0,4,12,16,40.6336,-73.996
+920458,GFDC,License,LITTLE ONES 141844 INC.,Brooklyn,11219,Brooklyn 20,0,0,0,4,12,16,40.7443833,-73.9564833
 917976,GFDC,License,Kids Galaxy Daycare LLC,Bronx,10456,Bronx 9,0,0,0,2,12,14,40.832846,-73.917861
 898978,GFDC,License,Tangled Group Family Daycare,Bronx,10452,Bronx 9,0,0,0,4,12,16,40.843429,-73.91439
 917944,GFDC,License,Urban strategies Group Family Day care,Brooklyn,11236,Brooklyn 18,0,0,0,4,12,16,40.645137,-73.890835
@@ -6493,7 +6493,7 @@ facility_id,program_type,facility_status,facility_name,city,zipcode,school_distr
 907632,GFDC,License,"George Del Jesus, Yesseida",Bronx,10452,Bronx 9,0,0,0,4,12,16,40.842319,-73.912583
 908201,GFDC,License,Dahiana Family Group Daycare Corp.,Bronx,10472,Bronx 12,0,0,0,4,12,16,40.827371,-73.875295
 902805,GFDC,License,HAPPY SPACE DAYCARE CORP.,Bronx,10467,Bronx 11,0,0,0,4,12,16,40.864653,-73.868519
-915460,GFDC,License,Freilich Tots,Brooklyn,11249,Brooklyn 14,0,0,0,4,12,16,40.6451,-73.945
+915460,GFDC,License,Freilich Tots,Brooklyn,11249,Brooklyn 14,0,0,0,4,12,16,40.6033191,-73.9613938
 909168,SACC,Registration,Kids in the Game LLC,Bronx,10453,Bronx 10,0,0,0,38,0,38,40.857741,-73.904076
 891623,GFDC,License,"Polanco, Lewis",Bronx,10468,Bronx 10,0,0,0,2,12,14,40.874146,-73.901907
 891356,GFDC,License,SMART LITTLE ONES INC.,Bronx,10463,Bronx 10,0,0,0,0,12,12,40.877937,-73.906509
@@ -6543,7 +6543,7 @@ facility_id,program_type,facility_status,facility_name,city,zipcode,school_distr
 914873,GFDC,License,"Donohue, John",Bronx,10472,Bronx 8,0,0,0,4,12,16,40.825071,-73.880976
 892459,GFDC,License,Glesy Daycare Corp,Bronx,10451,Bronx 9,0,0,0,2,10,12,40.825321,-73.918298
 922318,GFDC,License,Wonderful kids Child Daycare 2,Brooklyn,11207,Brooklyn 19,0,0,0,4,12,16,40.670659,-73.891482
-911762,GFDC,License,Level 2 DC LLC,Brooklyn,11219,Brooklyn 20,0,0,0,4,12,16,40.6336,-73.996
+911762,GFDC,License,Level 2 DC LLC,Brooklyn,11219,Brooklyn 20,0,0,0,4,12,16,40.7443173,-73.9841156
 885296,GFDC,License,"Ortiz Guerrero, Denia Maria",New York,10033,Manhattan 6,0,0,0,4,12,16,40.852352,-73.937564
 893766,GFDC,License,MY LITTLE LIVES GROUP FAMILY DAYCARE LLC.,Bronx,10458,Bronx 10,0,0,0,4,12,16,40.86845,-73.885386
 896688,GFDC,License,The Little Angels Of God Corp,Bronx,10454,Bronx 7,0,0,0,4,12,16,40.806039,-73.913167
@@ -6636,7 +6636,7 @@ facility_id,program_type,facility_status,facility_name,city,zipcode,school_distr
 904017,SACC,Registration,Commonpoint Queens,Jamaica,11435,Queens 28,0,0,0,317,0,317,40.695133,-73.80693
 902166,GFDC,License,"Little Thinkers Journey to Success, Inc.",Bellerose,11426,Queens 29,0,0,0,4,12,16,40.726167,-73.731206
 914315,GFDC,License,L and K Laugh and Play CORP,Bronx,10458,Bronx 10,0,0,0,4,12,16,40.854601,-73.882385
-908078,GFDC,License,cuddlesome inc,brooklyn,11219,Brooklyn 20,0,0,0,4,12,16,40.6336,-73.996
+908078,GFDC,License,cuddlesome inc,brooklyn,11219,Brooklyn 20,0,0,0,4,12,16,40.6339995,-73.9999866
 889386,GFDC,License,Tiny Kids Hearts Daycare Corp,BRONX,10456,Bronx 9,0,0,0,4,12,16,40.830235,-73.916812
 892399,GFDC,License,"JARDIN FUTURO BRILLANTE, INC.",Brooklyn,11208,Brooklyn 19,0,0,0,4,12,16,40.686884,-73.873925
 906504,GFDC,License,"Estevez, Florinda",Brooklyn,11208,Brooklyn 19,0,0,0,4,12,16,40.686498,-73.877803
@@ -6659,7 +6659,7 @@ facility_id,program_type,facility_status,facility_name,city,zipcode,school_distr
 895565,FDC,Registration,"Vargas De Almonte, Carmen",Bronx,10458,Bronx 10,0,0,0,2,6,8,40.860756,-73.892638
 908722,GFDC,License,"Mercado Velez, Linabel",Bronx,10459,Bronx 12,0,0,0,0,10,10,40.824171,-73.900869
 915850,GFDC,License,MAGIC MOMENTS DAYCARE INC,New York,10032,Manhattan 6,0,0,0,0,12,12,40.839739,-73.943057
-910723,FDC,Registration,SpringKids Family Daycare LLC,Flushing,11354,Queens 25,0,0,0,2,6,8,40.7667,-73.8241
+910723,FDC,Registration,SpringKids Family Daycare LLC,Flushing,11354,Queens 25,0,0,0,2,6,8,40.7661781,-73.8303948
 906363,GFDC,License,Miss Yaris I Daycare Inc,BRONX,10467,Bronx 10,0,0,0,4,12,16,40.87784,-73.882195
 898673,SACC,Registration,"Woodside on the Move, Inc",WOODSIDE,11377,Queens 30,0,0,0,240,0,240,40.756617,-73.902468
 897724,GFDC,License,"Ferguson, Danet",Bronx,10466,Bronx 11,0,0,0,0,8,8,40.890004,-73.841796
@@ -6752,7 +6752,7 @@ facility_id,program_type,facility_status,facility_name,city,zipcode,school_distr
 890794,GFDC,License,"Cruz De Gonzalez, Ysabel",Bronx,10472,Bronx 12,0,0,0,0,12,12,40.828944,-73.870321
 906718,SACC,Registration,Minds At Play LLC,Bronx,10459,Bronx 12,0,0,0,44,0,44,40.828981,-73.888451
 907573,GFDC,License,Explorers R Us LLC,Bronx,10473,Bronx 8,0,0,0,4,12,16,40.811383,-73.855197
-908863,GFDC,License,Amazing Children Daycare,Jamaica,11413,,0,0,0,4,12,16,40.6645,-73.7559
+908863,GFDC,License,Amazing Children Daycare,Jamaica,11413,,0,0,0,4,12,16,40.6970197,-73.7721129
 889249,GFDC,License,"Maria Sanchez, Pamela",BRONX,10451,Bronx 9,0,0,0,4,12,16,40.822566,-73.9152
 891689,GFDC,License,"Omenukor, Ngozi",springfield gardens,11413,Queens 29,0,0,0,4,12,16,40.666598,-73.753518
 900654,GFDC,License,"Williams, Ashley",Bronx,10456,Bronx 9,0,0,0,0,10,10,40.837144,-73.904366
@@ -6810,10 +6810,10 @@ facility_id,program_type,facility_status,facility_name,city,zipcode,school_distr
 884804,GFDC,License,Garden of Eden Group Daycare,Jamaica,11436,Queens 27,0,0,0,4,12,16,40.675614,-73.798981
 901642,GFDC,License,"LITTLE ANGEL ABC 3, CORP.",Richmond Hill,11418,Queens 28,0,0,0,4,12,16,40.689557,-73.825582
 892704,GFDC,License,"ESTRELLA DAYCARE, INC",Bronx,10470,Bronx 11,0,0,0,4,12,16,40.900713,-73.855124
-918410,GFDC,License,LULLABY DAYCARE INC,Brooklyn,11219,Brooklyn 20,0,0,0,4,12,16,40.6336,-73.996
+918410,GFDC,License,LULLABY DAYCARE INC,Brooklyn,11219,Brooklyn 20,0,0,0,4,12,16,40.6677886,-73.9877222
 884986,GFDC,License,"Montan, Fransheska",Bronx,10452,Bronx 9,0,0,0,4,12,16,40.836142,-73.927902
 902340,GFDC,License,"Frias, Nelsida",Bronx,10463,Bronx 10,0,0,0,0,12,12,40.869763,-73.905743
-920919,GFDC,License,"Gomez, Florangel",Bronx,10459,Bronx 8,0,0,0,0,12,12,40.8247,-73.894
+920919,GFDC,License,"Gomez, Florangel",Bronx,10459,Bronx 8,0,0,0,0,12,12,40.8216736,-73.9563026
 902082,SACC,Registration,YDHC Consulting Daycare INC,Brooklyn,11237,Queens 24,0,0,0,20,0,20,40.70485,-73.916451
 901169,FDC,Registration,"Pena Taveras, Jeisi",Bronx,10468,Bronx 10,0,0,0,2,6,8,40.860523,-73.907177
 911980,GFDC,License,"Estevez Tatis, Lisbeth",Woodhaven,11421,Queens 27,0,0,0,4,12,16,40.685414,-73.860442
@@ -6847,7 +6847,7 @@ facility_id,program_type,facility_status,facility_name,city,zipcode,school_distr
 885126,SACC,Registration,NYA PREP INC.,Whitestone,11357,Queens 25,0,0,0,56,0,56,40.778156,-73.799839
 910915,SACC,Registration,NYC Parks & Recreation at A.R.R.O.W.,Astoria,11106,Queens 30,0,0,0,60,0,60,40.755852,-73.926373
 888019,SACC,Registration,Diamond Kidz Education Center LLC,Brooklyn,11236,Brooklyn 18,0,0,0,80,0,80,40.650905,-73.913885
-912376,GFDC,License,Rachel Dayan Daycare LLC,Brooklyn,11207,Brooklyn 21,0,0,0,4,12,16,40.6705,-73.894
+912376,GFDC,License,Rachel Dayan Daycare LLC,Brooklyn,11207,Brooklyn 21,0,0,0,4,12,16,40.6781784,-73.9441579
 904477,FDC,Registration,"Lekperic, Tuse",Staten island,10305,Richmond 31,0,0,0,0,6,6,40.593195,-74.077146
 883322,GFDC,License,Step Up group Family Daycare,Bronx,10467,Bronx 11,0,0,0,4,12,16,40.88155,-73.859513
 917025,GFDC,License,"Palacios Molina, Carlos",brooklyn,11228,Brooklyn 20,0,0,0,4,12,16,40.620285,-74.018414
@@ -6911,7 +6911,7 @@ facility_id,program_type,facility_status,facility_name,city,zipcode,school_distr
 886822,GFDC,License,SAFETY 1ST  DAYCARE LLC,BRONX,10462,Bronx 11,0,0,0,0,12,12,40.833481,-73.857073
 884155,GFDC,License,"Peguese, Patricia",Brooklyn,11207,Brooklyn 19,0,0,0,4,12,16,40.671202,-73.886064
 889399,GFDC,License,"Molina, Daysi",New York,10024,Manhattan 3,0,0,0,4,12,16,40.789255,-73.973658
-923944,SACC,Registration,"Boys & Girls Club of Metro Queens, INC.",Richmond Hill,11418,,0,0,0,261,0,261,40.6982,-73.8345
+923944,SACC,Registration,"Boys & Girls Club of Metro Queens, INC.",Richmond Hill,11418,,0,0,0,261,0,261,40.697177,-73.847866
 908944,GFDC,License,"Rojas Tepox, Humberta",EAST ELMHURST,11369,Queens 30,0,0,0,4,12,16,40.762094,-73.873334
 901773,GFDC,License,LITTLE STARS NY DAYCARE LLC,Jackson Heights,11372,Queens 30,0,0,0,4,12,16,40.750408,-73.895409
 897103,GFDC,License,"Chabi Leke, Aminata",Bronx,10453,Bronx 10,0,0,0,4,12,16,40.849116,-73.912337
@@ -6966,7 +6966,7 @@ facility_id,program_type,facility_status,facility_name,city,zipcode,school_distr
 885663,GFDC,License,Elizabeth's Group Family Day Care Corp,Elmhurst,11373,Queens 24,0,0,0,4,12,16,40.745254,-73.871432
 900278,GFDC,License,"Fernandez Almanzar, Roberto",Bronx,10463,Bronx 10,0,0,0,0,12,12,40.876635,-73.900949
 915179,GFDC,License,"Romero Soto, Americo",Bronx,10457,Bronx 9,0,0,0,4,12,16,40.844341,-73.904048
-913334,GFDC,License,EARLY LEADERS,Bronx,10469,Bronx 11,0,0,0,4,12,16,40.8702,-73.8495
+913334,GFDC,License,EARLY LEADERS,Bronx,10469,Bronx 11,0,0,0,4,12,16,40.8256752,-73.8821777
 899146,GFDC,License,LITTLE RAINBOW STARS LLC,Bronx,10473,Bronx 8,0,0,0,4,12,16,40.815752,-73.864345
 888488,GFDC,License,"A CHILD'S DREAM DAYCARE, INC.",Bronx,10459,Bronx 12,0,0,0,4,12,16,40.828084,-73.891056
 913025,GFDC,License,"Santana-Roa, Pedro",Bronx,10472,Bronx 12,0,0,0,4,12,16,40.830918,-73.867248
@@ -7133,7 +7133,7 @@ facility_id,program_type,facility_status,facility_name,city,zipcode,school_distr
 895032,GFDC,License,"Duncan, Juanita",Bronx,10456,Bronx 9,0,0,0,0,12,12,40.837265,-73.911917
 884712,GFDC,License,Little Bambi Daycare Corp.,Brooklyn,11207,Brooklyn 19,0,0,0,4,12,16,40.679385,-73.887536
 892245,FDC,Registration,"Sullivan, Alice",Brooklyn,11236,Brooklyn 18,0,0,0,2,6,8,40.638446,-73.900442
-910510,GFDC,License,"Reyes, Carmen",Bronx,10460,Bronx 12,0,0,0,0,12,12,40.8409,-73.8794
+910510,GFDC,License,"Reyes, Carmen",Bronx,10460,Bronx 12,0,0,0,0,12,12,40.8182622,-73.91611879999999
 897847,GFDC,License,"Lee, Faustina",Brooklyn,11234,Brooklyn 22,0,0,0,4,12,16,40.616988,-73.922479
 914503,GFDC,License,MEP2 LLC,Brooklyn,11203,Brooklyn 17,0,0,0,4,12,16,40.658462,-73.938855
 890797,GFDC,License,Over the Sun DayCare Corp,Bronx,10458,Bronx 10,0,0,0,4,12,16,40.866526,-73.88617
@@ -7248,7 +7248,7 @@ facility_id,program_type,facility_status,facility_name,city,zipcode,school_distr
 893050,GFDC,License,"Medrano, Annabel",Brooklyn,11237,Brooklyn 32,0,0,0,4,12,16,40.693356,-73.905562
 889815,SACC,Registration,Rise Up & Walk Youth Outreach Center Inc,Brooklyn,11207,Brooklyn 32,0,0,0,231,0,231,40.693294,-73.908361
 918685,GFDC,License,"Chavez Shagnay, Jessica",Corona,11368,Queens 24,0,0,0,4,12,16,40.751233,-73.8566
-901965,GFDC,License,Lil' learners Clubhouse,Bronx,10467,,0,0,0,2,12,14,40.8737,-73.8712
+901965,GFDC,License,Lil' learners Clubhouse,Bronx,10467,,0,0,0,2,12,14,40.8797063,-73.8761823
 901186,GFDC,License,"Vasquez, Claudia",New York,10034,Manhattan 6,0,0,0,4,12,16,40.864504,-73.920614
 920472,GFDC,License,"Ventura, Ramon",Bronx,10472,Bronx 12,0,0,0,4,12,16,40.833124,-73.872305
 907594,GFDC,License,"Lezer, Hinda",Brooklyn,11204,Brooklyn 20,0,0,0,4,12,16,40.633126,-73.982633
@@ -7318,7 +7318,7 @@ facility_id,program_type,facility_status,facility_name,city,zipcode,school_distr
 908641,GFDC,License,Ms. Linda's Little Explorers Daycare LLC,Staten Island,10314,Richmond 31,0,0,0,4,12,16,40.615001,-74.120003
 900092,GFDC,License,KOSE AND FRIENDS INC.,Brooklyn,11236,Brooklyn 18,0,0,0,4,12,16,40.641536,-73.892809
 901275,FDC,Registration,"Mateo, Michel",New York,10030,Manhattan 5,0,0,0,2,6,8,40.821078,-73.940211
-914807,GFDC,License,Luna Garden 2 Group Family Daycare Corp,Bronx,10460,,0,0,0,4,12,16,40.8409,-73.8794
+914807,GFDC,License,Luna Garden 2 Group Family Daycare Corp,Bronx,10460,,0,0,0,4,12,16,40.8447004,-73.8878819
 913982,SACC,Registration,LULOLUX DAYCARE PROGRAM LLC,bronx,10468,Bronx 10,0,0,0,33,0,33,40.869263,-73.893568
 892714,GFDC,License,Dreamy Days Group Family Day Care,Bronx,10453,Bronx 9,0,0,0,0,10,10,40.848531,-73.910394
 911337,SACC,Registration,"Right at School, LLC",Brooklyn,11218,Brooklyn 15,0,0,0,50,0,50,40.643884,-73.979457
@@ -7361,7 +7361,7 @@ facility_id,program_type,facility_status,facility_name,city,zipcode,school_distr
 897734,GFDC,License,"Rodgers, Deyarina",Bronx,10473,Bronx 8,0,0,0,4,12,16,40.81426,-73.862066
 915481,GFDC,License,GENUINE HEARTS DAYCARE L.L.C,Brooklyn,11236,Brooklyn 18,0,0,0,4,12,16,40.634179,-73.891724
 884043,GFDC,License,Annalise Daycare 2 WD LLC,Bronx,10453,Bronx 10,0,0,0,4,12,16,40.854652,-73.907898
-912295,GFDC,License,Chichi's Little Stars LLC,Richmond Hill,11418,,0,0,0,4,12,16,40.6982,-73.8345
+912295,GFDC,License,Chichi's Little Stars LLC,Richmond Hill,11418,,0,0,0,4,12,16,40.6924948,-73.84195509999999
 915185,GFDC,License,Golden Educational Intervention Services Inc,Brooklyn,11236,Brooklyn 18,0,0,0,4,12,16,40.641227,-73.906701
 900218,GFDC,License,"Arias, Helen",Bronx,10466,Bronx 11,0,0,0,2,12,14,40.895051,-73.857587
 883952,GFDC,License,LIL CUBS GROUP FAMILY DAYCARE CORP.,Bronx,10462,Bronx 8,0,0,0,4,12,16,40.831,-73.846075
@@ -7455,7 +7455,7 @@ facility_id,program_type,facility_status,facility_name,city,zipcode,school_distr
 884506,GFDC,License,"Hamilton, Lateefah",Rosedale,11422,Queens 29,0,0,0,4,12,16,40.657359,-73.733716
 914616,GFDC,License,"Rosario, Ianna",Bronx,10452,Bronx 9,0,0,0,2,12,14,40.836187,-73.918138
 895505,GFDC,License,GROWING TOGETHER BRONX DAYCARE INC.,Bronx,10458,Bronx 10,0,0,0,0,8,8,40.865552,-73.887821
-921139,GFDC,License,"Figuereo De La Rosa, Denisi",Bronx,10452,,0,0,0,0,10,10,40.8376,-73.9216
+921139,GFDC,License,"Figuereo De La Rosa, Denisi",Bronx,10452,,0,0,0,0,10,10,40.8447819,-73.8648268
 904460,SACC,Registration,"Right at School, LLC",Brooklyn,11231,Brooklyn 15,0,0,0,65,0,65,40.677102,-74.011444
 918562,GFDC,License,Juddy Daycare Corp.,Staten Island,10305,Richmond 31,0,0,0,4,12,16,40.601515,-74.078831
 886890,GFDC,License,Titi Loren Group Family Daycare LLC,Bronx,10472,Bronx 12,0,0,0,4,12,16,40.829629,-73.882129
@@ -7493,9 +7493,9 @@ facility_id,program_type,facility_status,facility_name,city,zipcode,school_distr
 916185,GFDC,License,Bloomed Stars Daycare LLC,New York,10040,Manhattan 6,0,0,0,2,12,14,40.852289,-73.927514
 906596,GFDC,License,"Blau, Yocheved",brooklyn,11204,Brooklyn 20,0,0,0,4,12,16,40.625882,-73.981807
 896146,GFDC,License,BRIGHT WORLD DAYCARE INC.,Bronx,10452,Bronx 9,0,0,0,4,12,16,40.841092,-73.926026
-905340,GFDC,License,"Hodge, Thalia",Springfield Gardens,11413,Queens 29,0,0,0,4,12,16,40.6645,-73.7559
+905340,GFDC,License,"Hodge, Thalia",Springfield Gardens,11413,Queens 29,0,0,0,4,12,16,40.6640496,-73.7685614
 887387,SACC,Registration,Heaven's Tiny Tots Family Enrichment Center Corp,Bronx,10472,Bronx 12,0,0,0,40,0,40,40.830378,-73.87245
-910710,FDC,Registration,"Konde, Saran",New York,10030,,0,0,0,0,6,6,40.8183,-73.9426
+910710,FDC,Registration,"Konde, Saran",New York,10030,,0,0,0,0,6,6,40.7127753,-74.0059728
 885666,GFDC,License,MAH TOVI INC,Brooklyn,11219,Brooklyn 15,0,0,0,4,12,16,40.635292,-73.990787
 918790,GFDC,License,Prince Ofumaka Familly Daycare,Brooklyn,11233,Brooklyn 23,0,0,0,4,12,16,40.673526,-73.914902
 898394,GFDC,License,"Z'S FAMILY DAY CARE, INC",Richmond Hill,11418,Queens 28,0,0,0,4,12,16,40.698832,-73.825365
@@ -7505,7 +7505,7 @@ facility_id,program_type,facility_status,facility_name,city,zipcode,school_distr
 904298,GFDC,License,Mamita Day Care Corp.,Bronx,10468,Bronx 10,0,0,0,4,12,16,40.860977,-73.904649
 904077,GFDC,License,"Tavarez, Betania",Bronx,10468,Bronx 10,0,0,0,4,12,16,40.871034,-73.900211
 889409,GFDC,License,"Del Rosario De Tejeda, Indhira",Rego Park,11374,Queens 28,0,0,0,4,12,16,40.725757,-73.857836
-924499,GFDC,License,"Hernandez, Roslyn",Whitestone,11357,Queens 25,0,0,0,4,12,16,40.7851,-73.8096
+924499,GFDC,License,"Hernandez, Roslyn",Whitestone,11357,Queens 25,0,0,0,4,12,16,40.7920449,-73.8095574
 888039,GFDC,License,SUNFLOWER GROUP DAY CARE INC.,bronx,10472,Bronx 12,0,0,0,4,12,16,40.833833,-73.869915
 909973,SACC,Registration,Brooklyn United Music and Arts Development Center,Brooklyn,11233,Brooklyn 23,0,0,0,50,0,50,40.680501,-73.910331
 903015,GFDC,License,"Lin, Li Qiang",Brooklyn,11229,Brooklyn 22,0,0,0,4,12,16,40.601033,-73.943778
@@ -7582,7 +7582,7 @@ facility_id,program_type,facility_status,facility_name,city,zipcode,school_distr
 886282,GFDC,License,"BRIGHT LEADERS CHILDCARE, LLC",Bronx,10452,Bronx 9,0,0,0,0,10,10,40.84155,-73.920721
 901441,GFDC,License,Live Laugh Love Daycare,Staten Island,10304,Richmond 31,0,0,0,0,10,10,40.628474,-74.075742
 898204,GFDC,License,"Wilkerson, Krystal",Bronx,10465,Bronx 8,0,0,0,0,12,12,40.817581,-73.814671
-906668,GFDC,License,"Lewis, Joshua",Queens Village,11429,,0,0,0,4,12,16,40.709,-73.7401
+906668,GFDC,License,"Lewis, Joshua",Queens Village,11429,,0,0,0,4,12,16,40.7203144,-73.7326482
 905183,GFDC,License,CONCOURSE KIDS DAYCARE LLC,Bronx,10452,Bronx 9,0,0,0,4,12,16,40.842319,-73.912583
 918738,GFDC,License,"Hernandez De Soriano, Yerainy",Bronx,10456,Bronx 9,0,0,0,2,8,10,40.837183,-73.903167
 887607,GFDC,License,BRACHA'S  GROUP FAMILY DAYCARE LLC,Flushing,11367,Queens 25,0,0,0,4,12,16,40.72614,-73.824253
@@ -7629,7 +7629,7 @@ facility_id,program_type,facility_status,facility_name,city,zipcode,school_distr
 906821,SACC,Registration,CAMBA,Brooklyn,11210,Brooklyn 22,0,0,0,175,0,175,40.637164,-73.936885
 917339,GFDC,License,Gan Chayolei Hamelech Inc.,Brooklyn,11213,Brooklyn 17,0,0,0,4,12,16,40.667205,-73.931953
 895404,GFDC,License,PEQUENOS  TESOROS DAYCARE LLC,Corona,11368,Queens 24,0,0,0,4,12,16,40.749869,-73.858124
-892551,SACC,Registration,Vision Ed Inc,Brooklyn,11233,,0,0,0,97,0,97,40.6784,-73.9211
+892551,SACC,Registration,Vision Ed Inc,Brooklyn,11233,,0,0,0,97,0,97,40.74033499999999,-73.987443
 904414,GFDC,License,"Vivas, Aleczi",Bronx,10459,Bronx 12,0,0,0,4,12,16,40.82159,-73.900636
 904974,FDC,Registration,"Rodriguez, Miriam",Bronx,10455,Bronx 7,0,0,0,2,6,8,40.818175,-73.903399
 918937,GFDC,License,HAPPY SMILEY UNICORN INC.,HOWARD BEACH,11414,Queens 27,0,0,0,4,12,16,40.657661,-73.84607
@@ -7700,11 +7700,11 @@ facility_id,program_type,facility_status,facility_name,city,zipcode,school_distr
 889235,GFDC,License,LITTLE DREAMERS 2,Bronx,10467,Bronx 11,0,0,0,4,12,16,40.884343,-73.865657
 899061,GFDC,License,WD ORCHIDS DAYCARE CORPORATION,Bronx,10458,Bronx 10,0,0,0,4,12,16,40.869248,-73.884139
 907654,FDC,Registration,"Waring, Joanne",Bronx,10458,Bronx 10,0,0,0,1,6,7,40.856402,-73.895291
-901758,GFDC,License,"Crump, Celina",Jamaica,11420,,0,0,0,4,12,16,40.6744,-73.819
+901758,GFDC,License,"Crump, Celina",Jamaica,11420,,0,0,0,4,12,16,40.7037439,-73.7991953
 885240,GFDC,License,"Lopez, Denia",Bronx,10457,Bronx 9,0,0,0,4,12,16,40.842663,-73.911757
 906288,GFDC,License,"Guerrero Taveras, Juan",Bronx,10466,Bronx 11,0,0,0,4,12,16,40.88311,-73.848318
 888084,GFDC,License,"Nunez Manzueta, Clara",Woodhaven,11421,Queens 27,0,0,0,4,12,16,40.694895,-73.856258
-920206,GFDC,License,"Guerrero Taveras, Yeleissi",Bronx,10467,Bronx 11,0,0,0,4,12,16,40.8737,-73.8712
+920206,GFDC,License,"Guerrero Taveras, Yeleissi",Bronx,10467,Bronx 11,0,0,0,4,12,16,40.8447819,-73.8648268
 897247,GFDC,License,DREAM WORLD GROUP FAMILY DAY CARE INC.,Staten Island,10302,Richmond 31,0,0,0,0,10,10,40.637785,-74.130433
 920007,GFDC,License,"Contreras, Genesis",Brooklyn,11208,Brooklyn 19,0,0,0,4,12,16,40.683521,-73.878065
 909894,GFDC,License,"Cuevas Almanzar, Yaquelin",Springfield Gardens,11434,Queens 27,0,0,0,4,12,16,40.672779,-73.779414
