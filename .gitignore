@@ -10,3 +10,7 @@ __pycache__/
 
 # Jupyter
 .ipynb_checkpoints/
+
+
+#add all unwanted files and folders here
+drafts/
