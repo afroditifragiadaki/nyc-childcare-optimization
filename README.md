@@ -15,35 +15,44 @@ Demand classification (High vs. Normal) is based on average household income and
 
 ## Optimization Model
 
-The model decides, for each of the 179 desert zip codes, how to allocate new capacity at minimum cost by choosing:
+The problem is modelled in two parts. Both tasks share the same two levers — expand existing facilities or build new ones — and minimize total cost: expansion cost + construction cost + equipment surcharge ($100/slot for every 0–5 slot added).
 
-- **Expand existing facilities** — add 0–5 or 5–12 slots to existing regulated facilities (two-tier cost structure based on expansion size relative to current capacity)
-- **Build new facilities** — construct new Small (100 slots), Medium (200 slots), or Large (400 slots) facilities
+### Task 1 — Simplified Model
 
-The objective minimizes total cost: expansion cost + construction cost + equipment surcharge ($100/slot for every 0–5 slot added).
+A baseline MILP with an uncapped, two-tier expansion cost structure and no spatial constraints on new facility placement.
 
-**Result:** Minimum cost to eliminate all 179 deserts — **$166,924,983**
+### Task 2 — Realistic Model
 
-| Component | Cost |
-|---|---|
-| Expansion | $62,116,283 |
-| Construction (608 large, 2 medium, 1 small) | $70,175,000 |
-| Equipment surcharge | $34,633,700 |
+Extends Task 1 with two additional constraints that reflect real-world limitations:
+
+- **Piecewise non-continuous expansion costs** — facilities are capped at 20% capacity growth; the entire expansion is priced at a higher per-slot rate as it crosses each tier boundary (10%, 15%, 20% of current capacity)
+- **Minimum distance constraint** — new facilities must be at least 0.06 miles apart (Haversine distance), preventing unrealistic clustering
+
+## Results
+
+| Component | Task 1 | Task 2 |
+|---|---|---|
+| Expansion | $62,116,283 | $6,715,728 |
+| Construction | $70,175,000 (608 large, 2 medium, 1 small) | $190,030,000 (1,636 large, 11 medium, 13 small) |
+| Equipment surcharge | $34,633,700 | $34,633,700 |
+| **Total** | **$166,924,983** | **$231,379,428** |
 
 ## Repository Structure
 
 ```
 ├── Task 1/
-│   ├── EDA.ipynb                    # Exploratory data analysis
-│   └── Optimization_modelling.ipynb # Desert identification + optimization model
+│   ├── EDA.ipynb                        # Exploratory data analysis
+│   └── Optimization_modelling.ipynb     # Desert identification + optimization model
 ├── Task 2/
 │   ├── EDA-2.ipynb
-│   └── Optimization_modelling_2.ipynb
+│   └── Optimization_modelling_2_v2.ipynb
 ├── data/
-│   ├── raw_data/                    # Source datasets (population, facilities, income, employment)
-│   ├── task_1/                      # Preprocessed data for Task 1
-│   ├── task_2/                      # Preprocessed data for Task 2
-│   └── results/                     # Optimization outputs (summary, per-zip, per-facility)
+│   ├── raw_data/                        # Source datasets (population, facilities, income, employment)
+│   ├── task_1/                          # Preprocessed data for Task 1
+│   ├── task_2/                          # Preprocessed data for Task 2
+│   └── results/                         # Optimization outputs (summary, per-zip, per-facility)
+├── Report/
+│   └── Final_Report_Group29.pdf         # Final written report
 ├── IEOR4004_ProjectI_Description.pdf
 └── IEOR4004_ProjectI_FactSheet.pdf
 ```
